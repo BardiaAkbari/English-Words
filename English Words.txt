@@ -298,3 +298,5 @@ criticize -> to censure or find fault with / to judge or discuss the merits and 
 pioneer -> a person who is among those who first enter or settle a region, thus opening it for occupation and development by others
 
 strip -> to deprive of covering
+
+characteristics ->distinguishing quality; trait, attribute
