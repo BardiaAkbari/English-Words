@@ -215,6 +215,8 @@ embed -> to fix into a surrounding mass
 
 merely -> only as specified and nothing more; simply
 
+aspect -> appearance to the eye or mind; look / nature; quality; character
+
 stretch -> to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by out) / to hold out, reach forth, or extend (one's arm, head, etc.)
 
 enhance -> to raise to a higher degree; intensify; magnify
@@ -338,3 +340,28 @@ Mediator -> intervener; peacemaker, neutral reconciliator; one who mediates
 reconciling -> to cause (people) to become friendly again, eg after they have quarrelled
 
 Assess -> to estimate or judge the quality or quantity of
+
+depreciate -> to reduce the purchasing value of (money) / to lessen the value or price of
+
+resemble -> to be like or similar to
+
+dense -> having the component parts closely compacted together; crowded or compact
+
+altitude -> the height of anything above a given planetary reference plane, especially above sea level on earth
+
+glance -> to look quickly or briefly.
+
+adherence -> the quality of adhering; steady devotion, support, allegiance, or attachment
+
+integrity -> adherence to moral and ethical principles; soundness of moral character; honesty
+
+bandwidth -> a range of frequencies within a given band, in particular that used for transmitting a signal
+
+conspicuous -> easily seen or noticed; readily visible or observable
+
+seamless -> smoothly continuous or uniform in quality; combined in an inconspicuous way
+
+vital -> of or relating to life
+
+synthesize -> to form (a material or abstract entity) by combining parts or elements ( analyze )
+
