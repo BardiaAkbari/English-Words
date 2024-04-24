@@ -365,3 +365,14 @@ vital -> of or relating to life
 
 synthesize -> to form (a material or abstract entity) by combining parts or elements ( analyze )
 
+proceed -> to move or go forward or onward, especially after stopping
+
+circumstance -> a condition, detail, part, or attribute, with respect to time, place, manner, agent, etc., that accompanies, determines, or modifies a fact or event; a modifying or influencing factor
+
+aviation -> the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft.
+
+avionics -> the science and technology of the development and use of electrical and electronic devices in aviation
+
+semantic -> of, relating to, or arising from the different meanings of words or other symbols
+
+
