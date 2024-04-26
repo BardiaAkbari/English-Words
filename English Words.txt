@@ -375,4 +375,36 @@ avionics -> the science and technology of the development and use of electrical 
 
 semantic -> of, relating to, or arising from the different meanings of words or other symbols
 
+deceptively -> in a way that tends to mislead or give a false impression
 
+explicit -> fully and clearly expressed or demonstrated; leaving nothing merely implied;
+
+idle -> not working or active; unemployed; doing nothing
+
+increment -> something added or gained; addition; increase
+
+direct -> to manage or guide by advice, helpful information, instruction, etc.
+
+ordain -> to enact or establish by law, edict, etc.
+
+direct -> to give authoritative instructions to; command; order or ordain / to manage or guide by advice, helpful information, instruction, etc
+
+directive -> serving to direct; directing
+
+intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
+
+intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
+
+accumulate -> to gather or collect, often in gradual degrees; heap up
+
+cumulative -> increasing or growing by accumulation or successive additions
+
+opt-out -> to choose not to be part of an activity or to stop being involved in it
+
+distract -> to draw away or divert, as the mind or attention
+
+antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups
+
+hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfriendliness
+
+drawback -> a hindrance or disadvantage; an undesirable or objectionable feature
