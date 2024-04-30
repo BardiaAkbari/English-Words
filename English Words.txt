@@ -475,6 +475,30 @@ spine -> any backbonelike part.
 
 paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord
 
+confine -> to enclose within bounds; limit or restrict
 
+restrict -> to confine or keep within limits, as of space, action, choice, intensity, or quantity
 
+contingent -> dependent for existence, occurrence, character, etc., on something not yet certain; conditional
 
+solely -> exclusively or only
+
+discretion -> the power or right to decide or act according to one's own judgment; freedom of judgment or choice
+
+arbitrary -> subject to individual will or judgment without restriction; contingent solely upon one's discretion
+
+cast -> to throw or hurl; fling
+
+thrust -> to push forcibly; shove; put or drive with force
+
+plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge
+
+immerse -> to plunge into or place under a liquid; dip; sink
+
+deceive -> to mislead by a false appearance or statement; delude
+
+proxy -> the agency, function, or power of a person authorized to act as the deputy or substitute for another	
+
+spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur
+
+essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features
