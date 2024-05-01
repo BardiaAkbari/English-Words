@@ -16,9 +16,9 @@ vigorous -> full of or characterized by vigor
 
 migrate -> to go from one country, region, or place to another
 
-correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc
-
 analogy -> a similarity between like features of two things, on which a comparison may be based
+
+correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc
 
 utility -> the state or quality of being useful; usefulness
 
@@ -502,3 +502,19 @@ proxy -> the agency, function, or power of a person authorized to act as the dep
 spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur
 
 essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features
+
+fraught -> full of, accompanied by, or involving something specified, usually something unpleasant (often followed by with ): her pain-fraught body; a gathering fraught with joyful sounds.
+
+blueprint -> a design plan or other technical drawing. / draw up (a plan or model).
+
+swallow -> to take into the stomach by drawing through the throat and esophagus with a voluntary muscular action, as food, drink, or other substances
+
+devour -> to swallow or eat up hungrily, voraciously, or ravenously.
+
+drain -> to withdraw or draw off (a liquid) gradually; remove slowly or by degrees, as by filtration.
+
+exhaust -> to drain of strength or energy, wear out, or fatigue greatly, as a person.
+
+plague -> an epidemic disease that causes high mortality; pestilence.
+
+
