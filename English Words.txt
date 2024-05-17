@@ -62,15 +62,13 @@ endeavor -> to attempt; try / to exert oneself to do or effect something; make a
 
 imitate -> to follow or endeavor to follow as a model or example
 
-
-
 rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc
 
 stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite
 
 earnest -> serious and zealous in intention, purpose, or effort
 
-invoke -> to call for with earnest desire; make supplication or pray for
+invoke -> to call for with earnest desire; make supplication or pray for / to call on (a deity, Muse, etc.), as in prayer or supplication.
 
 sincere -> genuine; real
 
@@ -595,3 +593,87 @@ devise -> to contrive, plan, or elaborate; invent from existing principles or id
 
 barrier -> anything built or serving to bar passage, as a railing, fence, or the like
 
+interior -> being within; inside of anything; internal; inner; further toward a center
+
+perimeter -> a line bounding or marking off an area
+
+circumference -> the outer boundary, especially of a circular area; perimeter
+
+proportion -> comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio
+
+slender -> having a circumference that is small in proportion to the height or length
+
+stem -> the ascending axis of a plant, whether above or below ground, which ordinarily grows in an opposite direction to the root or descending axis.
+
+shrub -> a woody plant smaller than a tree, usually having multiple permanent stems branching from or near the ground.
+
+stick -> a branch or shoot of a tree or shrub that has been cut or broken off.
+
+bent -> curved; crooked
+
+pliable -> easily bent; flexible; supple
+
+membrane -> Anatomy. a thin, pliable sheet or layer of animal or vegetable tissue, serving to line an organ, connect parts, etc.
+
+alter -> to make different in some particular, as size, style, course, or the like; modify
+
+trait -> a distinguishing characteristic or quality, especially of one's personal nature.
+
+acculturation -> the process of sharing and learning the cultural traits or social patterns of another group.
+
+acculturate -> to alter by acculturation, through sharing and learning the cultural traits or social patterns of another group: Older computer users are hesitant to acculturate to social media communities.
+
+criterion -> a standard of judgment or criticism; a rule or principle for evaluating or testing something.
+
+apparatus ->a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use
+
+appliance -> an instrument, apparatus, or device for a particular purpose or use.
+
+hoist -> to raise or lift, especially by some mechanical appliance
+
+lump -> a piece or mass of solid matter without regular shape or of no particular shape
+
+chunk -> a thick mass or lump of anything
+
+induction -> the act of inducing, bringing about, or causing / the act of inducting; introduction; initiation
+
+remunerate -> to pay, recompense, or reward for work, trouble, etc.
+
+compensate -> to recompense for something
+
+assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver
+
+reciprocal - > given or felt by each toward the other; mutual
+
+mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal
+
+contrary -> opposite in nature or character; diametrically or mutually opposed
+
+substitution -> change
+exchange
+swap
+trade
+
+supervise -> to oversee (a process, work, workers, etc.) during execution or performance;
+
+commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority
+
+outrageous -> of the nature of or involving gross injury or wrong
+
+defamation -> the act of defaming; false or unjustified injury of the good reputation of another, as by slander or libel; calumny
+
+slander -> defamation; calumny
+
+compass -> an instrument for determining directions, as by means of a freely rotating magnetized needle that indicates magnetic north.
+
+discrete -> apart or detached from others; separate; distinct
+
+vertex -> the highest point of something; apex; summit; top
+
+departure -> leave-taking, exit, going, leaving
+
+deviation -> departure from a standard or norm
+
+correlate  -> to place in or bring into mutual or reciprocal relation; establish in orderly connection
+
+propagate -> to cause (an organism) to multiply by any process of natural reproduction from the parent stock
