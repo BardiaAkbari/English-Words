@@ -677,3 +677,19 @@ deviation -> departure from a standard or norm
 correlate  -> to place in or bring into mutual or reciprocal relation; establish in orderly connection
 
 propagate -> to cause (an organism) to multiply by any process of natural reproduction from the parent stock
+
+regulate -> to control or direct by a rule, principle, method, etc.
+
+methodology -> a set or system of methods, principles, and rules for regulating a given discipline, as in the arts or sciences.
+
+stepwise -> in a steplike arrangement
+
+refinement -> fineness or elegance of feeling, taste, manners, language, etc.
+
+constituent -> serving to compose or make up a thing; component
+
+decompose -> to separate or resolve into constituent parts or elements; disintegrate
+
+halt -> to stop; cease moving, operating, etc., either permanently or temporarily
+
+viable -> capable of living
