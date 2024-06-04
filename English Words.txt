@@ -742,4 +742,38 @@ venue -> the scene or locale of any action or event.
 
 allude -> to refer casually or indirectly; make an allusion 
 
+initiative -> an introductory act or step; leading action
 
+empower -> to give power pow power or authority to; authorize, especially by legal or official means
+
+thrilled -> feeling very pleased or happily excited; delighted.
+
+solid -> having three dimensions (length, breadth, and thickness), as a geometrical body or figure.
+
+prohibited -> forbidden by authority or law
+
+hostile -> of, relating to, or characteristic of an enemy
+
+unanimous -> of one mind; in complete agreement; agreed
+
+accord -> to be in agreement or harmony; agree.
+
+concord -> agreement between persons, groups, nations, etc.; concurrence in attitudes, feelings, etc.; unanimity; accord
+
+discord -> lack of concord or harmony between persons or things
+
+antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups
+
+bitter -> having a harsh, disagreeably acrid taste, like that of aspirin,
+
+strife -> vigorous or bitter conflict, discord, or antagonism
+
+contention -> a struggling together in opposition; strife
+
+dispute -> to engage in argument or debate
+
+prolonged -> lasting a long time; lengthy
+
+controversy -> a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion
+
+jurisdiction -> the right, power, or authority to administer justice by hearing and determining controversies.
