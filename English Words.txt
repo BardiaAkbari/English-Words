@@ -479,6 +479,8 @@ restrict -> to confine or keep within limits, as of space, action, choice, inten
 
 contingent -> dependent for existence, occurrence, character, etc., on something not yet certain; conditional
 
+sole -> being the only one of the kind
+
 solely -> exclusively or only
 
 discretion -> the power or right to decide or act according to one's own judgment; freedom of judgment or choice
@@ -818,4 +820,22 @@ neutral -> not taking part or giving assistance in a dispute or war between othe
 
 legitimate -> according to law; lawful
 
+partial -> being such in part only; not total or general; incomplete: a partial payment of a debt.
 
+abate -> to reduce in amount, degree, intensity, etc.; lessen; diminish: to abate one's enthusiasm.
+
+subside -> to become quiet, less active, or less violent; abate
+
+sentiment -> an attitude toward something; regard; opinion.
+
+endurance -> the ability or strength to continue or last, especially despite fatigue, stress, or other adverse conditions; stamina
+
+tolerance -> the act or capacity of enduring; endurance
+
+provident -> having or showing foresight; providing providing carefully for the future.
+
+expedient -> tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances
+
+judicious -> using or showing judgment as to action or practical expediency; discreet, prudent, or politic
+
+prudent -> wise or judicious in practical affairs; discreet or circumspect; sagacious; sober.
