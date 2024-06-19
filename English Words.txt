@@ -569,7 +569,13 @@ referential -> having reference / containing a reference
 
 jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, feelings, thoughts, etc.
 
+attain -> to reach, achieve, or accomplish; gain; obtain
+
+quest -> a search or pursuit made in order to find or obtain something
+
 pursuit -> an effort to secure or attain; quest
+
+cleave -> to adhere closely; stick; cling (usually followed by to ). / to remain faithful (usually followed by to )
 
 devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
 
@@ -873,6 +879,23 @@ cordial -> friendly; warm
 unite -> to join, combine, or incorporate so as to form a single whole or unit.
 
 distort -> make crooked or deforme
+
+replicate -> to bend or fold back / to repeat, duplicate, or reproduce, especially for experimental purposes
+
+specify -> to mention or name specifically or definitely; state in detail
+
+specification -> the act of specifying.
+
+imperative -> absolutely necessary or required; unavoidable
+
+applicative -> usable or capable of being used; practical; applicatory.
+
+diametrically -> completely
+
+contrary -> opposite in nature or character; diametrically or mutually opposed
+
+contradict -> to assert the contrary or opposite of; deny directly and categorically.
+
 
 
 
