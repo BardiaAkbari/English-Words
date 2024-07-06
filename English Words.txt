@@ -42,6 +42,8 @@ habitually -> as a habit, or an established way of being or acting; routinely or
 
 pertain -> to have reference or relation; relate
 
+constitute -> to compose; form
+
 characteristic -> Also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive
 
 permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
@@ -930,6 +932,30 @@ endure -> to admit of; allow; bear / to hold out against; sustain without impair
 
 articulate -> capable of speech; not speechless.
 
+vacant -> having no contents; empty; void
 
+inanimate -> not animate; lifeless
 
+crowd -> a large number of persons gathered closely together
 
+commerce -> social relations, especially the exchange of views, attitudes, etc.
+
+treaty -> a formal agreement between two or more states in reference to peace, alliance, commerce, or other international relations.
+
+truce -> an agreement or treaty establishing this.
+
+conciliation -> a method of helping the parties in a dispute to reach agreement, esp divorcing or separating couples to part amicably
+
+mediate -> to bring about (an agreement, accord, truce, peace, etc.) as an intermediary between parties by compromise, reconciliation, removal of misunderstanding, etc.
+
+amicably -> with goodwill; in a friendly or peaceable way
+
+moderate -> kept or keeping within reasonable or proper limits; not extreme, excessive, or intense:
+
+vague -> not clearly or explicitly stated or expressed
+
+notion -> a general understanding; vague or imperfect conception or idea of something
+
+conceive -> to form (a notion, opinion, purpose, etc.)
+
+conception -> the act of conceiving; the state of being conceived.
