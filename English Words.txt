@@ -716,11 +716,17 @@ pile -> Informal. a large number, quantity, or amount of anything
 
 adverse -> unfavorable or antagonistic in purpose or effect
 
+beneath -> below; in or to a lower place, position, state, or the like.
+
 shelter -> something beneath, behind, or within which a person, animal, or thing is protected from storms, missiles, adverse conditions, etc.; refuge.
 
 hive -> a shelter constructed for housing a colony of honeybees; beehive
 
 propriety -> conformity to established standards of good or proper behavior or manners
+
+decency -> the state or quality of being decent.
+
+modesty -> simplicity; moderation / regard for decency of behavior, speech, dress, etc
 
 decent -> conforming to the recognized standard of propriety, good taste, modesty, etc., as in behavior or speech
 
@@ -959,3 +965,74 @@ notion -> a general understanding; vague or imperfect conception or idea of some
 conceive -> to form (a notion, opinion, purpose, etc.)
 
 conception -> the act of conceiving; the state of being conceived.
+
+district -> a region or locality
+
+dissect -> to examine minutely part by part; analyze.
+
+cadaver -> a dead body, especially a human body to be dissected; corpse.
+
+cohere -> to stick together; be united; hold fast, as parts of the same mass
+
+presumption -> assumption of something as true. / belief on reasonable grounds or probable evidence.
+
+helm -> the place or post of control
+
+slack -> not tight, firm, or tense
+
+relentless -> not easing or slackening; maintaining speed, vigor, etc.
+
+rigorously -> in a way that is severely exacting, accurate, careful, and thorough; to a high standard
+
+acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend.
+
+subsequent -> coming after something in time; following.
+
+alumnus -> a graduate or former student of a particular school, college, or university.
+
+offspring -> a person's child or children.
+
+prolific -> (of a plant, animal, or person) producing much fruit or foliage or many offspring.
+
+attire  -> dress, clothes
+
+setback -> problem / difficulty / issue
+
+camaraderie -> mutual trust and friendship among people who spend a lot of time together.
+
+dementia -> brain damage / mental disorder
+
+broad -> of great extent; large
+
+recap -> a brief description of the main points
+
+commutativity -> the fact of always giving the same result whatever order the values are in
+
+associativity  -> when more than two numbers are added or multiplied, the result remains the same, irrespective of how they are 
+grouped
+
+scalar -> a quantity which is completely described by its magnitude—a numerical value and usually a unit.
+
+extract -> to get, pull, or draw out, usually with special effort, skill, or force
+
+hostility -> unfriendliness or opposition.
+
+antagonistic -> showing or feeling active opposition or hostility towards someone or something.
+
+adverse -> unfavorable or antagonistic in purpose or effect
+
+doom -> fate or destiny, especially adverse fate; unavoidable ill fortune
+s
+amplitude -> the vertical distance from the midline of a sine or cosine wave to a maximum or minimum of the wave.
+
+analogy -> a similarity between like features of two things, on which a comparison may be based
+
+wiggle -> to move or go with short, quick, irregular movements from side to side
+
+far-flung -> distant or remote.
+
+rigidly -> in a strict or exacting way.
+
+erect -> rigidly upright or straight.
+
+goosebumps -> a state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect
