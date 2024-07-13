@@ -407,6 +407,8 @@ antagonism -> an active hostility or opposition, as between unfriendly or confli
 
 hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfriendliness
 
+hinder -> to cause delay, interruption, or difficulty in
+
 drawback -> a hindrance or disadvantage; an undesirable or objectionable feature
 
 perceive -> to become aware of, know, or identify by means of the senses
@@ -1050,6 +1052,22 @@ invoice -> an itemized bill for goods sold or services provided, containing indi
 prerequisite -> required beforehand
 
 discrete -> apart or detached from others; separate; distinct
+
+Danceability -> is a measure of how good a song is for dancing on a scale from 0 (terrible) to 1 (perfect).
+
+Acousticness -> is a measure of the lack of electrical amplification on a scale from 0 (no amplification) to 1 (total amplification).
+
+Tempo -> is the average number of beats per minute (BPM). It measures the speed or pace of a song.
+
+Valence -> is a measure of the positivity of a song on a scale from 0 (unhappy) to 1 (extremely happy).
+
+Energy -> is a measure of perceived activity on a scale from 0 (no energy) to 1 (highly energetic). 
+
+Loudness -> is a measure of a song's strength, or amplitude, in decibels (dB).
+
+punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.
+
+
 
 
 
