@@ -1024,7 +1024,7 @@ antagonistic -> showing or feeling active opposition or hostility towards someon
 adverse -> unfavorable or antagonistic in purpose or effect
 
 doom -> fate or destiny, especially adverse fate; unavoidable ill fortune
-s
+
 amplitude -> the vertical distance from the midline of a sine or cosine wave to a maximum or minimum of the wave.
 
 analogy -> a similarity between like features of two things, on which a comparison may be based
@@ -1067,10 +1067,26 @@ Loudness -> is a measure of a song's strength, or amplitude, in decibels (dB).
 
 punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.
 
+flagship -> the best or most important one of a group or system
 
+honing in -> to focus one's attention more narrowly or precisely on a particular task, issue, etc.
 
+on behalf of -> in the interests of (a person, group, or principle). / as a representative of.
 
+alleviate -> to make easier to endure
 
+relieve -> to ease or alleviate (pain, distress, anxiety, need, etc.).
 
+encounter -> to come upon or meet with, especially unexpectedly
 
+affiliated -> being in close formal or informal association; related
 
+infrastructure -> the basic, underlying framework or features of a system or organization
+
+tedious -> too long, slow, or dull
+
+proficient -> very good at doing something especially through practice.
+
+modularity -> the quality of consisting of separate parts that, when combined, form a complete whole
+
+consolidate -> make (something) physically stronger or more solid.
