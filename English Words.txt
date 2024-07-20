@@ -1129,9 +1129,14 @@ symptom -> a physical or mental feature which is regarded as indicating a condit
 
 acquainted -> having met
 
+irritate -> make (someone) annoyed or a little angry.
 
+contentment -> a state of happiness and satisfaction.
 
+purr -> (of a cat) make a low continuous vibratory sound expressing contentment.
 
+temper -> a person's state of mind seen in terms of their being angry or calm.
 
+grumble -> complain about something in a bad-tempered way.
 
-
+grouch -> voice one's discontent ill-temperedly; grumble.
