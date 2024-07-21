@@ -1190,3 +1190,34 @@ mingle -> mix or cause to mix together.
 distort -> give a misleading or false account or impression of.
 
 ambient -> relating to the immediate surroundings of something.
+
+artifact -> an object made by a human being, typically one of cultural or historical interest.
+
+intricate -> very complicated or detailed.
+
+hazard -> a danger or risk. / chance; probability.
+
+deny -> state that one refuses to admit the truth or existence of.
+
+inference > a conclusion reached on the basis of evidence and reasoning.
+
+exploit -> make full use of and derive benefit from (a resource).
+
+adjacent -> close to or near something
+
+miscellaneous -> (of items or people gathered or considered together) of various types or from different sources.
+
+assortment -> a miscellaneous collection of things or people.
+
+criterion -> a standard for judging something
+
+hypotenuse -> the longest side of a right-angled triangle, opposite the right angle.
+
+abruptly -> suddenly and unexpectedly.
+
+skeptical -> not easily convinced; having doubts or reservations.
+
+baffling -> impossible to understand
+
+anticipate -> to look forward to as certain
+
