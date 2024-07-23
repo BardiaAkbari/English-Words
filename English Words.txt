@@ -645,7 +645,7 @@ hoist -> to raise or lift, especially by some mechanical appliance
 
 lump -> a piece or mass of solid matter without regular shape or of no particular shape
 
-chunk -> a thick mass or lump of anything
+chunk -> a thick mass or lump of anything / a thick, solid piece of something.
 
 induction -> the act of inducing, bringing about, or causing / the act of inducting; introduction; initiation
 
@@ -1232,3 +1232,21 @@ opt -> make a choice from a range of possibilities.
 knack -> an acquired or natural skill at doing something.
 
 feat -> an achievement that requires great courage, skill, or strength.
+
+prematurely -> before the due time; ahead of time.
+
+boredom -> the state of feeling bored.
+
+embody -> provide (a spirit) with a physical form.
+
+manifestation -> an event, action, or object that clearly shows or embodies something abstract or theoretical.
+
+versatile -> able to adapt or be adapted to many different functions or activities.
+
+suspense -> a state or feeling of excited or anxious uncertainty about what may happen.
+
+defer -> to delay something until a later time; to postpone.
+
+
+
+
