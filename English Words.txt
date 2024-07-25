@@ -1254,3 +1254,5 @@ eloquently -> in a way that gives a strong, clear message
 distorted -> pulled into or appearing as a strange or unnatural shape, false or wrong
 
 intrinsic  -> being an extremely important and basic characteristic of a person or thing
+
+evolve -> to develop gradually, or to cause something or someone to develop gradually
