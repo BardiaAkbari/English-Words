@@ -1266,3 +1266,20 @@ distorted -> pulled into or appearing as a strange or unnatural shape, false or 
 intrinsic  -> being an extremely important and basic characteristic of a person or thing
 
 evolve -> to develop gradually, or to cause something or someone to develop gradually
+
+frontier -> a line or border separating two countries.
+
+illustrious -> well known, respected, and admired for past achievements.
+
+prestigious -> having an illustrious reputation; respected.
+
+aspiration -> a hope or ambition of achieving something.
+
+prominent -> very noticeable, important, or famous
+
+hallucination -> an experience involving the apparent perception of something not present.
+
+plausible -> (of an argument or statement) seeming reasonable or probable.
+
+
+
