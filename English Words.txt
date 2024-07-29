@@ -1281,5 +1281,24 @@ hallucination -> an experience involving the apparent perception of something no
 
 plausible -> (of an argument or statement) seeming reasonable or probable.
 
+hypocrite -> a person who claims or pretends to have certain beliefs about what is right but who behaves in a way that disagrees with those beliefs.
+
+impose -> force (an unwelcome decision or ruling) on someone.
+
+contraption -> a machine or device that appears strange or unnecessarily complicated, and often badly made or unsafe.
+
+resist -> withstand the action or effect of.
+
+rebellious -> showing a desire to resist authority, control, or convention.
+
+trivial -> of little worth or importance
+
+petty -> of little importance; trivial
+
+beam -> (of a light or light source) shine brightly.
+
+conjecture -> an opinion or conclusion formed on the basis of incomplete information.
+
+speculate -> form a theory or conjecture about a subject without firm evidence.
 
 
