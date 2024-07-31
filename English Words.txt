@@ -796,7 +796,7 @@ controversy -> a prolonged public dispute, debate, or contention; disputation co
 
 jurisdiction -> the right, power, or authority to administer justice by hearing and determining controversies.
 
-anticipate -> to realize beforehand; foretaste or foresee, to expect; look forward to; be sure of:
+anticipate -> to realize beforehand; foretaste or foresee, to expect; look forward to; be sure of / regard as probable; expect or predict.
 
 jot -> to write or mark down quickly or briefly (usually followed by down )
 
@@ -1301,4 +1301,33 @@ conjecture -> an opinion or conclusion formed on the basis of incomplete informa
 
 speculate -> form a theory or conjecture about a subject without firm evidence.
 
+horizon -> the line at which the earth's surface and the sky appear to meet.
+
+funky -> (of music) having or using a strong dance rhythm, in particular that of funk.
+
+fallacy -> a mistaken belief, especially one based on unsound arguments.
+
+prostitute -> a person, in particular a woman, who engages in sexual activity for payment.
+
+liable -> responsible by law; legally answerable.
+
+prone -> likely or liable to suffer from, do, or experience something unpleasant or regrettable.
+
+breed -> a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection.
+
+deliberate -> done consciously and intentionally.
+
+discern -> recognize or find out.
+
+defective -> imperfect or faulty.
+
+equidistant -> at equal distances
+
+sphere -> a round solid figure, or its surface, with every point on its surface equidistant from its center.
+
+cavity -> an empty space within a solid object.	
+
+stationary -> standing still; not moving
+
+monetize -> earn revenue from (an asset, business, etc.).
 
