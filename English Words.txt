@@ -34,7 +34,7 @@ modularity -> the use of individually distinct functional units, as in assemblin
 
 audit -> an official examination and verification of accounts and records, especially of financial accounts
 
-bind -> to fasten or secure with a band or bond
+bind -> to fasten or secure with a band or bond / tie or fasten (something) tightly together.
 
 establish -> to found, institute, build, or bring into being on a firm or stable basis
 
@@ -1366,3 +1366,23 @@ commemorate -> recall and show respect for (someone or something).
 monument -> a statue, building, or other structure erected to commemorate a notable person or event.
 
 pillar -> a tall vertical structure of stone, wood, or metal, used as a support for a building, or as an ornament or monument.
+
+pursue -> follow or chase (someone or something).
+
+sanctuary -> refuge or safety from pursuit, persecution, or other danger.
+
+circumference -> the distance around something.
+
+coop -> a cage or pen in which poultry are kept.
+
+myriad -> a countless or extremely great number of people or things.
+
+lingua franca -> a language that is adopted as a common language between speakers whose native languages are different.
+
+superb -> very good; excellent.
+
+opinionated person -> certain about their beliefs, and expresses their ideas strongly and often
+
+decorate -> make (something) look more attractive by adding extra items or images to it.
+
+singleton -> a single person or thing of the kind under consideration.
