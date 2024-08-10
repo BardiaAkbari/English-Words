@@ -317,7 +317,7 @@ corruption -> dishonesty; immorality; decay
 
 substitute -> to put in, or to take, the place of someone or something else
 
-Intercept -> to stop or catch (a person, thing etc ) before he, it etc arrives at the place to which he, it etc is going, being sent etc
+intercept -> to stop or catch (a person, thing etc ) before he, it etc arrives at the place to which he, it etc is going, being sent etc
 
 profess -> to state or declare openly / to claim or pretend
 
@@ -1404,6 +1404,24 @@ constitution -> a body of fundamental principles or established precedents accor
 intangible -> unable to be touched; not having physical presence.
 
 reside -> have one's permanent home in a particular place.
+
+deprecate -> express disapproval of.
+
+controversial -> causing much discussion, disagreement.
+
+synthesis -> the combination of components or elements to form a connected whole.
+
+synthetic -> (of a substance) made by chemical synthesis, especially to imitate a natural product.
+
+hollow -> having a hole or empty space inside.
+
+receptacle -> a hollow object used to contain something.
+
+delve -> reach inside a receptacle and search for something.
+
+lexical -> relating to the words or vocabulary of a language.
+
+
 
 
 
