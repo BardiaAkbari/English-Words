@@ -916,7 +916,7 @@ reflecting on -> Consider or think carefully about
 
 one cannot help but marvel at -> it is impossible not to feel a sense of admiration or wonder when considering something
 
-sophistication -> change from the natural character or simplicity, or the resulting condition. / complexity, as in design or organization.
+sophistication -> complexity, as in design or organization.
 
 refine -> to bring to a fine or a pure state; free from impurities
 
@@ -1421,8 +1421,23 @@ delve -> reach inside a receptacle and search for something.
 
 lexical -> relating to the words or vocabulary of a language.
 
+cumbersome -> large or heavy and therefore difficult to carry or use.
 
+susceptible -> likely or liable to be influenced or harmed by a particular thing.
 
+worrisome -> causing anxiety or concern.
 
+credibility -> the quality of being trusted and believed in.
 
+hypothetical -> imagined or suggested, but perhaps not true or really happening
+
+verdict -> an opinion or judgement.
+
+insidiously -> in a gradual, subtle way, but with harmful effects.
+
+undermine -> lessen the effectiveness, power, or ability of, especially gradually or insidiously.
+
+impeccable -> in accordance with the highest standards; faultless.
+
+drastic -> likely to have a strong or far-reaching effect; radical and extreme.
 
