@@ -118,18 +118,9 @@ minuteness -> narrowness
 
 elaborate -> worked out with great care and nicety of detail; executed with great minuteness
 
-perception -> approach,
-attention,
-attitude,
-awareness,
-concept,
-consciousness
+perception -> approach, attention, attitude, awareness, concept, consciousness
 
-dull -> boring,
-dim,
-dumb,
-simple,
-slow
+dull -> boring, dim, dumb, simple, slow
 
 obtuse -> not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull
 
@@ -1440,4 +1431,48 @@ undermine -> lessen the effectiveness, power, or ability of, especially graduall
 impeccable -> in accordance with the highest standards; faultless.
 
 drastic -> likely to have a strong or far-reaching effect; radical and extreme.
+
+retrieve -> get or bring (something) back from somewhere.
+
+forum -> a meeting or medium where ideas and views on a particular issue can be exchanged.
+
+threshold -> a level, point, or value above which something is true or will take place and below which it is not or will not.
+
+alias -> used to indicate that a named person is also known or more familiar under another specified name.
+
+hone -> refine or perfect (something) over a period of time.
+
+proportional -> corresponding in size or amount to something else.
+
+glimpse -> a momentary or partial view.
+
+lid -> a removable or hinged cover for the top of a container.
+
+astronomical -> relating to astronomy. / (of an amount) extremely large.
+
+legitimately -> in a way that conforms to the law or to rules.
+
+versatile -> able to adapt or be adapted to many different functions or activities.
+
+deduce -> arrive at (a fact or a conclusion) by reasoning; draw as a logical conclusion.
+
+infer -> deduce or conclude (something) from evidence and reasoning rather than from explicit statements.
+
+tremendous -> very great in amount, scale, or intensity.
+
+inevitable -> certain to happen; unavoidable.
+
+abundance -> a very large quantity of something.
+
+mitigate -> make (something bad) less severe, serious, or painful.
+
+labor -> work, especially physical work.
+
+cushion -> a bag of cloth stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.
+
+rational -> based on or in accordance with reason or logic.
+
+disposal -> the action or process of getting rid of something. / access
+
+dilemma -> a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.
 
