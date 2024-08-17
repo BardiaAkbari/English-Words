@@ -400,6 +400,8 @@ hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfrie
 
 hinder -> to cause delay, interruption, or difficulty in
 
+hindrance -> a thing that provides resistance, delay, or obstruction to something or someone.
+
 drawback -> a hindrance or disadvantage; an undesirable or objectionable feature
 
 perceive -> to become aware of, know, or identify by means of the senses
@@ -1475,4 +1477,20 @@ rational -> based on or in accordance with reason or logic.
 disposal -> the action or process of getting rid of something. / access
 
 dilemma -> a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.
+
+extrapolate -> extend (a graph, curve, or range of values) by inferring unknown values from trends in the known data.
+
+converge -> (of lines) tend to meet at a point.
+
+divergent -> tending to be different or develop in different directions.
+
+monologue -> a long speech by one actor in a play or film, or as part of a theatrical or broadcast program.
+
+hypothesis -> an assumption, an idea that is proposed for the sake of argument so that it can be tested to see if it might be true.
+
+bizarre -> very strange or unusual.
+
+insurmountable -> too great to be overcome.
+
+surveillance -> close observation, especially of a suspected spy or criminal.
 
