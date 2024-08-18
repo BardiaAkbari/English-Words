@@ -100,6 +100,8 @@ possess -> to have as belonging to one; have as property; own
 
 enrich -> to supply with riches, wealth, abundant or valuable possessions
 
+convenience -> convenience
+
 facility -> something designed, built, installed, etc., to serve a specific function affording a convenience or service
 
 redundant -> exceeding what is needed or useful; superfluous
@@ -404,8 +406,6 @@ hindrance -> a thing that provides resistance, delay, or obstruction to somethin
 
 drawback -> a hindrance or disadvantage; an undesirable or objectionable feature
 
-perceive -> to become aware of, know, or identify by means of the senses
-
 faculty -> an ability, natural or acquired, for a particular kind of action
 
 guardian -> a person who guards, protects, or preserves
@@ -418,7 +418,7 @@ guardianship -> the position and responsibilities of a guardian, especially towa
 
 custody -> keeping; guardianship; care
 
-apprehend -> to take into custody; arrest by legal warrant or authority
+apprehend -> to take into custody; arrest by legal warrant or authority / understand
 
 perceive -> to become aware of, know, or identify by means of the senses
 
@@ -427,8 +427,6 @@ perception -> the act or faculty of perceiving, or apprehending by means of the 
 acute -> sharp or severe in effect; intense
 
 hone -> to make more acute or effective; improve; perfect
-
-credulous
 
 sufficient -> acceptable,
 ample,
@@ -496,7 +494,7 @@ deceive -> to mislead by a false appearance or statement; delude
 
 proxy -> the agency, function, or power of a person authorized to act as the deputy or substitute for another	
 
-spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur
+spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur /  relating to, occupying, or having the character of space
 
 essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features
 
@@ -519,6 +517,8 @@ hard
 harshly
 restrictively
 tyrannically
+
+onerous -> (of a task or responsibility) involving a great deal of effort, trouble, or difficulty.
 
 burdensome -> oppressively heavy; onerous
 
@@ -878,6 +878,8 @@ flourish -> to be in a vigorous state; thrive
 dispense -> to deal out; distribute
 
 cordial -> friendly; warm
+
+incorporate -> take in or contain (something) as part of a whole; include.
 
 unite -> to join, combine, or incorporate so as to form a single whole or unit.
 
@@ -1494,3 +1496,34 @@ insurmountable -> too great to be overcome.
 
 surveillance -> close observation, especially of a suspected spy or criminal.
 
+multitude -> a large number of people or things.
+
+justification -> the action of showing something to be right or reasonable.
+
+stir -> a slight physical movement. / move a spoon or other implement round in (a liquid or other substance) in order to mix it thoroughly.
+
+tilt -> move or cause to move into a sloping position.
+
+fluctuation -> an irregular rising and falling in number or amount; a variation.
+
+innate -> inborn; natural.
+
+gist -> the substance or general meaning of a speech or text.
+
+negligible -> so small or unimportant as to be not worth considering; insignificant.
+
+footing -> the basis on which something is established or operates.
+
+precede -> come before (something) in time.
+
+loose -> lacking moral restraint or integrity
+
+gratitude -> the quality of being thankful; readiness to show appreciation for and to return kindness.
+
+tribute -> an act, statement, or gift that is intended to show gratitude, respect, or admiration.
+
+summon -> order (someone) to be present.
+
+domesticate -> tame (an animal) and keep it as a pet or on a farm.
+
+apocalypse -> the complete final destruction of the world / 
