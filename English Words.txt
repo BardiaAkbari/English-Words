@@ -1550,5 +1550,32 @@ mock -> make (something) seem laughably unreal or impossible.
 
 casualty -> a person killed or injured in a war or accident.
 
+bare -> (of a person or part of the body) not clothed or covered.
 
+insist -> demand something forcefully, not accepting refusal.
 
+proponent -> a person who advocates a theory, proposal, or course of action.
+
+modality -> a particular mode in which something exists or is experienced or expressed.
+
+scrutiny -> critical observation or examination.
+
+martyr -> a person who is killed because of their religious or other beliefs.
+
+gaze -> look steadily and intently, especially in admiration, surprise, or thought.
+
+forensic -> relating to or denoting the application of scientific methods and techniques to the investigation of crime.
+
+divisive -> tending to cause disagreement or hostility between people.
+
+testify -> give evidence as a witness in a law court.
+
+incident -> an instance of something happening; an event or occurrence.
+
+anecdote -> a short amusing or interesting story about a real incident or person.
+
+depict -> represent by a drawing, painting, or other art form.
+
+affirm -> state emphatically or publicly.
+
+proclaim -> announce officially or publicly.
