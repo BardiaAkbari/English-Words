@@ -1600,3 +1600,14 @@ allegation -> a claim or assertion that someone has done something illegal or wr
 
 scent -> a distinctive smell, especially one that is pleasant.
 
+drifter -> a person who is continually moving from place to place, without any fixed home or job.
+
+shiver -> shake slightly and uncontrollably as a result of being cold, frightened, or excited.
+
+slang -> a type of language that consists of words and phrases that are regarded as very informal, are more common in speech than writing, and are typically restricted to a particular context or group of people.
+
+falter -> start to lose strength or momentum.
+
+moonlit -> lit by the moon.
+
+creep -> move slowly and carefully in order to avoid being heard or noticed.
