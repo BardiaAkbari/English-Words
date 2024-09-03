@@ -468,7 +468,7 @@ spine -> any backbonelike part.
 
 paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord
 
-confine -> to enclose within bounds; limit or restrict
+confine -> to enclose within bounds; limit or restrict / keep or restrict someone or something within certain limits of (space, scope, or time).
 
 restrict -> to confine or keep within limits, as of space, action, choice, intensity, or quantity
 
@@ -625,6 +625,8 @@ alter -> to make different in some particular, as size, style, course, or the li
 trait -> a distinguishing characteristic or quality, especially of one's personal nature.
 
 acculturation -> the process of sharing and learning the cultural traits or social patterns of another group.
+
+hesitation -> the action of pausing before saying or doing something.
 
 acculturate -> to alter by acculturation, through sharing and learning the cultural traits or social patterns of another group: Older computer users are hesitant to acculturate to social media communities.
 
@@ -1660,4 +1662,28 @@ lackluster -> lacking in vitality, force, or conviction; uninspired or uninspiri
 
 unwind -> relax after a period of work or tension.
 
-make a serious, urgent, or heartfelt request.
+heartfelt -> (of a feeling or its expression) deeply and strongly felt; sincere.
+
+appeal -> make a serious, urgent, or heartfelt request.
+
+fluctuation -> an irregular rising and falling in number or amount; a variation.
+
+clumsily -> in an awkward and careless way.
+
+tumble -> fall suddenly or clumsily.
+
+prospect -> the possibility or likelihood of some future event occurring.
+
+culminate -> reach a climax or point of highest development.
+
+acutely -> (with reference to something unpleasant or unwelcome) intensely.
+
+pensione -> a small hotel or boarding house in Italy.
+
+affectionate -> readily feeling or showing fondness or tenderness.
+
+stubborn -> difficult to move, remove, or cure.
+
+gangbuster -> very successful.
+
+stagnant -> showing no activity; dull and sluggish.
