@@ -278,9 +278,9 @@ excel -> to surpass others or be superior in some respect or area; do extremely 
 
 deliberation -> careful consideration before decision / formal consultation or discussion
 
-bestow -> to present as a gift; give; confer (usually followed by on or upon)
-
 confer -> to consult together; compare opinions; carry on a discussion or deliberation / to bestow upon as a gift, favor, honor, etc.
+
+bestow -> to present as a gift; give; confer (usually followed by on or upon)
 
 dubbed -> given a specified name, title, nickname, or other designation
 
@@ -1716,4 +1716,34 @@ gauge -> an instrument that measures and gives a visual display of the amount, l
 
 authentic -> of undisputed origin and not a copy; genuine.
 
+skew  -> neither parallel nor at right angles to a specified or implied line; askew; crooked.
 
+provocative -> causing anger or another strong reaction, especially deliberately.
+
+praise -> express warm approval or admiration of.
+
+applause -> approval or praise expressed by clapping.
+
+reliant -> dependent on someone or something.
+
+attainment -> the action or fact of achieving a goal toward which one has worked.
+
+predominance -> the state or condition of being greater in number or amount.
+
+fiscal -> relating to government revenue, especially taxes.
+
+regress -> return to a former or less developed state.
+
+chaotic -> in a state of complete confusion and disorder.
+
+handicap -> a circumstance that makes progress or success difficult.
+
+advert -> refer to in speaking or writing.
+
+revival -> an improvement in the condition or strength of something.
+
+welfare -> the health, happiness, and fortunes of a person or group.
+
+hereditary -> (of a title, office, or right) conferred by or based on inheritance.
+
+dynasty -> a line of hereditary rulers of a country.
