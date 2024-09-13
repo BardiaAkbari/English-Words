@@ -1747,3 +1747,25 @@ welfare -> the health, happiness, and fortunes of a person or group.
 hereditary -> (of a title, office, or right) conferred by or based on inheritance.
 
 dynasty -> a line of hereditary rulers of a country.
+
+lodging -> a place in which someone lives or stays temporarily.
+
+accommodate -> (of physical space, especially a building) provide lodging or sufficient space for.
+
+riot -> a violent disturbance of the peace by a crowd.
+
+proliferation -> rapid increase in numbers.
+
+crystallize -> make or become definite and clear.
+
+refutation -> the action of proving a statement or theory to be wrong or false.
+
+contradiction -> a combination of statements, ideas, or features of a situation that are opposed to one another.
+
+rebuttal -> a refutation or contradiction.
+
+leisurely -> without hurry.
+
+wander -> walk or move in a leisurely, casual, or aimless way.
+
+sovereign -> a supreme ruler, especially a monarch.
