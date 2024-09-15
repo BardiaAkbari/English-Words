@@ -586,6 +586,8 @@ portable -> capable of being transported or conveyed
 
 inherent -> existing in someone or something as a permanent and inseparable element, quality, or attribute; inhering
 
+fleet -> a group of ships sailing together, engaged in the same activity, or under the same ownership.
+
 swift -> moving or capable of moving with great speed or velocity; fleet; rapid
 
 obsolete -> no longer in general use; fallen into disuse
@@ -1769,3 +1771,31 @@ leisurely -> without hurry.
 wander -> walk or move in a leisurely, casual, or aimless way.
 
 sovereign -> a supreme ruler, especially a monarch.
+
+suffocate -> die or cause to die from lack of air or inability to breathe.
+
+smother -> kill (someone) by covering their nose and mouth so that they suffocate.
+
+bypass -> a road passing around a town or its center to provide an alternative route for through traffic.
+
+mnemonic -> aiding or designed to aid the memory.
+
+serpent -> a large snake.
+
+domain -> an area of territory owned or controlled by a ruler or government.
+
+exclude -> deny (someone) access to or bar (someone) from a place, group, or privilege.
+
+minority -> the smaller number or part, especially a number that is less than half the whole number.
+
+pivotal -> of crucial importance in relation to the development or success of something else.
+
+pervade -> (especially of a smell) spread through and be perceived in every part of.
+
+infuse -> fill; pervade.
+
+vindication -> the action of clearing someone of blame or suspicion.
+
+take for granted -> assume that something is true without questioning it.
+
+fond -> having an affection or liking for.
