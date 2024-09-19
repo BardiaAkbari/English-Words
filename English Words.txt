@@ -424,6 +424,8 @@ perceive -> to become aware of, know, or identify by means of the senses
 
 perception -> the act or faculty of perceiving, or apprehending by means of the senses or of the mind; cognition; understanding
 
+severe -> (of something bad or undesirable) very great; intense.
+
 acute -> sharp or severe in effect; intense
 
 hone -> to make more acute or effective; improve; perfect
@@ -568,9 +570,9 @@ jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, f
 
 attain -> to reach, achieve, or accomplish; gain; obtain
 
-quest -> a search or pursuit made in order to find or obtain something
-
 pursuit -> an effort to secure or attain; quest
+
+quest -> a search or pursuit made in order to find or obtain something
 
 cleave -> to adhere closely; stick; cling (usually followed by to ). / to remain faithful (usually followed by to )
 
@@ -1833,4 +1835,42 @@ coup -> a sudden, violent, and unlawful seizure of power from a government.
 discourse -> written or spoken communication or debate.
 
 agonizing -> causing great physical or mental pain.
+
+lousy -> very poor or bad; disgusting.
+
+distill -> extract the essential meaning or most important aspects of.
+
+benign -> gentle and kindly.
+
+primitive -> relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.
+
+sheer -> nothing other than; 
+
+indulge -> allow oneself to enjoy the pleasure of.
+
+hedonistic -> engaged in the pursuit of pleasure; sensually self-indulgent.
+
+alleviate -> make (suffering, deficiency, or a problem) less severe.
+
+literacy -> the ability to read and write.
+
+psychoactive -> (chiefly of a drug) affecting the mind
+
+revelation -> a surprising and previously unknown fact, especially one that is made known in a dramatic way.
+
+reverence => deep respect for someone or something.
+
+awe -> a feeling of reverential respect mixed with fear or wonder.
+
+emit -> produce and discharge (something, especially gas or radiation).
+
+radiance -> light or heat as emitted or reflected by something.
+
+glow -> a steady radiance of light or heat.
+
+implication -> the conclusion that can be drawn from something although it is not explicitly stated.
+
+
+
+
 
