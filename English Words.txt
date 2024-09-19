@@ -410,7 +410,7 @@ faculty -> an ability, natural or acquired, for a particular kind of action
 
 guardian -> a person who guards, protects, or preserves
 
-district -> a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes
+district -> a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes / a region or locality
 
 ward -> a division or district of a city or town, as for administrative or political purposes 
 
@@ -966,8 +966,6 @@ notion -> a general understanding; vague or imperfect conception or idea of some
 conceive -> to form (a notion, opinion, purpose, etc.)
 
 conception -> the act of conceiving; the state of being conceived.
-
-district -> a region or locality
 
 dissect -> to examine minutely part by part; analyze.
 
@@ -1648,6 +1646,12 @@ volatility -> liability to change rapidly and unpredictably, especially for the 
 
 disorder -> a state of confusion.
 
+gigantic -> of very great size or extent; huge or enormous.
+
+spring -> move or jump suddenly or rapidly upward or forward.
+
+leap -> jump or spring a long way, to a great height, or with great force.
+
 chaos -> complete disorder and confusion.
 
 sluggish -> slow-moving or inactive.
@@ -1799,3 +1803,34 @@ vindication -> the action of clearing someone of blame or suspicion.
 take for granted -> assume that something is true without questioning it.
 
 fond -> having an affection or liking for.
+
+assault -> make a physical attack on.
+
+awry -> away from the appropriate, planned, or expected course; amiss.
+
+cautious -> (of a person) careful to avoid potential problems or dangers.
+
+consensus -> a general agreement.
+
+entitlement -> the fact of having a right to something.
+
+rudimentary -> involving or limited to basic principles.
+
+elevation -> the action or fact of elevating or being elevated.
+
+elevation -> height above a given level, especially sea level.
+
+contour -> an outline, especially one representing or bounding the shape or form of something.
+
+mild -> not severe, serious, or harsh.
+
+demolish -> pull or knock down (a building).
+
+seizure -> the action of capturing someone or something using force.
+
+coup -> a sudden, violent, and unlawful seizure of power from a government.
+
+discourse -> written or spoken communication or debate.
+
+agonizing -> causing great physical or mental pain.
+
