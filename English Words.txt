@@ -24,6 +24,8 @@ utility -> the state or quality of being useful; usefulness
 
 benchmark -> a standard of excellence, achievement, etc., against which similar things must be measured or judged
 
+scrap -> a small piece or amount of something, especially one that is left over after the greater part has been used.
+
 scratch -> to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough
 
 opaque -> not transparent or translucent
@@ -212,6 +214,8 @@ aspect -> appearance to the eye or mind; look / nature; quality; character
 
 stretch -> to draw out or extend (oneself, a body, limbs, wings, etc.) to the full length or extent (often followed by out) / to hold out, reach forth, or extend (one's arm, head, etc.)
 
+intensify -> become or make more intense.
+
 enhance -> to raise to a higher degree; intensify; magnify
 
 nimble -> quick and light in movement; moving with ease
@@ -220,7 +224,7 @@ adroit -> expert or nimble in the use of the hands or body
 
 agility -> the power of moving quickly and easily; nimbleness
 
-dexterity -> skill or adroitness in using the hands or body; agility
+dexterity -> skill in performing tasks, especially with the hands.
 
 craft -> an art, trade, or occupation requiring special skill, especially manual skill
 
@@ -369,6 +373,8 @@ avionics -> the science and technology of the development and use of electrical 
 semantic -> of, relating to, or arising from the different meanings of words or other symbols
 
 deceptively -> in a way that tends to mislead or give a false impression
+
+demonstrate -> clearly show the existence or truth of (something) by giving proof or evidence.
 
 explicit -> fully and clearly expressed or demonstrated; leaving nothing merely implied;
 
@@ -1869,6 +1875,35 @@ radiance -> light or heat as emitted or reflected by something.
 glow -> a steady radiance of light or heat.
 
 implication -> the conclusion that can be drawn from something although it is not explicitly stated.
+
+hookup -> an instance of people meeting, communicating, or cooperating.
+
+tenderness -> gentleness and kindness.
+
+sentimental -> of or prompted by feelings of tenderness, sadness, or nostalgia.
+
+esoteric -> intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
+
+inhabit -> (of a person, animal, or group) live in or occupy (a place or environment).
+
+supersede -> take the place of (a person or thing previously in authority or use); supplant.
+
+eternity -> infinite or unending time.
+
+outperform -> perform better than.
+
+mediocre -> of only moderate quality; not very good.
+
+humble -> having or showing a modest or low estimate of one's own importance.
+
+humanoid -> having an appearance or character resembling that of a human.
+
+manipulate -> handle or control (a tool, mechanism, etc.), typically in a skillful manner.
+
+actuator -> a device that causes a machine or other device to operate.
+
+cluster -> a group of similar things or people positioned or occurring closely together.
+
 
 
 
