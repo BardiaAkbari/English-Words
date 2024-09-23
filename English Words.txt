@@ -66,7 +66,7 @@ endeavor -> to attempt; try / to exert oneself to do or effect something; make a
 
 imitate -> to follow or endeavor to follow as a model or example
 
-rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc
+rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.
 
 stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite
 
@@ -1904,8 +1904,38 @@ actuator -> a device that causes a machine or other device to operate.
 
 cluster -> a group of similar things or people positioned or occurring closely together.
 
+seize -> take hold of suddenly and forcibly.
 
+hijack -> unlawfully seize (an aircraft, ship, or vehicle) in transit and force it to go to a different destination or use it for one's own purposes.
 
+malice -> the intention or desire to do evil; ill will.
 
+tranquil -> free from disturbance; calm.
 
+repose -> a state of rest, sleep, or tranquility.
 
+requiem -> (especially in the Roman Catholic Church) a Mass for the repose of the souls of the dead.
+
+myth -> a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events.
+
+oscillate -> move or swing back and forth at a regular speed.
+
+slither -> move smoothly over a surface with a twisting or oscillating motion.
+
+siesta -> an afternoon rest or nap, especially one taken during the hottest hours of the day in a hot climate.
+
+scramble -> a difficult or hurried clamber up or over something.
+
+intervene -> come between so as to prevent or alter a result or course of events.
+
+interfere -> take part or intervene in an activity without invitation or necessity.
+
+exposure -> the state of being exposed to contact with something.
+
+lakebed -> the floor or bottom of a lake.
+
+summit -> the highest point of a hill or mountain.
+
+ridge -> a long narrow hilltop, mountain range, or watershed.
+
+frustration -> the feeling of being upset or annoyed, especially because of inability to change or achieve something.
