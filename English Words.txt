@@ -52,7 +52,7 @@ permissive -> habitually or characteristically accepting or tolerant of somethin
 
 ample -> fully sufficient or more than adequate for the purpose or needs; plentiful; enough
 
-substantial -> of ample or considerable amount, quantity, size, etc
+substantial -> of ample or considerable amount, quantity, size, etc.
 
 portion -> a part of any whole, either separated from or integrated with it
 
@@ -94,7 +94,7 @@ consortium -> an association, typically of several companies
 
 nexus -> a means of connection; tie; link
 
-societal -> noting or pertaining to large social groups, or to their activities, customs, etc
+societal -> noting or pertaining to large social groups, or to their activities, customs, etc.
 
 punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses
 
@@ -114,7 +114,7 @@ synthetic -> manufactured
 
 penetrate -> to pierce or pass into or through
 
-impenetrable -> not penetrable; that cannot be penetrated, pierced, entered, etc
+impenetrable -> not penetrable; that cannot be penetrated, pierced, entered, etc.
 
 opaque -> not transparent or translucent; impenetrable to light; not allowing light to pass through
 
@@ -300,11 +300,11 @@ strip -> to deprive of covering
 
 characteristics ->distinguishing quality; trait, attribute
 
-Delegate -> to give (a piece of work, power etc ) to someone else
+Delegate -> to give (a piece of work, power etc. ) to someone else
 
 trivial -> trifling, unimportant, insignificant, minor
 
-mischief -> action or behaviour (especially of children) that causes small troubles or annoyance to others
+mischief -> action or behavior (especially of children) that causes small troubles or annoyance to others
 
 shenanigans -> trick, prank; mischief
 
@@ -314,7 +314,7 @@ corruption -> dishonesty; immorality; decay
 
 substitute -> to put in, or to take, the place of someone or something else
 
-intercept -> to stop or catch (a person, thing etc ) before he, it etc arrives at the place to which he, it etc is going, being sent etc
+intercept -> to stop or catch (a person, thing etc. ) before he, it etc. arrives at the place to which he, it etc. is going, being sent etc
 
 profess -> to state or declare openly / to claim or pretend
 
@@ -1939,3 +1939,19 @@ summit -> the highest point of a hill or mountain.
 ridge -> a long narrow hilltop, mountain range, or watershed.
 
 frustration -> the feeling of being upset or annoyed, especially because of inability to change or achieve something.
+
+seduce -> entice (someone) into sexual activity.
+
+curtain -> https://images.app.goo.gl/o68fMFXRFsiCXPdLA
+
+impulse -> a sudden strong and unreflective urge or desire to act.
+
+spontaneously -> as a result of a sudden impulse and without premeditation.
+
+contraction -> the process of becoming smaller.
+
+dilatation -> the process of becoming bigger. 
+
+elastic -> (of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
+
+taunt -> a remark made in order to anger, wound, or provoke someone.
