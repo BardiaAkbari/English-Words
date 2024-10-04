@@ -294,6 +294,8 @@ conversion -> the act or process of converting; state of being converted / a cha
 
 criticize -> to censure or find fault with / to judge or discuss the merits and faults of
 
+settle -> resolve or reach an agreement about (an argument or problem).
+
 pioneer -> a person who is among those who first enter or settle a region, thus opening it for occupation and development by others
 
 strip -> to deprive of covering
@@ -693,7 +695,7 @@ deviation -> departure from a standard or norm
 
 correlate  -> to place in or bring into mutual or reciprocal relation; establish in orderly connection
 
-propagate -> to cause (an organism) to multiply by any process of natural reproduction from the parent stock
+propagate -> to cause (an organism) to multiply by any process of natural reproduction from the parent stock / spread and promote (an idea, theory, etc.) widely.
 
 regulate -> to control or direct by a rule, principle, method, etc.
 
@@ -1955,3 +1957,28 @@ dilatation -> the process of becoming bigger.
 elastic -> (of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
 
 taunt -> a remark made in order to anger, wound, or provoke someone.
+
+perturb -> make (someone) anxious or unsettled.
+
+crust -> the tough outer part of a loaf of bread.
+
+limb -> an arm or leg of a person or four-legged animal, or a bird's wing.
+
+genocide -> the deliberate killing of a large number of people from a particular nation or ethnic group with the aim of destroying that nation or group.
+
+intact -> not damaged or impaired in any way; complete.
+
+dignity -> the state or quality of being worthy of honor or respect.
+
+catastrophe -> an event causing great and often sudden damage or suffering; a disaster.
+
+nutrition -> the process of providing or obtaining the food necessary for health and growth.
+
+malnutrition -> lack of proper nutrition
+
+contestation -> the action or process of disputing or arguing.
+
+correlation -> a mutual relationship or connection between two or more things.
+
+
+
