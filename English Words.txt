@@ -334,7 +334,7 @@ settle -> to place in a position of rest or comfort / to reach a decision or agr
 
 reconciliator -> one who restores harmony, one who settles differences
 
-Mediator -> intervener; peacemaker, neutral reconciliator; one who mediates
+mediator -> intervener; peacemaker, neutral reconciliator; one who mediates
 
 reconciling -> to cause (people) to become friendly again, eg after they have quarrelled
 
@@ -1155,6 +1155,8 @@ credential -> a qualification, achievement, quality, or aspect of a person's bac
 competency -> the ability to do something successfully or efficiently.
 
 comprise -> consist of; be made up of.
+
+delimiter -> a character or symbol used in computer code that separates words, data, or characters
 
 evidently -> in a way that is clearly seen or understood; obviously.
 
@@ -1980,5 +1982,33 @@ contestation -> the action or process of disputing or arguing.
 
 correlation -> a mutual relationship or connection between two or more things.
 
+empirical -> based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.
 
+evaporate -> turn from liquid into vapor.
+
+reservoir -> a large natural or artificial lake used as a source of water supply.
+
+contaminate -> make (something) impure by exposure to or addition of a poisonous or polluting substance.
+
+sewage -> https://images.app.goo.gl/x43BZvVf6EpdXKN47
+
+restoration -> the action of returning something to a former owner, place, or condition.
+
+intermediary -> a person who acts as a link between people in order to try to bring about an agreement or reconciliation; a mediator.
+
+vendor -> a person or company offering something for sale, especially a trader in the street.
+
+smelt -> extract (metal) from its ore by a process involving heating and melting.
+
+furnace -> an enclosed structure in which material can be heated to very high temperatures, e.g. for smelting metals.
+
+forge -> make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it.
+
+breeze -> a gentle wind.
+
+slam -> shut (a door, window, or lid) forcefully and loudly.
+
+rage -> violent, uncontrollable anger.
+
+flurries -> a small swirling mass of something, especially snow or leaves, moved by sudden gusts of wind.
 
