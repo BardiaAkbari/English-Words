@@ -102,8 +102,6 @@ possess -> to have as belonging to one; have as property; own
 
 enrich -> to supply with riches, wealth, abundant or valuable possessions
 
-convenience -> convenience
-
 facility -> something designed, built, installed, etc., to serve a specific function affording a convenience or service
 
 redundant -> exceeding what is needed or useful; superfluous
@@ -281,6 +279,8 @@ ethnic -> pertaining to or characteristic of a people, especially a group (ethni
 excel -> to surpass others or be superior in some respect or area; do extremely well
 
 deliberation -> careful consideration before decision / formal consultation or discussion
+
+bestow -> present (an honor, right, or gift).
 
 confer -> to consult together; compare opinions; carry on a discussion or deliberation / to bestow upon as a gift, favor, honor, etc.
 
@@ -2011,4 +2011,27 @@ slam -> shut (a door, window, or lid) forcefully and loudly.
 rage -> violent, uncontrollable anger.
 
 flurries -> a small swirling mass of something, especially snow or leaves, moved by sudden gusts of wind.
+
+amendment -> a minor change or addition designed to improve a text, piece of legislation, etc.
+
+unification -> the process of being united or made into a whole.
+
+subsequently -> after a particular thing has happened; afterward.
+
+durable -> able to withstand wear, pressure, or damage; hard-wearing.
+
+afar -> at or to a distance.
+
+hogging -> keep or use all of (something) for oneself in an unfair or selfish way.
+
+allot -> give or apportion (something) to someone as a share or task.
+
+innocuous -> not harmful or offensive.
+
+habitat -> the natural home or environment of an animal, plant, or other organism.
+
+
+
+
+
 
