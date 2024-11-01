@@ -1250,6 +1250,8 @@ embody -> provide (a spirit) with a physical form.
 
 manifestation -> an event, action, or object that clearly shows or embodies something abstract or theoretical.
 
+adapt -> make (something) suitable for a new use or purpose; modify.
+
 versatile -> able to adapt or be adapted to many different functions or activities.
 
 suspense -> a state or feeling of excited or anxious uncertainty about what may happen.
@@ -2049,6 +2051,40 @@ excluded -> deny (someone) access to or bar (someone) from a place, group, or pr
 equidistant -> at equal distances.
 
 clout -> influence or power, especially in politics or business.
+
+lay -> put down, especially gently or carefully.
+
+layout -> the way in which the parts of something are arranged or laid out.
+
+resilient -> (of a person or animal) able to withstand or recover quickly from difficult conditions.
+
+prompt -> done without delay; immediate.
+
+preceding -> coming before something in order, position, or time.
+
+intervening -> extending or occurring between events.
+
+sonar -> a system for the detection of objects under water and for measuring the water's depth by emitting sound pulses and detecting or measuring their return after being reflected.
+
+bearing -> relation; relevance.
+
+inflate -> fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.
+
+girder -> a large iron or steel beam or compound structure used for building bridges and the framework of large buildings.
+
+pier -> a platform supported on pillars or girders leading out from the shore into a body of water, used as a landing stage for boats.
+
+protrude -> extend beyond or above a surface.
+
+bump -> a protuberance on a level surface.
+
+vicinity -> the area near or surrounding a particular place.
+
+
+
+
+
+
 
 
 
