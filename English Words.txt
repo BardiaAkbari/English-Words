@@ -316,7 +316,7 @@ corruption -> dishonesty; immorality; decay
 
 substitute -> to put in, or to take, the place of someone or something else
 
-intercept -> to stop or catch (a person, thing etc. ) before he, it etc. arrives at the place to which he, it etc. is going, being sent etc
+intercept -> to stop or catch (a person, thing etc. ) before he, it etc. arrives at the place to which he, it etc. is going, being sent etc.
 
 profess -> to state or declare openly / to claim or pretend
 
@@ -2079,6 +2079,31 @@ protrude -> extend beyond or above a surface.
 bump -> a protuberance on a level surface.
 
 vicinity -> the area near or surrounding a particular place.
+
+suspend -> temporarily prevent from continuing or being in force or effect.
+
+cosmopolitan -> including or containing people from many different countries.
+
+itinerary -> a planned route or journey.
+
+regurgitate -> repeat (information) without analyzing or comprehending it.
+
+perish -> suffer death, typically in a violent, sudden, or untimely way.
+
+archetype -> a very typical example of a certain person or thing.
+
+synthesizer -> an electronic musical instrument, typically operated by a keyboard, producing a wide variety of sounds by generating and combining signals of different frequencies.
+
+perceptible -> (especially of a slight movement or change of state) able to be seen or noticed.
+
+embodiment -> a tangible or visible form of an idea, quality, or feeling.
+
+keenly -> intensely
+
+looming -> (of an event) seemingly about to happen and regarded as ominous or worrying.
+
+
+
 
 
 
