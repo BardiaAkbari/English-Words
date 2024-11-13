@@ -2102,6 +2102,8 @@ embodiment -> a tangible or visible form of an idea, quality, or feeling.
 
 keenly -> intensely
 
+ominous -> giving the impression that something bad or unpleasant is going to happen
+
 looming -> (of an event) seemingly about to happen and regarded as ominous or worrying.
 
 espouse -> adopt or support (a cause, belief, or way of life).
