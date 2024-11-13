@@ -1388,6 +1388,8 @@ coop -> a cage or pen in which poultry are kept.
 
 myriad -> a countless or extremely great number of people or things.
 
+adopt -> choose to take up, follow, or use.
+
 lingua franca -> a language that is adopted as a common language between speakers whose native languages are different.
 
 superb -> very good; excellent.
@@ -2102,7 +2104,19 @@ keenly -> intensely
 
 looming -> (of an event) seemingly about to happen and regarded as ominous or worrying.
 
+espouse -> adopt or support (a cause, belief, or way of life).
 
+irony -> the expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.
+
+contempt -> the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+
+sarcastic -> marked by or given to using irony in order to mock or convey contempt.
+
+acquaintance -> a person's knowledge or experience of something.
+
+decipher -> convert (a text written in code, or a coded signal) into normal language.
+
+durability -> the ability to withstand wear, pressure, or damage.
 
 
 
