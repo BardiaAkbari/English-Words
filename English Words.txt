@@ -244,9 +244,11 @@ conjunction -> the act of joining together, or the state of being so joined; com
 
 bundled -> (of hardware or software) sold together, as a package, rather than separately.
 
-descended -> having a specified ancestry or ethnic origin / having gone from a higher place or position to a lower one
-
 ancestor -> a person from whom one is descended; forebear
+
+descendant -> a person, plant, or animal that is descended from a particular ancestor.
+
+descended -> having a specified ancestry or ethnic origin / having gone from a higher place or position to a lower one
 
 pseudo -> not actually but having the appearance of; pretended; false or spurious; sham / almost, approaching, or trying to be
 
@@ -676,6 +678,10 @@ trade
 supervise -> to oversee (a process, work, workers, etc.) during execution or performance;
 
 commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority
+
+deduct -> subtract or take away (an amount or part) from a total.
+
+gross -> without tax or other contributions having been deducted.
 
 outrageous -> of the nature of or involving gross injury or wrong
 
@@ -2119,6 +2125,23 @@ acquaintance -> a person's knowledge or experience of something.
 decipher -> convert (a text written in code, or a coded signal) into normal language.
 
 durability -> the ability to withstand wear, pressure, or damage.
+
+truncation -> the action of cutting short something.
+
+verge -> an edge or border.
+
+agenda -> a list of items to be discussed at a formal meeting.
+
+triumphant -> having won a battle or contest; victorious.
+
+presumably -> used to convey that what is asserted is very likely though not known for certain.
+
+deficit -> the amount by which something, especially a sum of money, is too small.
+
+contradict -> deny the truth of (a statement) by asserting the opposite.
+
+irrigation -> the supply of water to land or crops to help growth, typically by means of channels.
+
 
 
 
