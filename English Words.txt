@@ -398,6 +398,12 @@ intense -> existing or occurring in a high or extreme degree / acute, strong, or
 
 intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
 
+heap -> a large amount or number of.
+
+pile -> a heap of things laid or lying one on top of another.
+
+heap up -> arrange into piles or stacks
+
 accumulate -> to gather or collect, often in gradual degrees; heap up
 
 cumulative -> increasing or growing by accumulation or successive additions
@@ -1267,6 +1273,8 @@ defer -> to delay something until a later time; to postpone.
 vulnerable -> exposed to the possibility of being attacked or harmed, either physically or emotionally.
 
 retrieves -> to get and bring back
+
+prior -> existing or coming before in time, order, or importance.
 
 precedence -> the condition of being considered more important than someone or something else; priority in importance, order, or rank.
 
@@ -2141,6 +2149,23 @@ deficit -> the amount by which something, especially a sum of money, is too smal
 contradict -> deny the truth of (a statement) by asserting the opposite.
 
 irrigation -> the supply of water to land or crops to help growth, typically by means of channels.
+
+urban -> in, relating to, or characteristic of a town or city.
+
+petrified -> so frightened that one is unable to move; terrified.
+
+deterioration -> the process of becoming progressively worse.
+
+crumble -> break or fall apart into small fragments, especially over a period of time as part of a process of deterioration.
+
+mend -> repair (something that is broken or damaged).
+
+intrude -> put oneself deliberately into a place or situation where one is unwelcome or uninvited.
+
+
+
+
+
 
 
 
