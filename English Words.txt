@@ -678,10 +678,7 @@ mutual -> possessed, experienced, performed, etc., by each of two or more with r
 
 contrary -> opposite in nature or character; diametrically or mutually opposed
 
-substitution -> change
-exchange
-swap
-trade
+substitution -> change; exchange; swap; trade
 
 supervise -> to oversee (a process, work, workers, etc.) during execution or performance;
 
@@ -2178,18 +2175,25 @@ gauge -> an instrument or device for measuring the magnitude, amount, or content
 
 coalesce -> come together to form one mass or whole.
 
+reverence -> deep respect for someone or something.
 
+veneration -> great respect; reverence.
 
+sacred -> connected with God (or the gods) or dedicated to a religious purpose and so deserving veneration.
 
+vulnerability -> the quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.
 
+bidirectional -> functioning in two directions.
 
+alternating -> (of two or more things) occurring in turn repeatedly.
 
+interleaved -> mix (two or more digital signals) by alternating between them.
 
+discriminate -> make an unjust or prejudicial distinction in the treatment of different categories of people, especially on the grounds of ethnicity, sex, age, or disability.
 
+bond -> a relationship between people or groups based on shared feelings, interests, or experiences.
 
-
-
-
+criteria -> a principle or standard by which something may be judged or decided.
 
 
 
