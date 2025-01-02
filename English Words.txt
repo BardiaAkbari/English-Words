@@ -8,7 +8,7 @@ put forth -> to present; propose
 
 propose -> to offer or suggest
 
-exert -> to put forth or into use, as power; exercise, as ability or influence
+exert -> make a physical or mental effort.
 
 vigor -> active strength or force
 
@@ -334,13 +334,15 @@ neutral -> not taking sides in a quarrel or war
 
 settle -> to place in a position of rest or comfort / to reach a decision or agreement
 
-reconciliator -> one who restores harmony, one who settles differences
+conciliator -> a person who acts as a mediator between two disputing people or groups.
 
-mediator -> intervener; peacemaker, neutral reconciliator; one who mediates
+mediator -> intervener; peacemaker, neutral conciliator; one who mediates
 
-reconciling -> to cause (people) to become friendly again, eg after they have quarrelled
+quarreled -> have a heated argument or disagreement.
 
-Assess -> to estimate or judge the quality or quantity of
+reconciling -> to cause (people) to become friendly again, e.g. after they have quarreled
+
+assess -> to estimate or judge the quality or quantity of
 
 depreciate -> to reduce the purchasing value of (money) / to lessen the value or price of
 
@@ -381,7 +383,7 @@ deceptively -> in a way that tends to mislead or give a false impression
 demonstrate -> clearly show the existence or truth of (something) by giving proof or evidence.
 
 explicit -> fully and clearly expressed or demonstrated; leaving nothing merely implied;
-
+re
 idle -> not working or active; unemployed; doing nothing
 
 increment -> something added or gained; addition; increase
@@ -866,7 +868,7 @@ endurance -> the ability or strength to continue or last, especially despite fat
 
 tolerance -> the act or capacity of enduring; endurance
 
-provident -> having or showing foresight; providing providing carefully for the future.
+provident -> having or showing foresight; providing carefully for the future.
 
 expedient -> tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances
 
@@ -2194,6 +2196,44 @@ discriminate -> make an unjust or prejudicial distinction in the treatment of di
 bond -> a relationship between people or groups based on shared feelings, interests, or experiences.
 
 criteria -> a principle or standard by which something may be judged or decided.
+
+evaluation -> the making of a judgment about the amount, number, or value of something; assessment.
+
+turbulent -> characterized by conflict, disorder, or confusion; not controlled or calm.
+
+sealing -> the action or process of fastening or closing something securely.
+
+reserved -> slow to reveal emotion or opinions.
+
+demure -> reserved, modest, and shy (typically used of a woman).
+
+traverse -> travel across or through.
+
+lurch -> make an abrupt, unsteady, uncontrolled movement or series of movements
+
+taciturn -> (of a person) reserved or uncommunicative in speech; saying little.
+
+devastation -> great destruction or damage.
+
+impinge -> have an effect or impact, especially a negative one.
+
+etiquette -> the customary code of polite behavior in society or among members of a particular profession or group.
+
+agents -> a person who acts on behalf of another person or group.
+
+coherence -> the quality of being logical and consistent.
+
+preliminary -> an action or event preceding or preparing for something fuller or more important.
+
+groundwork -> preliminary or basic work.
+
+reminiscing -> indulge in enjoyable recollection of past events.
+
+
+
+
+
+
 
 
 
