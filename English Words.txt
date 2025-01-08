@@ -534,11 +534,7 @@ exhaust -> to drain of strength or energy, wear out, or fatigue greatly, as a pe
 
 plague -> an epidemic disease that causes high mortality; pestilence.
 
-oppressively -> brutally
-hard
-harshly
-restrictively
-tyrannically
+oppressively -> brutally, hard, harshly, restrictively, tyrannically
 
 onerous -> (of a task or responsibility) involving a great deal of effort, trouble, or difficulty.
 
@@ -1060,6 +1056,8 @@ erect -> rigidly upright or straight.
 goosebumps -> a state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect
 
 corpus -> a large or complete collection of writings
+
+appoint -> assign a job or role to (someone).
 
 designate -> appoint (someone) to a specified office or post.
 
@@ -2228,6 +2226,32 @@ preliminary -> an action or event preceding or preparing for something fuller or
 groundwork -> preliminary or basic work.
 
 reminiscing -> indulge in enjoyable recollection of past events.
+
+aesthetic -> concerned with beauty or the appreciation of beauty.
+
+pedestrian -> a person walking along a road or in a developed area.
+
+aeronautics -> the science or practice of building or flying aircraft.
+
+inverted -> placed or lying upside down or in the opposite position, order, or arrangement from usual.
+
+inversion -> the action of inverting something or the state of being inverted.
+
+scattered -> occurring or found at intervals or various locations rather than all together.
+
+yield -> produce or provide (a natural, agricultural, or industrial product).
+
+entail -> involve (something) as a necessary or inevitable part or consequence.
+
+merely -> just; only.
+
+abound -> exist in large numbers or amounts.
+
+robustness -> the quality or condition of being strong and in good condition.
+
+astonishing -> extremely surprising or impressive; amazing.
+
+stay put -> remain somewhere without moving or being moved.
 
 
 
