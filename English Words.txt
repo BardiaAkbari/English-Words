@@ -450,11 +450,7 @@ acute -> sharp or severe in effect; intense
 
 hone -> to make more acute or effective; improve; perfect
 
-sufficient -> acceptable,
-ample,
-plentiful,
-satisfactory,
-tolerable
+sufficient -> acceptable, ample, plentiful, satisfactory, tolerable
 
 adequate -> as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for)
 
@@ -2252,6 +2248,34 @@ robustness -> the quality or condition of being strong and in good condition.
 astonishing -> extremely surprising or impressive; amazing.
 
 stay put -> remain somewhere without moving or being moved.
+
+corollary -> forming a proposition that follows from one already proved.
+
+census -> an official count or survey of a population, typically recording various details of individuals.
+
+figures -> a number, especially one which forms part of official statistics or relates to the financial performance of a company.
+
+parity -> the state or condition of being equal, especially regarding status or pay.
+
+surged -> (of a crowd or a natural force) move suddenly and powerfully forward or upward.
+
+commonplace -> not unusual; ordinary.
+
+contemporary -> living or occurring at the same time.
+
+bummer -> a thing that is annoying or disappointing.
+
+prose -> written or spoken language in its ordinary form, without metrical structure.
+
+subroutine -> a set of instructions designed to perform a frequently used operation within a program.
+
+
+
+
+
+
+
+
 
 
 
