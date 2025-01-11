@@ -1395,6 +1395,7 @@ circumference -> the distance around something.
 
 coop -> a cage or pen in which poultry are kept.
 
+
 myriad -> a countless or extremely great number of people or things.
 
 adopt -> choose to take up, follow, or use.
@@ -1881,7 +1882,7 @@ psychoactive -> (chiefly of a drug) affecting the mind
 
 revelation -> a surprising and previously unknown fact, especially one that is made known in a dramatic way.
 
-reverence => deep respect for someone or something.
+reverence -> deep respect for someone or something.
 
 awe -> a feeling of reverential respect mixed with fear or wonder.
 
@@ -2177,6 +2178,8 @@ veneration -> great respect; reverence.
 
 sacred -> connected with God (or the gods) or dedicated to a religious purpose and so deserving veneration.
 
+scripture -> the sacred writings of Christianity contained in the Bible.
+
 vulnerability -> the quality or state of being exposed to the possibility of being attacked or harmed, either physically or emotionally.
 
 bidirectional -> functioning in two directions.
@@ -2269,8 +2272,15 @@ prose -> written or spoken language in its ordinary form, without metrical struc
 
 subroutine -> a set of instructions designed to perform a frequently used operation within a program.
 
+worship -> the feeling or expression of reverence and adoration for a deity.
 
+deity -> a god or goddess (in a polytheistic religion).
 
+theism -> belief in the existence of a god or gods, especially belief in one god as creator of the universe, intervening in it and sustaining a personal relation to his creatures.
+
+despair -> the complete loss or absence of hope.
+
+deteriorate -> become progressively worse.
 
 
 
