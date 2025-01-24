@@ -1107,6 +1107,8 @@ modularity -> the quality of consisting of separate parts that, when combined, f
 
 consolidate -> make (something) physically stronger or more solid.
 
+accompany -> go somewhere with (someone) as a companion or escort.
+
 accompanying -> provided or occurring at the same time as something else.
 
 mutate -> change in form or nature.
@@ -2058,8 +2060,6 @@ swoop -> (especially of a bird) move rapidly downwards through the air.
 
 blurt -> say (something) suddenly and without careful consideration.
 
-accompanying -> provided or occurring at the same time as something else.
-
 excluded -> deny (someone) access to or bar (someone) from a place, group, or privilege.
 
 equidistant -> at equal distances.
@@ -2321,5 +2321,33 @@ clutter -> crowd (something) untidily; fill with clutter.
 freight -> goods transported in bulk by truck, train, ship, or aircraft.
 
 discard -> get rid of (someone or something) as no longer useful or desirable.
+
+inauguration -> the beginning or introduction of a system, policy, or period.
+
+tariff -> a tax or duty to be paid on a particular class of imports or exports.
+
+efficacy -> the ability to produce a desired or intended result.
+
+pinnacle -> the most successful point; the culmination.
+
+portray -> depict (someone or something) in a work of art or literature.
+
+dispatch -> deal with (a task, problem, or opponent) quickly and efficiently.
+
+overwhelm -> bury or drown beneath a huge mass.
+
+ensnare -> catch in or as in a trap.
+
+throughput -> the amount of material or items passing through a system or process.
+
+convoy -> a group of ships or vehicles traveling together, typically accompanied by armed troops, warships, or other vehicles for protection.
+
+predecessor -> a person who held a job or office before the current holder.
+
+elapse -> (of time) pass or go by.
+
+aviation -> the flying or operating of aircraft.
+
+inquire -> ask for information from someone.
 
 
