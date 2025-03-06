@@ -1548,6 +1548,8 @@ footing -> the basis on which something is established or operates.
 
 precede -> come before (something) in time.
 
+restraint -> a measure or condition that keeps someone or something under control or within limits.
+
 loose -> lacking moral restraint or integrity
 
 gratitude -> the quality of being thankful; readiness to show appreciation for and to return kindness.
@@ -2350,4 +2352,49 @@ aviation -> the flying or operating of aircraft.
 
 inquire -> ask for information from someone.
 
+contiguous -> sharing a common border; touching.
+
+quantifier -> an expression (e.g. all, some ) that indicates the scope of a term to which it is attached.
+
+interceptor -> a person or thing that stops or catches (someone or something) going from one place to another.
+
+retention -> the continued possession, use, or control of something.
+
+cognizant -> having knowledge or being aware of.
+
+consolidation -> the action or process of making something stronger or more solid.
+
+catchphrase -> a well-known sentence or phrase, especially one that is associated with a particular famous person.
+
+slogan -> a short and striking or memorable phrase used in advertising.
+
+punchline -> the final phrase or sentence of a joke or story, providing the humor or some other crucial element.
+
+tagline -> a catchphrase or slogan, especially as used in advertising, or the punchline of a joke.
+
+snooze -> have a short, light sleep, especially during the day.
+
+citation -> a quotation from or reference to a book, paper, or author, especially in a scholarly work.
+
+hassle -> irritating inconvenience.
+
+merchandise -> goods to be bought and sold.
+
+merchant -> a person or company involved in wholesale trade, especially one dealing with foreign countries or supplying merchandise to a particular trade.
+
+stoop -> bend one's head or body forward and downward.
+
+snapp -> to act or move with quick or abrupt motions of the body
+
+resuscitate -> revive (someone) from unconsciousness or apparent death.
+
+flaky -> breaking or separating easily into small thin pieces.
+
+coating -> a thin layer or covering of something.
+
+diffuse -> spread or cause to spread over a wide area or among a large number of people.
+
+moisture -> water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.
+
+rust -> a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.
 
