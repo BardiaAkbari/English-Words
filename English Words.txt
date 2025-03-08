@@ -58,6 +58,8 @@ portion -> a part of any whole, either separated from or integrated with it
 
 appetizer -> a small portion of a food or drink served before or at the beginning of a meal to stimulate the desire to eat.
 
+abolish -> formally put an end to (a system, practice, or institution).
+
 suppress -> to do away with by or as by authority; abolish; stop (a practice, custom, etc.)
 
 apathy -> absence or suppression of passion, emotion, or excitement / lack of interest in or concern for things that others find moving or exciting
@@ -513,6 +515,8 @@ immerse -> to plunge into or place under a liquid; dip; sink
 deceive -> to mislead by a false appearance or statement; delude
 
 proxy -> the agency, function, or power of a person authorized to act as the deputy or substitute for another	
+
+realm -> a kingdom.
 
 spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur /  relating to, occupying, or having the character of space
 
@@ -2390,6 +2394,8 @@ resuscitate -> revive (someone) from unconsciousness or apparent death.
 
 flaky -> breaking or separating easily into small thin pieces.
 
+secede -> withdraw formally from membership of a federal union, an alliance, or a political or religious organization.
+
 coating -> a thin layer or covering of something.
 
 diffuse -> spread or cause to spread over a wide area or among a large number of people.
@@ -2397,4 +2403,28 @@ diffuse -> spread or cause to spread over a wide area or among a large number of
 moisture -> water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.
 
 rust -> a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.
+
+revoke -> put an end to the validity or operation of (a decree, decision, or promise).
+
+annulled -> declare invalid (an official agreement, decision, or result).
+
+repeal -> revoke or annul (a law or congressional act).
+
+jurisdiction -> the official power to make legal decisions and judgments.
+
+emblematic -> serving as a symbol of a particular quality or concept; symbolic.
+
+laborer -> a person doing unskilled manual work for wages.
+
+treaty -> a formally concluded and ratified agreement between countries.
+
+ratify -> sign or give formal consent to (a treaty, contract, or agreement), making it officially valid.
+
+readmit -> admit (someone) to a place or organization again.
+
+flee -> run away from a place or situation of danger.
+
+lust -> very strong sexual desire.	
+
+disguise -> give (someone or oneself) a different appearance in order to conceal one's identity.
 
