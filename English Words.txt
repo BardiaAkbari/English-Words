@@ -1552,6 +1552,12 @@ footing -> the basis on which something is established or operates.
 
 precede -> come before (something) in time.
 
+exertion -> physical or mental effort.
+
+strenuous -> requiring or using great exertion.
+
+strain -> force (a part of one's body or oneself) to make a strenuous or unusually great effort.
+
 restraint -> a measure or condition that keeps someone or something under control or within limits.
 
 loose -> lacking moral restraint or integrity
@@ -2427,4 +2433,37 @@ flee -> run away from a place or situation of danger.
 lust -> very strong sexual desire.	
 
 disguise -> give (someone or oneself) a different appearance in order to conceal one's identity.
+
+curriculum -> the subjects comprising a course of study in a school or college.
+
+sailor -> a person whose job it is to work as a member of the crew of a commercial or naval ship or boat, especially one who is below the rank of officer.
+
+binge -> a period of excessive indulgence in an activity, especially eating, drinking, or taking drugs.
+
+propel -> drive, push, or cause to move in a particular direction, typically forward.
+
+status quo -> the existing state of affairs, especially regarding social or political issues.
+
+agenda -> a list of items to be discussed at a formal meeting.
+
+wield -> hold and use (a weapon or tool).
+
+formidable -> inspiring fear or respect through being impressively large, powerful, intense, or capable.
+
+placate -> make (someone) less angry or hostile.
+
+rebellion -> an act of violent or open resistance to an established government or ruler.
+
+quell -> put an end to (a rebellion or other disorder), typically by the use of force.
+
+agitation -> a state of anxiety or nervous excitement.
+
+pacify -> quell the anger, agitation, or excitement of.
+
+accede -> agree to a demand, request, or treaty.
+
+appease -> pacify or placate (someone) by acceding to their demands.
+
+imitation -> the action of using someone or something as a model.
+
 
