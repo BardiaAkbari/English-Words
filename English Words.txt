@@ -192,6 +192,8 @@ dismiss -> to direct (an assembly of persons) to disperse or go / to bid or allo
 
 steadfast -> fixed in direction; steadily directed
 
+rigid -> unable to bend or be forced out of shape; not flexible.
+
 firm -> not soft or yielding when pressed; comparatively solid, hard, stiff, or rigid
 
 remonstrance -> a protest
@@ -308,7 +310,7 @@ strip -> to deprive of covering
 
 characteristics ->distinguishing quality; trait, attribute
 
-Delegate -> to give (a piece of work, power etc. ) to someone else
+delegate -> to give (a piece of work, power etc. ) to someone else
 
 trivial -> trifling, unimportant, insignificant, minor
 
@@ -2466,4 +2468,28 @@ appease -> pacify or placate (someone) by acceding to their demands.
 
 imitation -> the action of using someone or something as a model.
 
+predicament -> a difficult, unpleasant, or embarrassing situation.
 
+climactic -> (of an action, event, or scene) exciting or thrilling and acting as a climax to a series of events.
+
+culmination -> the highest or climactic point of something, especially as attained after a long time.
+
+hamper -> hinder or impede the movement or progress of.
+
+neglect -> fail to care properly.
+
+pragmatic -> dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.
+
+stark -> severe or bare in appearance or outline.
+
+thrusting -> the motion of pushing or lunging suddenly or violently.
+
+jockey -> struggle by every available means to gain or achieve something.
+
+turbulence -> violent or unsteady movement of air or water, or of some other fluid.
+
+stature -> a person's natural height.
+
+prosperous -> successful in material terms; flourishing financially.
+
+coordinate -> bring the different elements of (a complex activity or organization) into a relationship that will ensure efficiency or harmony.
