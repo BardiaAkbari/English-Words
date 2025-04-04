@@ -736,19 +736,19 @@ aught -> anything whatever; any part
 
 pile -> Informal. a large number, quantity, or amount of anything
 
-adverse -> unfavorable or antagonistic in purpose or effect
+adverse -> unfavorable or antagonistic in purpose or effect.
 
 beneath -> below; in or to a lower place, position, state, or the like.
 
 shelter -> something beneath, behind, or within which a person, animal, or thing is protected from storms, missiles, adverse conditions, etc.; refuge.
 
-hive -> a shelter constructed for housing a colony of honeybees; beehive
+hive -> a shelter constructed for housing a colony of honeybees; beehive.
 
-propriety -> conformity to established standards of good or proper behavior or manners
+propriety -> conformity to established standards of good or proper behavior or manners.
 
 decency -> the state or quality of being decent.
 
-modesty -> simplicity; moderation / regard for decency of behavior, speech, dress, etc
+modesty -> simplicity; moderation / regard for decency of behavior, speech, dress, etc.
 
 decent -> conforming to the recognized standard of propriety, good taste, modesty, etc., as in behavior or speech
 
@@ -762,9 +762,11 @@ emulate -> to try to equal or excel; imitate with effort to equal or surpass
 
 verbose -> characterized by the use of many or too many words; wordy
 
+comprehension -> the action or capability of understanding something.
+
 concise -> expressing or covering much in few words; brief in form but comprehensive in scope
 
-dozen -> a group of 12
+dozen -> a group of 12.
 
 grind -> to wear, smooth, or sharpen by abrasion or friction; whet
 
@@ -2493,3 +2495,70 @@ stature -> a person's natural height.
 prosperous -> successful in material terms; flourishing financially.
 
 coordinate -> bring the different elements of (a complex activity or organization) into a relationship that will ensure efficiency or harmony.
+
+sealing -> the action or process of fastening or closing something securely.
+
+blockade -> an act or means of sealing off a place to prevent goods or people from entering or leaving.
+
+vessel -> a ship or large boat.
+
+harbor -> a place on the coast where vessels may find shelter, especially one protected from rough water by piers, jetties, and other artificial structures.
+
+marina -> a specially designed harbor with moorings for pleasure craft and small boats.
+
+brag -> say something in a boastful manner.
+
+accredited -> (of a person, organization, or course of study) officially recognized or authorized.
+
+ambassador -> an accredited diplomat sent by a country as its official representative to a foreign country.
+
+vouch -> assert or confirm as a result of one's own experience that something is true or accurately so described.
+
+shrewdness -> the quality of having or showing good powers of judgement.
+
+savvy -> shrewdness and practical knowledge; the ability to make good judgments.
+
+enlist -> enroll or be enrolled in the armed services.
+
+recruitment -> the action of enlisting new people in the armed forces.
+
+commence -> begin; start.
+
+mobility -> the ability to move or be moved freely and easily.
+
+incur -> become subject to (something unwelcome or unpleasant) as a result of one's own behavior or actions.
+
+confiscate -> take or seize (someone's property) with authority.
+
+hygiene -> conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
+
+excrement -> waste matter discharged from the bowels; feces.
+
+swage -> waste water and excrement conveyed in sewers.
+
+sanitary -> relating to the conditions that affect hygiene and health, especially the supply of sewage facilities and clean drinking water.
+
+scaffolding -> a temporary structure on the outside of a building, made usually of wooden planks and metal poles, used by workers while building, repairing, or cleaning the building.
+
+cardiovascular -> relating to the heart and blood vessels.
+
+bloom -> produce flowers; be in flower.
+
+frivolous -> not having any serious purpose or value.
+
+bid -> offer (a certain price) for something, especially at an auction.
+
+auction -> a public sale in which goods or property are sold to the highest bidder.
+
+flesh -> the soft substance consisting of muscle and fat that is found between the skin and bones of an animal or a human.
+
+herbivore -> an animal that feeds on plants.
+
+carnivore -> an animal that feeds on flesh.
+
+omnivore -> an animal or person that eats food of both plant and animal origin.
+
+coalition -> an alliance for combined action, especially a temporary alliance of political parties forming a government or of states.
+
+pristine -> in its original condition; unspoiled.
+
