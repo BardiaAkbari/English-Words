@@ -74,6 +74,10 @@ stimulate -> to rouse to action or effort, as by encouragement or pressure; spur
 
 earnest -> serious and zealous in intention, purpose, or effort
 
+goddess -> a female deity.
+
+deity -> a god or goddess (in a polytheistic religion).
+
 invoke -> to call for with earnest desire; make supplication or pray for / to call on (a deity, Muse, etc.), as in prayer or supplication.
 
 sincere -> genuine; real
@@ -2561,4 +2565,20 @@ omnivore -> an animal or person that eats food of both plant and animal origin.
 coalition -> an alliance for combined action, especially a temporary alliance of political parties forming a government or of states.
 
 pristine -> in its original condition; unspoiled.
+
+disposition -> a person's inherent qualities of mind and character.
+
+inclination -> a person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.
+
+aversion -> a strong dislike or disinclination.
+
+mars -> to damage, spoil, or ruin the appearance or quality of something.
+
+flawless -> a mark, fault, or other imperfection that mars a substance or object.
+
+accountability -> the fact or condition of being accountable; responsibility.
+
+chasm -> a deep fissure in the earth, rock, or another surface.
+
+abyss -> a deep or seemingly bottomless chasm.
 
