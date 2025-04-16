@@ -1265,6 +1265,8 @@ knack -> an acquired or natural skill at doing something.
 
 feat -> an achievement that requires great courage, skill, or strength.
 
+mature -> fully developed physically; full-grown.
+
 prematurely -> before the due time; ahead of time.
 
 boredom -> the state of feeling bored.
@@ -2581,4 +2583,29 @@ accountability -> the fact or condition of being accountable; responsibility.
 chasm -> a deep fissure in the earth, rock, or another surface.
 
 abyss -> a deep or seemingly bottomless chasm.
+
+retaliate -> make an attack or assault in return for a similar attack.
+
+infinitesimal -> extremely small.
+
+excavate -> make (a hole or channel) by digging.
+
+archeology -> the study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
+
+precious -> (of an object, substance, or resource) of great value; not to be wasted or treated carelessly.
+
+inflict -> cause (something unpleasant or painful) to be suffered by someone or something.
+
+gnaw -> bite at or nibble something persistently.
+
+nibble -> take small bites out of.
+
+exorcise -> drive out or attempt to drive out (an evil spirit) from a person or place.
+
+stride -> walk with long, decisive steps in a specified direction.
+
+trail -> a mark or a series of signs or objects left behind by the passage of someone or something.
+
+journal -> a newspaper or magazine that deals with a particular subject or professional activity.
+
 
