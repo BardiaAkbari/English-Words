@@ -42,11 +42,17 @@ establish -> to found, institute, build, or bring into being on a firm or stable
 
 habitually -> as a habit, or an established way of being or acting; routinely or regularly
 
+profane -> relating or devoted to that which is not sacred or biblical; secular rather than religious.
+
 pertain -> to have reference or relation; relate
 
-constitute -> to compose; form
+constitute -> to compose; form.
 
-characteristic -> Also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive
+quirk -> a peculiar behavioral habit.
+
+peculiar -> strange or odd; unusual.
+
+characteristic -> also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive
 
 permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
 
@@ -393,7 +399,7 @@ deceptively -> in a way that tends to mislead or give a false impression
 demonstrate -> clearly show the existence or truth of (something) by giving proof or evidence.
 
 explicit -> fully and clearly expressed or demonstrated; leaving nothing merely implied;
-re
+
 idle -> not working or active; unemployed; doing nothing
 
 increment -> something added or gained; addition; increase
@@ -599,6 +605,8 @@ pursuit -> an effort to secure or attain; quest
 quest -> a search or pursuit made in order to find or obtain something
 
 cleave -> to adhere closely; stick; cling (usually followed by to ). / to remain faithful (usually followed by to )
+
+concentrate -> focus one's attention or mental effort on a particular object or activity.
 
 devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
 
@@ -1810,6 +1818,8 @@ lodging -> a place in which someone lives or stays temporarily.
 
 accommodate -> (of physical space, especially a building) provide lodging or sufficient space for.
 
+influx -> an arrival or entry of large numbers of people or things.
+
 riot -> a violent disturbance of the peace by a crowd.
 
 proliferation -> rapid increase in numbers.
@@ -2336,6 +2346,8 @@ denote -> be a sign of; indicate.
 
 preliminary -> denoting an action or event preceding or done in preparation for something fuller or more important.
 
+tidy -> arranged neatly and in order.
+
 untidy -> not arranged neatly and in order.
 
 clutter -> crowd (something) untidily; fill with clutter.
@@ -2608,4 +2620,36 @@ trail -> a mark or a series of signs or objects left behind by the passage of so
 
 journal -> a newspaper or magazine that deals with a particular subject or professional activity.
 
+tabular -> (of data) consisting of or presented in columns or tables.
 
+skim -> go or move quickly and lightly over or on a surface or through the air.
+
+swoop -> (especially of a bird) move rapidly downwards through the air.
+
+farewell -> used to express good wishes on parting.
+
+allege -> claim or assert that someone has done something illegal or wrong, typically without proof that this is the case.
+
+alibi -> a claim or piece of evidence that one was elsewhere when an act, especially a criminal one, is alleged to have taken place.
+
+ancillary -> providing necessary support to the primary activities or operation of an organization, institution, industry, or system.
+
+cater -> provide
+
+bog -> wet muddy ground too soft to support a heavy body.
+
+substantive -> having a firm basis in reality and therefore important, meaningful, or considerable.
+
+annotate -> add notes to (a text or diagram) giving explanation or comment.
+
+memo -> a written message, especially in business.
+
+outline -> a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.
+
+skimming -> the action of reading something quickly so as to note only the important points.
+
+reprise -> repeat (a piece of music or a performance).
+
+glean -> extract (information) from various sources.
+
+	
