@@ -312,6 +312,8 @@ conversion -> the act or process of converting; state of being converted / a cha
 
 criticize -> to censure or find fault with / to judge or discuss the merits and faults of
 
+argument -> a reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong. / an exchange of diverging or opposite views, typically a heated or angry one.
+
 settle -> resolve or reach an agreement about (an argument or problem).
 
 pioneer -> a person who is among those who first enter or settle a region, thus opening it for occupation and development by others
@@ -468,7 +470,7 @@ hone -> to make more acute or effective; improve; perfect
 
 sufficient -> acceptable, ample, plentiful, satisfactory, tolerable
 
-adequate -> as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for)
+adequate -> as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for).
 
 credulous -> willing to believe or trust too readily, especially without proper or adequate evidence; gullible
 
@@ -584,7 +586,9 @@ heterogeneous -> different in kind; unlike; incongruous.
 
 homogeneous -> composed of parts or elements that are all of the same kind; not heterogeneous
 
-prominent -> standing out so as to be seen easily; particularly noticeable; conspicuous.
+conspicuous -> standing out so as to be clearly visible.
+
+prominent -> standing out so as to be seen easily; particularly noticeable; conspicuous. / very noticeable, important, or famous.
 
 readily -> promptly; quickly; easily.
 
@@ -625,6 +629,10 @@ fleet -> a group of ships sailing together, engaged in the same activity, or und
 swift -> moving or capable of moving with great speed or velocity; fleet; rapid
 
 obsolete -> no longer in general use; fallen into disuse
+
+inventive -> (of a person) having the ability to create or design new things or to think originally.
+
+ingenuity -> the quality of being clever, original, and inventive.
 
 contrive -> to plan with ingenuity; devise; invent
 
@@ -1321,8 +1329,6 @@ prestigious -> having an illustrious reputation; respected.
 
 aspiration -> a hope or ambition of achieving something.
 
-prominent -> very noticeable, important, or famous
-
 hallucination -> an experience involving the apparent perception of something not present.
 
 plausible -> (of an argument or statement) seeming reasonable or probable.
@@ -1350,6 +1356,8 @@ speculate -> form a theory or conjecture about a subject without firm evidence.
 horizon -> the line at which the earth's surface and the sky appear to meet.
 
 funky -> (of music) having or using a strong dance rhythm, in particular that of funk.
+
+unsound -> not safe or robust; in poor condition.
 
 fallacy -> a mistaken belief, especially one based on unsound arguments.
 
@@ -1529,6 +1537,8 @@ labor -> work, especially physical work.
 cushion -> a bag of cloth stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.
 
 rational -> based on or in accordance with reason or logic.
+
+dispose -> bring (someone) into a particular frame of mind.
 
 disposal -> the action or process of getting rid of something. / access
 
@@ -1782,7 +1792,7 @@ gauge -> an instrument that measures and gives a visual display of the amount, l
 
 authentic -> of undisputed origin and not a copy; genuine.
 
-skew  -> neither parallel nor at right angles to a specified or implied line; askew; crooked.
+skew -> neither parallel nor at right angles to a specified or implied line; askew; crooked.
 
 provocative -> causing anger or another strong reaction, especially deliberately.
 
@@ -1904,7 +1914,7 @@ benign -> gentle and kindly.
 
 primitive -> relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.
 
-sheer -> nothing other than; 
+sheer -> nothing other than.
 
 indulge -> allow oneself to enjoy the pleasure of.
 
@@ -2652,4 +2662,26 @@ reprise -> repeat (a piece of music or a performance).
 
 glean -> extract (information) from various sources.
 
-	
+tireless -> having or showing great effort or energy.
+
+composite -> made up of various parts or elements.
+
+apparatus -> the technical equipment or machinery needed for a particular activity or purpose.
+
+dilate -> make or become wider, larger, or more open.
+
+detrimental -> tending to cause harm.
+
+coincidence -> a remarkable concurrence of events or circumstances without apparent causal connection.
+
+rebuke -> express sharp disapproval or criticism of (someone) because of their behavior or actions.
+
+reprimand -> a rebuke, especially an official one.
+
+swamp -> https://www.google.com/url?sa=i&url=https%3A%2F%2Fmybestplace.com%2Fen%2Farticle%2Fmanchac-swamp-the-most-terrifying-place-in-louisiana&psig=AOvVaw0hDiO3YZWLkqsZ1HmoL8xi&ust=1745930554028000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiZu6ng-owDFQAAAAAdAAAAABAI
+
+favorably -> with approval.
+
+incline -> feel willing or favorably disposed toward (an action, belief, or attitude).
+
+incubate -> keep something in the right conditions so it can develop or grow.
