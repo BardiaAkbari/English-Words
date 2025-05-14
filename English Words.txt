@@ -262,6 +262,8 @@ bundled -> (of hardware or software) sold together, as a package, rather than se
 
 ancestor -> a person from whom one is descended; forebear
 
+descend -> move or fall downward.
+
 descendant -> a person, plant, or animal that is descended from a particular ancestor.
 
 descended -> having a specified ancestry or ethnic origin / having gone from a higher place or position to a lower one
@@ -924,6 +926,8 @@ thrive -> to grow or develop vigorously
 
 flourish -> to be in a vigorous state; thrive
 
+deal out -> distribute or give something to several people
+
 dispense -> to deal out; distribute
 
 cordial -> friendly; warm
@@ -932,7 +936,7 @@ incorporate -> take in or contain (something) as part of a whole; include.
 
 unite -> to join, combine, or incorporate so as to form a single whole or unit.
 
-distort -> make crooked or deforme
+distort -> make crooked or deformed.
 
 replicate -> to bend or fold back / to repeat, duplicate, or reproduce, especially for experimental purposes
 
@@ -955,6 +959,8 @@ astound -> shock with wonder or surprise.
 upon -> immediately or very soon after / up and on; upward so as to get or be on
 
 advent -> a coming into place, view, or being; arrival
+
+reflect -> think about (sometimes)
 
 reflecting on -> Consider or think carefully about
 
@@ -1064,6 +1070,8 @@ hostility -> unfriendliness or opposition.
 antagonistic -> showing or feeling active opposition or hostility towards someone or something.
 
 adverse -> unfavorable or antagonistic in purpose or effect
+
+fortune -> chance or luck as an external, arbitrary force affecting human affairs.
 
 doom -> fate or destiny, especially adverse fate; unavoidable ill fortune
 
@@ -1540,7 +1548,7 @@ rational -> based on or in accordance with reason or logic.
 
 dispose -> bring (someone) into a particular frame of mind.
 
-disposal -> the action or process of getting rid of something. / access
+disposal -> the action or process of getting rid of something. / access.
 
 dilemma -> a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.
 
@@ -1653,6 +1661,8 @@ affirm -> state emphatically or publicly.
 proclaim -> announce officially or publicly.
 
 slammer -> a prison
+
+distress -> extreme anxiety, sorrow, or pain.
 
 misery -> a state or feeling of great physical or mental distress or discomfort.
 
@@ -2332,6 +2342,8 @@ esoteric -> intended for or likely to be understood by only a small number of pe
 
 dwelling -> a house, apartment, or other place of residence.
 
+ascent -> a climb or walk to the summit of a mountain or hill.
+
 steep -> (of a slope, flight of stairs, angle, ascent, etc.) rising or falling sharply; nearly perpendicular.
 
 a steep rock face, especially at the edge of the sea.
@@ -2685,3 +2697,37 @@ favorably -> with approval.
 incline -> feel willing or favorably disposed toward (an action, belief, or attitude).
 
 incubate -> keep something in the right conditions so it can develop or grow.
+
+purge -> rid (someone or something) of an unwanted quality, condition, or feeling.
+
+steer -> (of a person) guide or control the movement of (a vehicle, vessel, or aircraft), for example by turning a wheel or operating a rudder.
+
+moron -> a stupid person.
+
+sorrow -> a feeling of deep distress caused by loss, disappointment, or other misfortune suffered by oneself or others.
+
+mourn -> feel or show deep sorrow or regret for (someone or their death), typically by following conventions such as the wearing of black clothes.
+
+interim -> temporary period or something that is temporary before a final version.
+
+stiff -> not easily bent or changed in shape; rigid.
+
+stagger -> walk or move unsteadily, as if about to fall.
+
+tweak -> improve (a mechanism or system) by making fine adjustments to it.
+
+dwell on -> think or talk about something too much or for too long.
+
+polish -> make the surface of (something) smooth and shiny by rubbing it.
+
+inclusive -> including or covering all the services, facilities, or items normally expected or required.
+
+reassurance -> the action of removing someone's doubts or fears.
+
+commute -> travel some distance between one's home and place of work on a regular basis.
+
+impersonate -> pretend to be (another person) as entertainment or in order to deceive someone.
+
+remark -> say something as a comment; mention.
+
+exclamation -> a sudden cry or remark, especially expressing surprise, anger, or pain.
