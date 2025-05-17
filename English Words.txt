@@ -374,6 +374,10 @@ altitude -> the height of anything above a given planetary reference plane, espe
 
 glance -> to look quickly or briefly.
 
+subordinate -> lower in rank or position.
+
+allegiance -> loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.
+
 adherence -> the quality of adhering; steady devotion, support, allegiance, or attachment
 
 integrity -> adherence to moral and ethical principles; soundness of moral character; honesty
@@ -2450,6 +2454,8 @@ coating -> a thin layer or covering of something.
 
 diffuse -> spread or cause to spread over a wide area or among a large number of people.
 
+condense -> make (something) denser or more concentrated.
+
 moisture -> water or other liquid diffused in a small quantity as vapor, within a solid, or condensed on a surface.
 
 rust -> a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.
@@ -2731,3 +2737,35 @@ impersonate -> pretend to be (another person) as entertainment or in order to de
 remark -> say something as a comment; mention.
 
 exclamation -> a sudden cry or remark, especially expressing surprise, anger, or pain.
+
+attest -> provide or serve as clear evidence of.
+
+certify -> attest or confirm in a formal statement.
+
+imputation -> the assignment of a value to something by inference from the value of the products or processes to which it contributes.
+
+solemn -> formal and dignified.
+
+undertaking -> a formal pledge or promise to do something.
+
+pledge -> a solemn promise or undertaking.
+
+vivid -> producing powerful feelings or strong, clear images in the mind.
+
+ellipse -> https://www.google.com/imgres?q=ellipse&imgurl=https%3A%2F%2Fundergroundmathematics.org%2Fglossary%2Fellipse%2Fimages%2Fellipse.png&imgrefurl=https%3A%2F%2Fundergroundmathematics.org%2Fglossary%2Fellipse&docid=kWcJ_CuaYCbSJM&tbnid=ztiGTYxQwxcG0M&vet=12ahUKEwj9-u-IzKqNAxX8VKQEHaocIDsQM3oECGEQAA..i&w=518&h=296&hcb=2&ved=2ahUKEwj9-u-IzKqNAxX8VKQEHaocIDsQM3oECGEQAA
+
+centroid -> the center of mass of a geometric object of uniform density.
+
+uniform -> remaining the same in all cases and at all times; unchanging in form or character.
+
+inspect -> look at (someone or something) closely, typically to assess their condition or to discover any shortcomings.
+
+harvest -> the process or period of gathering in crops.
+
+liquor -> alcoholic drink, especially distilled spirits.
+
+distill -> purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid.
+
+
+
+
