@@ -150,6 +150,10 @@ recruit -> a new member of a group, organization, or the like
 
 enlist -> to enroll, usually voluntarily, for military service
 
+strap -> a strip of leather, cloth, or other flexible material, often with a buckle, used to fasten, secure, or carry something or to hold onto something.
+
+strip -> remove all coverings from.
+
 stripe -> a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing
 
 acquire -> to come into possession or ownership of; get as one's own
@@ -1746,6 +1750,10 @@ wage -> a fixed regular payment earned for work or services, typically paid on a
 
 embark -> go on board a ship or aircraft.
 
+detain -> keep (someone) from proceeding; hold back.
+
+held -> keep or detain (someone).
+
 conviction -> a firmly held belief or opinion.
 
 lackluster -> lacking in vitality, force, or conviction; uninspired or uninspiring.
@@ -1897,6 +1905,8 @@ awry -> away from the appropriate, planned, or expected course; amiss.
 cautious -> (of a person) careful to avoid potential problems or dangers.
 
 consensus -> a general agreement.
+
+entitle -> give (someone) a legal right or a just claim to receive or do something.
 
 entitlement -> the fact of having a right to something.
 
@@ -2344,6 +2354,8 @@ spouse -> a husband or wife, considered in relation to their partner.
 
 esoteric -> intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.
 
+dwell -> live in or at a specified place.
+
 dwelling -> a house, apartment, or other place of residence.
 
 ascent -> a climb or walk to the summit of a mountain or hill.
@@ -2765,6 +2777,52 @@ harvest -> the process or period of gathering in crops.
 liquor -> alcoholic drink, especially distilled spirits.
 
 distill -> purify (a liquid) by vaporizing it, then condensing it by cooling the vapor, and collecting the resulting liquid.
+
+hollow -> having a hole or empty space inside.
+
+acronym -> an abbreviation formed from the initial letters of other words and pronounced as a word (e.g. ASCII, NASA ).
+
+rebellion -> an act of violent or open resistance to an established government or ruler.
+
+revolt -> rise in rebellion.
+
+munition -> military weapons, ammunition, equipment, and stores.
+
+aggregate -> a whole formed by combining several (typically disparate) elements.
+
+disparate -> essentially different in kind; not allowing comparison.
+
+admissible -> acceptable or valid, especially as evidence in a court of law.
+
+obese -> very fat or overweight.
+
+inhibited -> unable to act in a relaxed and natural way because of self-consciousness or mental restraint.
+
+overawe -> impress (someone) so much that they become silent or inhibited.
+
+intimidate -> frighten or overawe (someone), especially in order to make them do what one wants.
+
+crane -> a large, tall machine used for moving heavy objects by suspending them from a projecting arm or beam.
+
+influx -> an arrival or entry of large numbers of people or things.
+
+hinge -> https://essentracomponents.bynder.com/transform/089cc9fa-e838-4cb2-af0d-e47a98c13aca/1057558_Types-hinges_1460x500px-jpg
+
+buckle -> a flat, typically rectangular frame with a hinged pin, used for joining the ends of a belt or strap.
+
+leash -> a strap or cord for restraining and guiding a dog or other animal.
+
+fudge -> present or deal with (something) in a vague, noncommittal, or inadequate way, especially so as to conceal the truth or mislead.
+
+naysayer -> a person who criticizes, objects to, or opposes something.
+
+agitate -> make (someone) troubled or nervous.
+
+distraught -> deeply upset and agitated.
+
+frantic -> wild or distraught with fear, anxiety, or other emotion.
+
+lease -> a contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.
 
 
 
