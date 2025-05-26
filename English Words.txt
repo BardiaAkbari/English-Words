@@ -78,7 +78,7 @@ rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied 
 
 stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite
 
-earnest -> serious and zealous in intention, purpose, or effort
+earnest -> serious in intention, purpose, or effort
 
 goddess -> a female deity.
 
@@ -243,6 +243,8 @@ adroit -> expert or nimble in the use of the hands or body
 agility -> the power of moving quickly and easily; nimbleness
 
 dexterity -> skill in performing tasks, especially with the hands.
+
+occupation -> a job or profession. / the action, state, or period of occupying or being occupied by military force.
 
 craft -> an art, trade, or occupation requiring special skill, especially manual skill
 
@@ -490,6 +492,8 @@ naive -> having or showing a lack of experience, judgment, or information; credu
 
 associate -> to connect or bring into relation, as thought, feeling, memory, etc.
 
+expression -> a look on someone's face that conveys a particular emotion. / a word or phrase, especially an idiomatic one, used to convey an idea.
+
 utter -> to give audible expression to; speak or pronounce
 
 utterly -> in an utter manner; completely: absolutely
@@ -704,7 +708,7 @@ compensate -> to recompense for something
 
 assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver
 
-reciprocal - > given or felt by each toward the other; mutual
+reciprocal -> given or felt by each toward the other; mutual
 
 mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal
 
@@ -714,17 +718,17 @@ substitution -> change; exchange; swap; trade
 
 supervise -> to oversee (a process, work, workers, etc.) during execution or performance;
 
-commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority
+commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority.
 
 deduct -> subtract or take away (an amount or part) from a total.
 
 gross -> without tax or other contributions having been deducted.
 
-outrageous -> of the nature of or involving gross injury or wrong
+outrageous -> of the nature of or involving gross injury or wrong.
 
-defamation -> the act of defaming; false or unjustified injury of the good reputation of another, as by slander or libel; calumny
+defamation -> the act of defaming; false or unjustified injury of the good reputation of another, as by slander or libel; calumny.
 
-slander -> defamation; calumny
+slander -> defamation; calumny.
 
 compass -> an instrument for determining directions, as by means of a freely rotating magnetized needle that indicates magnetic north.
 
@@ -1353,6 +1357,8 @@ hypocrite -> a person who claims or pretends to have certain beliefs about what 
 
 impose -> force (an unwelcome decision or ruling) on someone.
 
+lofty -> of imposing height.
+
 contraption -> a machine or device that appears strange or unnecessarily complicated, and often badly made or unsafe.
 
 resist -> withstand the action or effect of.
@@ -1594,7 +1600,11 @@ negligible -> so small or unimportant as to be not worth considering; insignific
 
 footing -> the basis on which something is established or operates.
 
+cede -> give up (power or territory).
+
 precede -> come before (something) in time.
+
+forego -> precede in place or time.
 
 exertion -> physical or mental effort.
 
@@ -1901,6 +1911,8 @@ fond -> having an affection or liking for.
 assault -> make a physical attack on.
 
 awry -> away from the appropriate, planned, or expected course; amiss.
+
+potent -> having great power, influence, or effect.
 
 cautious -> (of a person) careful to avoid potential problems or dangers.
 
@@ -2818,12 +2830,73 @@ naysayer -> a person who criticizes, objects to, or opposes something.
 
 agitate -> make (someone) troubled or nervous.
 
+fluster -> make (someone) agitated or confused.
+
 distraught -> deeply upset and agitated.
 
 frantic -> wild or distraught with fear, anxiety, or other emotion.
 
 lease -> a contract by which one party conveys land, property, services, etc. to another for a specified time, usually in return for a periodic payment.
 
+municipality -> a city or town that has corporate status and local government.
 
+crutch -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GbDbvmfY2vT7gMsZZfRyev3yTDuimYqKQQ&s
 
+autarky -> economic independence or self-sufficiency.
+
+unanimous -> (of two or more people) fully in agreement.
+
+transact -> conduct or carry out (business).
+
+bureau -> an office or department for transacting particular business.
+
+intonation -> the rise and fall of the voice in speaking.
+
+resolution -> a firm decision to do or not to do something.
+
+cue -> a thing said or done that serves as a signal to an actor or other performer to enter or to begin their speech or performance.
+
+rep -> a representative.
+
+compassion -> sympathetic pity and concern for the sufferings or misfortunes of others.
+
+pity -> the feeling of sorrow and compassion caused by the suffering and misfortunes of others.
+
+composure -> the state or feeling of being calm and in control of oneself.
+
+entail -> involve (something) as a necessary or inevitable part or consequence.
+
+gambit -> a device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.
+
+fumble -> use the hands clumsily while doing or handling something.
+
+interject -> say (something) abruptly, especially as an aside or interruption.
+
+nodded -> lower and raise one's head slightly and briefly, especially in greeting, or understanding, or to give someone a signal.
+
+fluke -> an unlikely chance occurrence, especially a surprising piece of luck.
+
+iterative -> relating to or involving iteration, especially of a mathematical or computational process.
+
+mechanism -> a system of parts working together in a machine; a piece of machinery.
+
+system -> a set of things working together as parts of a mechanism or an interconnecting network.
+
+mercenary -> primarily concerned with making money at the expense of ethics.
+
+hotshot -> an important or exceptionally able person.
+
+airtight -> not allowing air to escape or pass through.
+
+corrode -> destroy or damage (metal, stone, or other materials) slowly by chemical action.
+
+alloy -> a metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.
+
+crispr -> a segment of DNA containing short repetitions of base sequences, involved in the defense mechanisms of prokaryotic organisms to viruses.
+
+grin -> smile broadly, especially in an unrestrained manner and with the mouth open.
+
+mischievous -> (of a person, animal, or their behavior) causing or showing a fondness for causing trouble in a playful way.
+
+falter -> start to lose strength or momentum.
 
