@@ -422,6 +422,8 @@ direct -> to manage or guide by advice, helpful information, instruction, etc.
 
 ordain -> to enact or establish by law, edict, etc.
 
+authoritative -> able to be trusted as being accurate or true; reliable.
+
 direct -> to give authoritative instructions to; command; order or ordain / to manage or guide by advice, helpful information, instruction, etc
 
 directive -> serving to direct; directing
@@ -550,7 +552,7 @@ spatial -> of or relating to space, the three-dimensional realm or expanse in wh
 
 essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features
 
-fraught -> full of, accompanied by, or involving something specified, usually something unpleasant (often followed by with ): her pain-fraught body; a gathering fraught with joyful sounds.
+fraught -> (of a situation or course of action) filled with or likely to result in (something undesirable).
 
 blueprint -> a design plan or other technical drawing. / draw up (a plan or model).
 
@@ -844,9 +846,9 @@ strife -> vigorous or bitter conflict, discord, or antagonism
 
 contention -> a struggling together in opposition; strife
 
-dispute -> to engage in argument or debate
+dispute -> to engage in argument or debate.
 
-prolonged -> lasting a long time; lengthy
+prolonged -> lasting a long time; lengthy.
 
 controversy -> a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion
 
@@ -1355,6 +1357,8 @@ plausible -> (of an argument or statement) seeming reasonable or probable.
 
 hypocrite -> a person who claims or pretends to have certain beliefs about what is right but who behaves in a way that disagrees with those beliefs.
 
+imposing -> grand and impressive in appearance.
+
 impose -> force (an unwelcome decision or ruling) on someone.
 
 lofty -> of imposing height.
@@ -1515,6 +1519,10 @@ verdict -> an opinion or judgement.
 insidiously -> in a gradual, subtle way, but with harmful effects.
 
 undermine -> lessen the effectiveness, power, or ability of, especially gradually or insidiously.
+
+accordance -> conformity or agreement.
+
+comply -> (of a person or group) act in accordance with a wish or command.
 
 impeccable -> in accordance with the highest standards; faultless.
 
@@ -2696,7 +2704,7 @@ annotate -> add notes to (a text or diagram) giving explanation or comment.
 
 memo -> a written message, especially in business.
 
-outline -> a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.
+outline -> a line or set of lines enclosing or indicating the shape of an object in a sketch or diagram. / a general description or plan giving the essential features of something but not the detail.
 
 skimming -> the action of reading something quickly so as to note only the important points.
 
@@ -2900,3 +2908,42 @@ mischievous -> (of a person, animal, or their behavior) causing or showing a fon
 
 falter -> start to lose strength or momentum.
 
+shrug -> raise (one's shoulders) slightly and momentarily to express doubt, ignorance, or indifference.
+
+worn out -> (of a person or animal) extremely tired; exhausted.
+
+sting -> wound or pierce with a sting.
+
+forethought -> careful consideration of what will be necessary or may happen in the future.
+
+impulsive -> acting or done without forethought.
+
+bargain -> an agreement between two or more parties as to what each party will do for the other.
+
+haggle -> dispute or bargain persistently, especially over the cost of something.
+
+inchoate -> just begun and so not fully formed or developed
+
+fictitious -> not real or true, being imaginary or having been fabricated.
+
+symptom -> a physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.
+
+punctual -> happening or doing something at the agreed or proper time.
+
+stingy -> unwilling to give or spend; ungenerous. / opposite of economical
+
+residual -> a quantity remaining after other things have been subtracted or allowed for.
+
+edifice -> a building, especially a large, imposing one.
+
+receptive -> willing to consider or accept new suggestions and ideas.
+
+attune -> make receptive or aware.
+
+old school -> used, usually approvingly, to refer to someone or something that is old-fashioned or traditional.
+
+ritual -> a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order.
+
+observance -> the action or practice of fulfilling or respecting the requirements of law, morality, or ritual.
+
+enforcement -> the act of compelling observance of or compliance with a law, rule, or obligation.
