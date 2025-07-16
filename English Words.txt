@@ -2947,3 +2947,39 @@ ritual -> a religious or solemn ceremony consisting of a series of actions perfo
 observance -> the action or practice of fulfilling or respecting the requirements of law, morality, or ritual.
 
 enforcement -> the act of compelling observance of or compliance with a law, rule, or obligation.
+
+captor -> a person or animal that catches or confines another.
+
+botched -> (of a task) carried out badly or carelessly.
+
+deranged -> crazy; insane.
+
+unhinged -> mentally unbalanced; deranged.
+
+squarely -> directly, without deviating to one side.
+
+resort -> turn to and adopt (a strategy or course of action, especially a disagreeable or undesirable one) so as to resolve a difficult situation.
+
+epitomize -> be a perfect example of.
+
+advertent -> giving attention.
+
+omission -> a person or thing that has been left out or excluded.
+
+intervention -> the action or process of intervening.
+
+mutate -> change or cause to change in form or nature.
+
+placebo -> a harmless pill, medicine
+
+temporal -> relating to time.
+
+catchphrase -> a well-known sentence or phrase, especially one that is associated with a particular famous person.
+
+exemption -> the process of freeing or state of being free from an obligation or liability imposed on others.
+
+prescription -> an instruction written by a medical practitioner that authorizes a patient to be provided a medicine or treatment.
+
+discipline -> a branch of knowledge, typically one studied in higher education. / order
+
+practitioner -> a person actively engaged in an art, discipline, or profession, especially medicine.
