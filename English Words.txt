@@ -286,6 +286,8 @@ irresistible -> not resistible; incapable of being resisted or withstood
 
 vogue -> something in fashion, as at a particular time / popular currency, acceptance, or favor; popularity
 
+incline -> feel willing or favorably disposed toward (an action, belief, or attitude).
+
 tend -> to be disposed or inclined in action, operation, or effect to do something
 
 prevail -> to be widespread or current; exist everywhere or generally / to appear or occur as the more important or frequent feature or element; predominate
@@ -536,7 +538,7 @@ arbitrary -> subject to individual will or judgment without restriction; conting
 
 cast -> to throw or hurl; fling
 
-thrust -> to push forcibly; shove; put or drive with force
+thrust -> push (something or someone) suddenly or violently in the specified direction.
 
 plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge
 
@@ -929,6 +931,8 @@ squeeze -> to press forcibly together; compress.
 obstacle -> barrier
 
 obstruct -> to block or close up with an obstacle; make difficult to pass
+
+stifle -> make (someone) unable to breathe properly; suffocate.
 
 choke -> to stop the breath of by squeezing or obstructing the windpipe; strangle; stifle
 
@@ -2420,6 +2424,8 @@ tariff -> a tax or duty to be paid on a particular class of imports or exports.
 
 efficacy -> the ability to produce a desired or intended result.
 
+culmination -> the highest or climactic point of something, especially as attained after a long time.
+
 pinnacle -> the most successful point; the culmination.
 
 portray -> depict (someone or something) in a work of art or literature.
@@ -2553,6 +2559,8 @@ predicament -> a difficult, unpleasant, or embarrassing situation.
 climactic -> (of an action, event, or scene) exciting or thrilling and acting as a climax to a series of events.
 
 culmination -> the highest or climactic point of something, especially as attained after a long time.
+
+impede -> delay or prevent (someone or something) by obstructing them; hinder.
 
 hamper -> hinder or impede the movement or progress of.
 
@@ -2983,3 +2991,44 @@ prescription -> an instruction written by a medical practitioner that authorizes
 discipline -> a branch of knowledge, typically one studied in higher education. / order
 
 practitioner -> a person actively engaged in an art, discipline, or profession, especially medicine.
+
+rigidity -> inability to be to bent or be forced out of shape.
+
+dogmatic -> strongly opinionated and often unwilling to consider other views
+
+prosperity -> having what you need to live well	
+
+prompting -> the action of saying something to persuade, encourage, or remind someone to do or say something.
+
+fervor -> intense and passionate feeling.
+
+disillusionment -> a feeling of disappointment resulting from the discovery that something is not as good as one believed it to be.
+
+moor -> make fast (a boat) by attaching it by cable or rope to the shore or to an anchor.
+
+anchor -> moor (a ship) to the sea bottom with an anchor.
+
+doctrine -> a belief or set of beliefs held and taught by a Church, political party, or other group.
+
+escalation -> a rapid increase; a rise.
+
+venue -> the place where something happens, especially an organized event such as a concert, conference, or sports event.
+
+pinch -> grip (something, typically someone's flesh) tightly and sharply between finger and thumb.
+
+destined -> (of a person's future) developing as though according to a plan.
+
+inflate -> fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.
+
+safeguard -> protect from harm or damage with an appropriate measure.
+
+spare -> additional to what is required for ordinary use. / safeguard.
+
+censure -> express severe disapproval of (someone or something), especially in a formal statement.
+
+condemn -> express complete disapproval of, typically in public; censure.
+
+knot -> a fastening made by tying a piece of string, rope, or something similar.
+
+cheer -> shout for joy or in praise or encouragement.
+
