@@ -410,6 +410,8 @@ avionics -> the science and technology of the development and use of electrical 
 
 semantic -> of, relating to, or arising from the different meanings of words or other symbols
 
+deceptive -> giving an appearance or impression different from the true one; misleading. ( from deceive )
+
 deceptively -> in a way that tends to mislead or give a false impression
 
 demonstrate -> clearly show the existence or truth of (something) by giving proof or evidence.
@@ -3031,4 +3033,22 @@ condemn -> express complete disapproval of, typically in public; censure.
 knot -> a fastening made by tying a piece of string, rope, or something similar.
 
 cheer -> shout for joy or in praise or encouragement.
+
+furtive -> attempting to avoid notice or attention, typically because of guilt or a belief that discovery would lead to trouble.
+
+sneak -> move or go in a furtive or stealthy manner.
+
+gleam -> shine brightly, especially with reflected light.
+
+pale -> light in color or having little color.
+
+lethal -> sufficient to cause death.
+
+prey -> an animal that is caught and killed by another for food.
+
+gut -> the stomach or belly.
+
+infiltration -> the action of entering or gaining access to an organization or place surreptitiously, especially in order to acquire secret information or cause damage.
+
+surreptitious -> kept secret, especially because it would not be approved of.
 
