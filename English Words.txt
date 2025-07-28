@@ -42,6 +42,10 @@ establish -> to found, institute, build, or bring into being on a firm or stable
 
 habitually -> as a habit, or an established way of being or acting; routinely or regularly
 
+veneration -> great respect; reverence.
+
+sacred -> connected with God (or the gods) or dedicated to a religious purpose and so deserving veneration.
+
 profane -> relating or devoted to that which is not sacred or biblical; secular rather than religious.
 
 pertain -> to have reference or relation; relate
@@ -843,6 +847,8 @@ concord -> agreement between persons, groups, nations, etc.; concurrence in atti
 discord -> lack of concord or harmony between persons or things
 
 antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups
+
+acrid -> having an irritatingly strong and unpleasant taste or smell.
 
 bitter -> having a harsh, disagreeably acrid taste, like that of aspirin,
 
@@ -3051,4 +3057,34 @@ gut -> the stomach or belly.
 infiltration -> the action of entering or gaining access to an organization or place surreptitiously, especially in order to acquire secret information or cause damage.
 
 surreptitious -> kept secret, especially because it would not be approved of.
+
+allure -> the quality of being powerfully and mysteriously attractive or fascinating.
+
+exotic -> originating in or characteristic of a distant foreign country.
+
+glamorous -> attractive or appealing in an exotic or exciting way.
+
+blurt -> say (something) suddenly and without careful consideration.
+
+torment -> severe physical or mental suffering.
+
+luxe -> luxury.
+
+encompass -> surround and have or hold within.
+
+revert -> return to (a previous state, practice, topic, etc.).
+
+rejoice -> feel or show great joy or delight.
+
+fiend -> an evil spirit or demon.
+
+sew -> join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.
+
+seam -> a line along which two pieces of fabric are sewn together in a garment or other article.
+
+prolong -> extend the duration of.
+
+feud -> a prolonged and bitter quarrel or dispute.
+
+shove -> push (someone or something) roughly.
 
