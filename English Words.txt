@@ -348,7 +348,7 @@ decay -> to (cause to) become to ruined
 
 corruption -> dishonesty; immorality; decay
 
-substitute -> to put in, or to take, the place of someone or something else
+substitute -> to put in, or to take, the place of someone or something else / a person or thing acting or serving in place of another.
 
 intercept -> to stop or catch (a person, thing etc. ) before he, it etc. arrives at the place to which he, it etc. is going, being sent etc.
 
@@ -449,6 +449,8 @@ heap up -> arrange into piles or stacks
 accumulate -> to gather or collect, often in gradual degrees; heap up
 
 successive -> following one another or following others.
+
+accumulation -> the acquisition or gradual gathering of something.
 
 cumulative -> increasing or growing by accumulation or successive additions
 
@@ -1058,6 +1060,14 @@ slack -> not tight, firm, or tense
 
 relentless -> not easing or slackening; maintaining speed, vigor, etc.
 
+exhaustive -> examining, including, or considering all elements or aspects; fully comprehensive.
+
+superficial -> existing or occurring at or on the surface.
+
+thorough -> complete with regard to every detail; not superficial or partial.
+
+rigorous -> extremely thorough, exhaustive, or accurate.
+
 rigorously -> in a way that is severely exacting, accurate, careful, and thorough; to a high standard
 
 acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend.
@@ -1084,8 +1094,7 @@ recap -> a brief description of the main points
 
 commutativity -> the fact of always giving the same result whatever order the values are in
 
-associativity  -> when more than two numbers are added or multiplied, the result remains the same, irrespective of how they are 
-grouped
+associativity  -> when more than two numbers are added or multiplied, the result remains the same, irrespective of how they are grouped
 
 scalar -> a quantity which is completely described by its magnitude—a numerical value and usually a unit.
 
@@ -1756,6 +1765,10 @@ disastrous -> causing great damage.
 
 meltdown -> a disastrous collapse or breakdown.
 
+milling -> (of a machine) designed to cut or shape metal using a rotating tool.
+
+fine -> very small particles found in mining, milling, etc.
+
 dust -> fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces or carried in the air.
 
 liability -> the state of being responsible for something, especially by law.
@@ -2219,6 +2232,8 @@ looming -> (of an event) seemingly about to happen and regarded as ominous or wo
 espouse -> adopt or support (a cause, belief, or way of life).
 
 irony -> the expression of one's meaning by using language that normally signifies the opposite, typically for humorous or emphatic effect.
+
+ironic -> using or characterized by irony.
 
 contempt -> the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
 
@@ -2882,6 +2897,8 @@ cue -> a thing said or done that serves as a signal to an actor or other perform
 
 rep -> a representative.
 
+misfortune -> bad luck.
+
 compassion -> sympathetic pity and concern for the sufferings or misfortunes of others.
 
 pity -> the feeling of sorrow and compassion caused by the suffering and misfortunes of others.
@@ -3087,4 +3104,53 @@ prolong -> extend the duration of.
 feud -> a prolonged and bitter quarrel or dispute.
 
 shove -> push (someone or something) roughly.
+
+tutor -> a private teacher, typically one who teaches a single student or a very small group.
+
+extravagance -> lack of restraint in spending money or use of resources.
+
+solitude -> the state or situation of being alone.
+
+detonate -> explode or cause to explode.
+
+strenuous -> requiring or using great exertion.
+
+arduous -> involving or requiring strenuous effort; difficult and tiring.
+
+undergo -> experience or be subjected to (something, typically something unpleasant, painful, or arduous).
+
+fission  -> the action of dividing or splitting something into two or more parts.
+
+fissile -> (of an atom or element) able to undergo nuclear fission.
+
+struck -> hit forcibly and deliberately with one's hand or a weapon or other implement.
+
+swollen -> (especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.
+
+inflammation -> a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection.
+
+encephalitis -> inflammation of the brain, caused by infection or an allergic reaction.
+
+metonym -> a word, name, or expression used as a substitute for something else with which it is closely associated. For example, Washington is a metonym for the federal government of the US.
+
+pretense -> an attempt to make something that is not the case appear true.
+
+hypocrisy -> the practice of claiming to have moral standards or beliefs to which one's own behavior does not conform; pretense.
+
+yelp -> a short, sharp cry, especially of pain or alarm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
