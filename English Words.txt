@@ -436,7 +436,7 @@ direct -> to give authoritative instructions to; command; order or ordain / to m
 
 directive -> serving to direct; directing
 
-intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
+acute -> sharp or severe in effect; intense.
 
 intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
 
@@ -454,81 +454,79 @@ accumulation -> the acquisition or gradual gathering of something.
 
 cumulative -> increasing or growing by accumulation or successive additions
 
-opt-out -> to choose not to be part of an activity or to stop being involved in it
+opt-out -> to choose not to be part of an activity or to stop being involved in it.
 
-distract -> to draw away or divert, as the mind or attention
+distract -> to draw away or divert, as the mind or attention.
 
-antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups
+antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups.
 
-hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfriendliness
+hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfriendliness.
 
-hinder -> to cause delay, interruption, or difficulty in
+hinder -> to cause delay, interruption, or difficulty in.
 
 hindrance -> a thing that provides resistance, delay, or obstruction to something or someone.
 
-drawback -> a hindrance or disadvantage; an undesirable or objectionable feature
+drawback -> a hindrance or disadvantage; an undesirable or objectionable feature.
 
-faculty -> an ability, natural or acquired, for a particular kind of action
+faculty -> an ability, natural or acquired, for a particular kind of action.
 
-guardian -> a person who guards, protects, or preserves
+guardian -> a person who guards, protects, or preserves.
 
-district -> a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes / a region or locality
+district -> a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes / a region or locality.
 
-ward -> a division or district of a city or town, as for administrative or political purposes 
+ward -> a division or district of a city or town, as for administrative or political purposes.
 
-guardianship -> the position and responsibilities of a guardian, especially toward a ward
+guardianship -> the position and responsibilities of a guardian, especially toward a ward.
 
-custody -> keeping; guardianship; care
+custody -> keeping; guardianship; care.
 
-apprehend -> to take into custody; arrest by legal warrant or authority / understand
+apprehend -> to take into custody; arrest by legal warrant or authority / understand.
 
-perceive -> to become aware of, know, or identify by means of the senses
+perceive -> to become aware of, know, or identify by means of the senses.
 
-perception -> the act or faculty of perceiving, or apprehending by means of the senses or of the mind; cognition; understanding
+perception -> the act or faculty of perceiving, or apprehending by means of the senses or of the mind; cognition; understanding.
 
 severe -> (of something bad or undesirable) very great; intense.
 
-acute -> sharp or severe in effect; intense
+hone -> to make more acute or effective; improve; perfect.
 
-hone -> to make more acute or effective; improve; perfect
-
-sufficient -> acceptable, ample, plentiful, satisfactory, tolerable
+sufficient -> acceptable, ample, plentiful, satisfactory, tolerable.
 
 adequate -> as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for).
 
-credulous -> willing to believe or trust too readily, especially without proper or adequate evidence; gullible
+credulous -> willing to believe or trust too readily, especially without proper or adequate evidence; gullible.
 
-gullible -> easily deceived or cheated
+gullible -> easily deceived or cheated.
 
-naive -> having or showing a lack of experience, judgment, or information; credulous
+naive -> having or showing a lack of experience, judgment, or information; credulous.
 
 associate -> to connect or bring into relation, as thought, feeling, memory, etc.
 
 expression -> a look on someone's face that conveys a particular emotion. / a word or phrase, especially an idiomatic one, used to convey an idea.
 
-utter -> to give audible expression to; speak or pronounce
+utter -> to give audible expression to; speak or pronounce.
 
-utterly -> in an utter manner; completely: absolutely
+utterly -> in an utter manner; completely: absolutely.
 
-forsake -> to quit or leave entirely; abandon; desert
+forsake -> to quit or leave entirely; abandon; desert.
 
-abandon -> to leave completely and finally; forsake utterly; desert
+abandon -> to leave completely and finally; forsake utterly; desert.
 
-arrogant -> making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud
+arrogant -> making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud.
 
-incur -> to come into or acquire (some consequence, usually undesirable or injurious)
+incur -> to come into or acquire (some consequence, usually undesirable or injurious).
 
-entrust -> to charge or invest with a trust or responsibility; charge with a specified office or duty involving trust
+entrust -> to charge or invest with a trust or responsibility; charge with a specified office or duty involving trust.
 
-commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority
+commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority.
 
-diminished -> reduced or lessened; made smaller
+diminished -> reduced or lessened; made smaller.
 
-impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically
+impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically.
 
 spine -> any backbonelike part.
 
-paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord
+paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord.
 
 confine -> to enclose within bounds; limit or restrict / keep or restrict someone or something within certain limits of (space, scope, or time).
 
@@ -548,9 +546,13 @@ cast -> to throw or hurl; fling
 
 thrust -> push (something or someone) suddenly or violently in the specified direction.
 
-plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge
+submerge -> cause to be under water.
 
-immerse -> to plunge into or place under a liquid; dip; sink
+plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge.
+
+sink -> go down below the surface of something, especially of a liquid.
+
+immerse -> to plunge into or place under a liquid; dip; sink.
 
 deceive -> to mislead by a false appearance or statement; delude
 
@@ -844,25 +846,27 @@ unanimous -> of one mind; in complete agreement; agreed
 
 accord -> to be in agreement or harmony; agree.
 
-concord -> agreement between persons, groups, nations, etc.; concurrence in attitudes, feelings, etc.; unanimity; accord
+concord -> agreement between persons, groups, nations, etc.; concurrence in attitudes, feelings, etc.; unanimity; accord.
 
-discord -> lack of concord or harmony between persons or things
+discord -> lack of concord or harmony between persons or things.
 
-antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups
+antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups.
+
+pungent -> having a sharply strong taste or smell.
 
 acrid -> having an irritatingly strong and unpleasant taste or smell.
 
-bitter -> having a harsh, disagreeably acrid taste, like that of aspirin,
+bitter -> having a harsh, disagreeably acrid taste, like that of aspirin / having a sharp, pungent taste or smell; not sweet.
 
-strife -> vigorous or bitter conflict, discord, or antagonism
+strife -> vigorous or bitter conflict, discord, or antagonism.
 
-contention -> a struggling together in opposition; strife
+contention -> a struggling together in opposition; strife.
 
 dispute -> to engage in argument or debate.
 
 prolonged -> lasting a long time; lengthy.
 
-controversy -> a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion
+controversy -> a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion.
 
 jurisdiction -> the right, power, or authority to administer justice by hearing and determining controversies.
 
@@ -872,17 +876,17 @@ jot -> to write or mark down quickly or briefly (usually followed by down )
 
 fee -> a charge or payment for professional services
 
-telecom -> a telecommunications company
+telecom -> a telecommunications company.
 
-dominate -> to rule over; govern; control
+dominate -> to rule over; govern; control.
 
 composition -> the act of combining parts or elements to form a whole.
 
-amid -> in the middle of; surrounded by; among
+amid -> in the middle of; surrounded by; among.
 
 extensible -> capable of being extended. extended.
 
-eligible -> fit or proper to be chosen; worthy of choice; desirable
+eligible -> fit or proper to be chosen; worthy of choice; desirable.
 
 velvet -> https://poundfabrics.co.uk/cdn/shop/files/6825CDCF-AB1E-4FFD-9369-6A6B0C4473FB_1200x.jpg?v=1706782262
 
@@ -1212,9 +1216,9 @@ probe -> to search into and explore very thoroughly
 
 strengthen -> make or become stronger.
 
-diagnose -> identify the nature of (an illness or other problem) by examination of the symptoms.
-
 symptom -> a physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.
+
+diagnose -> identify the nature of (an illness or other problem) by examination of the symptoms.
 
 acquainted -> having met
 
@@ -1883,7 +1887,7 @@ advert -> refer to in speaking or writing.
 
 revival -> an improvement in the condition or strength of something.
 
-welfare -> the health, happiness, and fortunes of a person or group.
+welfare -> 	
 
 hereditary -> (of a title, office, or right) conferred by or based on inheritance.
 
@@ -3139,18 +3143,64 @@ hypocrisy -> the practice of claiming to have moral standards or beliefs to whic
 
 yelp -> a short, sharp cry, especially of pain or alarm.
 
+smuggle -> move (goods) illegally into or out of a country.
 
+spike -> a sharp increase in the magnitude or concentration of something.
 
+strait -> a narrow passage of water connecting two seas or two other large areas of water.
 
+harass -> subject to aggressive pressure or intimidation.
 
+audacious -> showing a willingness to take surprisingly bold risks.
 
+philanthropy -> the desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.
 
+grid -> a network of lines that cross each other to form a series of squares or rectangles.
 
+exogenous -> relating to or developing from external factors.
 
+synthesis -> the combination of ideas to form a theory or system.
 
+erode -> (of wind, water, or other natural agents) gradually wear away (soil, rock, or land).
 
+wear -> damage, erode, or destroy by friction or use.
 
+pothole -> a depression or hollow in a road surface caused by wear or sinking; become submerged.
 
+intoxicated -> drunk or under the influence of drugs.
 
+transient -> lasting only for a short time; impermanent.
 
+delirium -> a disturbed state of mind or consciousness, especially an acute, transient condition associated with fever, intoxication, and certain other physical disorders, characterized by symptoms such as confusion, disorientation, agitation, and hallucinations.
 
+aforementioned -> denoting a thing or person previously mentioned.
+
+divine -> of, from, or like God or a god.
+
+rite -> a religious or other solemn ceremony or act.
+
+bless -> pronounce words in a religious rite, to confer or invoke divine favor upon; ask God to look favorably on.
+
+siren -> a device that makes a loud prolonged sound as a signal or warning.
+
+preside -> be in the position of authority in a meeting or other gathering.
+
+rupture -> (especially of a pipe, a vessel, or a bodily part such as an organ or membrane) break or burst suddenly.
+
+bruise -> an injury appearing as an area of discolored skin on the body, caused by a blow or impact rupturing underlying blood vessels.
+
+promo -> a piece of publicity or advertising, especially in the form of a short film or video.
+
+dismissal -> the act of ordering or allowing someone to leave.
+
+dissolution -> the closing down or dismissal of an assembly, partnership, or official body.
+
+rendezvous -> a meeting at an agreed time and place, typically between two people.
+
+tryst -> a private romantic rendezvous between lovers.
+
+relapse -> (of someone suffering from a disease) suffer deterioration after a period of improvement.
+
+drifter -> a person who is continually moving from place to place, without any fixed home or job.
+
+windmill -> https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWindmill&psig=AOvVaw3KwsSUiBLNSAaHbfVujlrk&ust=1754408394544000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjUp9y-8Y4DFQAAAAAdAAAAABAL
