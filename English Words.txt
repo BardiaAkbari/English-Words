@@ -432,13 +432,15 @@ ordain -> to enact or establish by law, edict, etc.
 
 authoritative -> able to be trusted as being accurate or true; reliable.
 
-direct -> to give authoritative instructions to; command; order or ordain / to manage or guide by advice, helpful information, instruction, etc
+direct -> to give authoritative instructions to; command; order or ordain / to manage or guide by advice, helpful information, instruction, etc.
 
-directive -> serving to direct; directing
+directive -> serving to direct; directing.
 
 acute -> sharp or severe in effect; intense.
 
-intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions
+sensation -> a physical feeling or perception resulting from something that happens to or comes into contact with the body. / a widespread reaction of interest and excitement.
+
+intense -> existing or occurring in a high or extreme degree / acute, strong, or vehement, as sensations, feelings, or emotions.
 
 heap -> a large amount or number of.
 
@@ -594,7 +596,7 @@ offspring -> children or young of a particular parent or progenitor.
 
 prolific -> producing offspring, young, fruit, etc., abundantly; highly fruitful
 
-contemplate -> to look at or view with continued attention; observe or study thoughtfully
+s -> to look at or view with continued attention; observe or study thoughtfully
 
 speculation -> the contemplation or consideration of some subject
 
@@ -602,9 +604,9 @@ speculative -> pertaining to, of the nature of, or characterized by speculation,
 
 latch -> a device for holding a door, gate, or the like, closed, consisting basically of a bar falling or sliding into a catch, groove, hole, etc.
 
-concurrent -> occurring or existing simultaneously or side by side
+concurrent -> occurring or existing simultaneously or side by side.
 
-"in a nutshell," they are most likely summing something up in a few words.
+in a nutshell -> they are most likely summing something up in a few words.
 
 simultaneously -> at the same time.
 
@@ -1146,7 +1148,7 @@ discrete -> apart or detached from others; separate; distinct
 
 Danceability -> is a measure of how good a song is for dancing on a scale from 0 (terrible) to 1 (perfect).
 
-Acousticness -> is a measure of the lack of electrical amplification on a scale from 0 (no amplification) to 1 (total amplification).
+acoustic ness -> is a measure of the lack of electrical amplification on a scale from 0 (no amplification) to 1 (total amplification).
 
 Tempo -> is the average number of beats per minute (BPM). It measures the speed or pace of a song.
 
@@ -1480,7 +1482,6 @@ circumference -> the distance around something.
 
 coop -> a cage or pen in which poultry are kept.
 
-
 myriad -> a countless or extremely great number of people or things.
 
 adopt -> choose to take up, follow, or use.
@@ -1543,7 +1544,7 @@ verdict -> an opinion or judgement.
 
 insidiously -> in a gradual, subtle way, but with harmful effects.
 
-undermine -> lessen the effectiveness, power, or ability of, especially gradually or insidiously.
+undermine -> lessen the effectiveness, power, or ability of, especially gradually or insidiously. / erode the base or foundation of (a rock formation).
 
 accordance -> conformity or agreement.
 
@@ -3204,3 +3205,38 @@ relapse -> (of someone suffering from a disease) suffer deterioration after a pe
 drifter -> a person who is continually moving from place to place, without any fixed home or job.
 
 windmill -> https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWindmill&psig=AOvVaw3KwsSUiBLNSAaHbfVujlrk&ust=1754408394544000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjUp9y-8Y4DFQAAAAAdAAAAABAL
+
+aspire -> direct one's hopes or ambitions towards achieving something.
+	
+hefty -> large, heavy, and powerful.
+
+plausible -> (of an argument or statement) seeming reasonable or probable.
+
+heartstring -> used in reference to one's deepest feelings of love or compassion.
+
+longing -> a yearning desire.
+
+yearn -> have an intense feeling of longing for something, typically something that one has lost or been separated from.
+
+anonymize -> remove identifying particulars or details from (something, especially medical test results), typically for statistical or other purposes.
+
+paramount -> more important than anything else; supreme.
+
+lapse -> a temporary failure of concentration, memory, or judgment.
+
+ecological -> relating to or concerned with the relation of living organisms to one another and to their physical surroundings.
+
+incinerate -> destroy (something, especially waste material) by burning.
+
+drastically -> in a way that is likely to have a strong or far-reaching effect.
+
+reigning -> occupying the throne; ruling.
+
+strand -> leave (someone) without the means to move from somewhere.
+
+cast away -> a person who has been shipwrecked and stranded in an isolated place.
+
+recurring -> occurring again periodically or repeatedly.
+
+resurgence -> an increase or revival after a period of little activity, popularity, or occurrence.
+
