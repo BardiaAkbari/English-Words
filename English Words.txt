@@ -264,6 +264,8 @@ flutter -> to wave, flap, or toss about
 
 toss -> to throw or send from one to another, as in play
 
+retain -> continue to have (something); keep possession of.
+
 maintain -> to keep in existence or continuance; preserve; retain
 
 conjunction -> the act of joining together, or the state of being so joined; combination, union, or association
@@ -389,6 +391,10 @@ glance -> to look quickly or briefly.
 subordinate -> lower in rank or position.
 
 allegiance -> loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.
+
+devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
+
+adhere -> to stay attached; stick fast; cleave; cling (usually followed by to ), to be devoted in support or allegiance; be attached as a follower or upholder (usually followed by to )
 
 adherence -> the quality of adhering; steady devotion, support, allegiance, or attachment
 
@@ -524,9 +530,9 @@ commission -> the act of committing or entrusting a person, group, etc., with su
 
 diminished -> reduced or lessened; made smaller.
 
-impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically.
+impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically. / the state or fact of a faculty or function being weakened or damaged.
 
-spine -> any backbonelike part.
+spine -> any backbone like part.
 
 paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord.
 
@@ -638,13 +644,11 @@ pursuit -> an effort to secure or attain; quest
 
 quest -> a search or pursuit made in order to find or obtain something
 
+cling -> hold on tightly to.
+
 cleave -> to adhere closely; stick; cling (usually followed by to ). / to remain faithful (usually followed by to )
 
 concentrate -> focus one's attention or mental effort on a particular object or activity.
-
-devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
-
-adhere -> to stay attached; stick fast; cleave; cling (usually followed by to ), to be devoted in support or allegiance; be attached as a follower or upholder (usually followed by to )
 
 integrity -> adherence to moral and ethical principles; soundness of moral character; honesty.
 
@@ -656,7 +660,7 @@ inherent -> existing in someone or something as a permanent and inseparable elem
 
 fleet -> a group of ships sailing together, engaged in the same activity, or under the same ownership.
 
-swift -> moving or capable of moving with great speed or velocity; fleet; rapid
+swift -> happening quickly or promptly; rapid.
 
 obsolete -> no longer in general use; fallen into disuse
 
@@ -1013,10 +1017,6 @@ testament -> Law / a covenant, especially between God and humans.
 bear -> carry
 
 sustain -> to support, hold, or bear up from below; bear the weight of, as a structure.
-
-diminished -> reduced or lessened; made smaller
-
-impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically
 
 undergo -> experience; pass through / to endure; sustain; suffer
 
@@ -1802,6 +1802,12 @@ detain -> keep (someone) from proceeding; hold back.
 
 held -> keep or detain (someone).
 
+inquest -> a discussion or investigation into something that has happened, especially something undesirable.
+
+verdict -> a decision on a disputed issue in a civil or criminal case or an inquest.
+
+convict -> declare (someone) to be guilty of a criminal offense by the verdict of a jury or the decision of a judge in a court of law.
+
 conviction -> a firmly held belief or opinion.
 
 lackluster -> lacking in vitality, force, or conviction; uninspired or uninspiring.
@@ -2497,8 +2503,6 @@ punchline -> the final phrase or sentence of a joke or story, providing the humo
 tagline -> a catchphrase or slogan, especially as used in advertising, or the punchline of a joke.
 
 snooze -> have a short, light sleep, especially during the day.
-
-citation -> a quotation from or reference to a book, paper, or author, especially in a scholarly work.
 
 hassle -> irritating inconvenience.
 
@@ -3240,3 +3244,23 @@ recurring -> occurring again periodically or repeatedly.
 
 resurgence -> an increase or revival after a period of little activity, popularity, or occurrence.
 
+demographic -> relating to the structure of populations.
+
+penalize -> subject to some form of punishment.
+
+scholar -> a specialist in a particular branch of study, especially the humanities; a distinguished academic.
+
+citation -> a quotation from or reference to a book, paper, or author, especially in a scholarly work.
+
+impute -> represent (something, especially something undesirable) as being done, caused, or possessed by someone; attribute.
+
+commencement -> a beginning or start.
+
+overdue -> not having arrived, happened, or been done by the expected time.
+
+kindle -> light or set on fire.
+
+restitution -> the restoration of something lost or stolen to its proper owner.
+
+screw -> https://upload.wikimedia.org/wikipedia/commons/4/4c/Screws.jpg
+	
