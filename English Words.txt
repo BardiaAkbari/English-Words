@@ -56,7 +56,7 @@ quirk -> a peculiar behavioral habit.
 
 peculiar -> strange or odd; unusual.
 
-characteristic -> also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive
+characteristic -> also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive.
 
 permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
 
@@ -154,11 +154,11 @@ recruit -> a new member of a group, organization, or the like
 
 enlist -> to enroll, usually voluntarily, for military service
 
-strap -> a strip of leather, cloth, or other flexible material, often with a buckle, used to fasten, secure, or carry something or to hold onto something.
-
 strip -> remove all coverings from.
 
-stripe -> a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing
+strap -> a strip of leather, cloth, or other flexible material, often with a buckle, used to fasten, secure, or carry something or to hold onto something.
+
+stripe -> a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing.
 
 acquire -> to come into possession or ownership of; get as one's own
 
@@ -500,11 +500,11 @@ hone -> to make more acute or effective; improve; perfect.
 
 sufficient -> acceptable, ample, plentiful, satisfactory, tolerable.
 
+gullible -> easily deceived or cheated.
+
 adequate -> as much or as good as necessary for some requirement or purpose; fully sufficient, suitable, or fit (often followed by to or for).
 
 credulous -> willing to believe or trust too readily, especially without proper or adequate evidence; gullible.
-
-gullible -> easily deceived or cheated.
 
 naive -> having or showing a lack of experience, judgment, or information; credulous.
 
@@ -684,7 +684,7 @@ circumference -> the outer boundary, especially of a circular area; perimeter
 
 proportion -> comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio
 
-slender -> having a circumference that is small in proportion to the height or length
+slender -> having a circumference that is small in proportion to the height or length.
 
 stem -> the ascending axis of a plant, whether above or below ground, which ordinarily grows in an opposite direction to the root or descending axis.
 
@@ -692,13 +692,13 @@ shrub -> a woody plant smaller than a tree, usually having multiple permanent st
 
 stick -> a branch or shoot of a tree or shrub that has been cut or broken off.
 
-bent -> curved; crooked
+bent -> curved; crooked.
 
-pliable -> easily bent; flexible; supple
+pliable -> easily bent; flexible; supple.
 
 membrane -> Anatomy. a thin, pliable sheet or layer of animal or vegetable tissue, serving to line an organ, connect parts, etc.
 
-alter -> to make different in some particular, as size, style, course, or the like; modify
+alter -> to make different in some particular, as size, style, course, or the like; modify.
 
 trait -> a distinguishing characteristic or quality, especially of one's personal nature.
 
@@ -710,33 +710,33 @@ acculturate -> to alter by acculturation, through sharing and learning the cultu
 
 criterion -> a standard of judgment or criticism; a rule or principle for evaluating or testing something.
 
-apparatus ->a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use
+apparatus -> a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use.
 
 appliance -> an instrument, apparatus, or device for a particular purpose or use.
 
-hoist -> to raise or lift, especially by some mechanical appliance
+hoist -> to raise or lift, especially by some mechanical appliance.
 
-lump -> a piece or mass of solid matter without regular shape or of no particular shape
+lump -> a piece or mass of solid matter without regular shape or of no particular shape.
 
 chunk -> a thick mass or lump of anything / a thick, solid piece of something.
 
-induction -> the act of inducing, bringing about, or causing / the act of inducting; introduction; initiation
+induction -> the act of inducing, bringing about, or causing / the act of inducting; introduction; initiation.
 
 remunerate -> to pay, recompense, or reward for work, trouble, etc.
 
-compensate -> to recompense for something
+compensate -> to recompense for something.
 
-assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver
+assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver.
 
-reciprocal -> given or felt by each toward the other; mutual
+reciprocal -> given or felt by each toward the other; mutual.
 
-mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal
+mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal.
 
-contrary -> opposite in nature or character; diametrically or mutually opposed
+contrary -> opposite in nature or character; diametrically or mutually opposed.
 
-substitution -> change; exchange; swap; trade
+substitution -> change; exchange; swap; trade.
 
-supervise -> to oversee (a process, work, workers, etc.) during execution or performance;
+supervise -> to oversee (a process, work, workers, etc.) during execution or performance.
 
 commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority.
 
@@ -1076,7 +1076,11 @@ rigorous -> extremely thorough, exhaustive, or accurate.
 
 rigorously -> in a way that is severely exacting, accurate, careful, and thorough; to a high standard
 
-acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend.
+acquaint -> make someone aware of or familiar with.
+
+acquainted -> having met.
+
+acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend. / a person's knowledge or experience of something.
 
 subsequent -> coming after something in time; following.
 
@@ -1221,8 +1225,6 @@ strengthen -> make or become stronger.
 symptom -> a physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient.
 
 diagnose -> identify the nature of (an illness or other problem) by examination of the symptoms.
-
-acquainted -> having met
 
 irritate -> make (someone) annoyed or a little angry.
 
@@ -1678,7 +1680,7 @@ obligation -> the condition of being morally or legally bound to do something.
 
 euphoria -> a feeling or state of intense excitement and happiness.
 
-mock -> make (something) seem laughably unreal or impossible.
+mock -> make (something) seem laughably, unreal or impossible.
 
 casualty -> a person killed or injured in a war or accident.
 
@@ -1733,6 +1735,8 @@ absurd -> unreasonable, illogical, or inappropriate.
 allegation -> a claim or assertion that someone has done something illegal or wrong, typically one made without proof.
 
 scent -> a distinctive smell, especially one that is pleasant.
+
+continual -> frequently recurring; always happening.
 
 drifter -> a person who is continually moving from place to place, without any fixed home or job.
 
@@ -1853,6 +1857,8 @@ arouse -> evoke or awaken (a feeling, emotion, or response).
 intercourse -> communication or dealings between individuals or groups.
 
 grooming -> the practice of brushing and cleaning the coat of a horse, dog, or other animal.
+
+trim -> make (something) neat or of the required size or form by cutting away irregular or unwanted parts.
 
 trimming -> decoration, especially for clothing.
 
@@ -2250,8 +2256,6 @@ contempt -> the feeling that a person or a thing is beneath consideration, worth
 
 sarcastic -> marked by or given to using irony in order to mock or convey contempt.
 
-acquaintance -> a person's knowledge or experience of something.
-
 decipher -> convert (a text written in code, or a coded signal) into normal language.
 
 durability -> the ability to withstand wear, pressure, or damage.
@@ -2301,8 +2305,6 @@ coalesce -> come together to form one mass or whole.
 reverence -> deep respect for someone or something.
 
 veneration -> great respect; reverence.
-
-sacred -> connected with God (or the gods) or dedicated to a religious purpose and so deserving veneration.
 
 scripture -> the sacred writings of Christianity contained in the Bible.
 
@@ -3263,4 +3265,64 @@ kindle -> light or set on fire.
 restitution -> the restoration of something lost or stolen to its proper owner.
 
 screw -> https://upload.wikimedia.org/wikipedia/commons/4/4c/Screws.jpg
-	
+
+stunt -> prevent from growing or developing properly.
+
+toddler -> a young child who is just beginning to walk.
+
+wriggle -> twist and turn with quick writhing movements.
+
+squirm -> wriggle or twist the body from side to side, especially as a result of nervousness or discomfort.
+
+trip -> catch one's foot on something and stumble or fall.
+
+stumble -> trip or momentarily lose one's balance; almost fall.
+
+dazzle -> (of a bright light) blind (a person) temporarily.
+
+concession -> a thing that is granted, especially in response to demands; a thing conceded.
+
+interpolate -> insert (something of a different nature) into something else.
+
+stewardship -> the job of supervising or taking care of something, such as on organization or property.
+
+prune -> trim (a tree, shrub, or bush) by cutting away dead or overgrown branches or stems, especially to increase fruitfulness and growth.
+
+autonomous -> (of a country or region) having the freedom to govern itself or control its own affairs.
+
+depot -> a place for the storage of large quantities of equipment, food, or some other commodity.
+
+weep -> shed tears.
+
+blade -> the flat cutting edge of a knife, saw, or other tool or weapon.
+
+metamorphic -> denoting or relating to rock that has undergone transformation by heat, pressure, or other natural agencies.
+
+slate -> a fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces.
+
+quarry -> a place, typically a large, deep pit, from which stone or other materials are or have been extracted.
+
+chamber -> a large room used for formal or public events.
+
+revolver -> a pistol with revolving chambers enabling several shots to be fired without reloading.
+
+intimate -> closely acquainted; familiar, close.
+
+consecrate -> make or declare (something, typically a church) sacred; dedicate formally to a religious or divine purpose.
+
+communion -> the sharing or exchanging of intimate thoughts and feelings, especially when the exchange is on a mental or spiritual level.
+
+altar -> the table in a Christian church at which the bread and wine are consecrated in communion services.
+
+tease -> make fun of or attempt to provoke (a person or animal) in a playful way.
+
+glitter -> shine with a bright, shimmering reflected light.
+
+brook -> a small stream. / a small river.
+
+cord -> thin, flexible string or rope made from several twisted strands.
+
+whisper -> speak very softly using one's breath without one's vocal cords, especially for the sake of privacy.
+
+
+
