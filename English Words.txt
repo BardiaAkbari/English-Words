@@ -136,7 +136,7 @@ opaque -> not transparent or translucent; impenetrable to light; not allowing li
 
 minuteness -> narrowness
 
-elaborate -> worked out with great care and nicety of detail; executed with great minuteness
+elaborate -> involving many carefully arranged parts or details; detailed and complicated in design and planning.
 
 perception -> approach, attention, attitude, awareness, concept, consciousness
 
@@ -570,7 +570,7 @@ realm -> a kingdom.
 
 spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur /  relating to, occupying, or having the character of space
 
-essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features
+essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features.
 
 fraught -> (of a situation or course of action) filled with or likely to result in (something undesirable).
 
@@ -3323,6 +3323,60 @@ brook -> a small stream. / a small river.
 cord -> thin, flexible string or rope made from several twisted strands.
 
 whisper -> speak very softly using one's breath without one's vocal cords, especially for the sake of privacy.
+
+hardened -> having become or been made hard or harder.
+
+scorn -> the feeling or belief that someone or something is worthless.
+
+contempt -> the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
+
+sarcasm -> the use of irony to mock or convey contempt.
+
+indignation -> anger or annoyance provoked by what is perceived as unfair treatment.
+
+resentment -> bitter indignation at having been treated unfairly.
+
+prick -> make a small hole in (something) with a sharp point; pierce slightly.
+
+pinprick -> a prick caused by a pin.
+
+recede -> go or move back or further away from a previous position.
+
+pad -> fill or cover (something) with soft material in order to protect it or its contents, make it more comfortable, or give it a particular shape.
+
+bustle -> move in an energetic or noisy manner.
+
+aisle -> a passage between rows of seats in a building such as a church or theater, an airplane, or a train.
+
+ham -> overact.
+
+stratum -> a layer or a series of layers of rock in the ground. / a level or class to which people are assigned according to their social status, education, or income.
+
+dissertation -> a long essay on a particular subject, especially one written as a requirement for the Doctor of Philosophy degree.
+
+terminology -> the body of terms used with a particular technical application in a subject of study, profession, etc.
+
+incumbent -> necessary for (someone) as a duty or responsibility.
+
+behoove -> it is a duty or responsibility for someone to do something; it is incumbent on.
+
+banish -> send (someone) away from a country or place as an official punishment.
+
+gist -> the substance or essence of a speech or text.
+
+appetite -> a natural desire to satisfy a bodily need, especially for food.
+
+discrepancy -> a lack of compatibility or similarity between two or more facts.
+
+ubiquitous -> present, appearing, or found everywhere.
+
+demarcate -> set the boundaries or limits of.
+
+
+
+
+
+
 
 
 
