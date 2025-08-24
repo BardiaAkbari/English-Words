@@ -272,13 +272,13 @@ conjunction -> the act of joining together, or the state of being so joined; com
 
 bundled -> (of hardware or software) sold together, as a package, rather than separately.
 
-ancestor -> a person from whom one is descended; forebear
-
 descend -> move or fall downward.
 
 descendant -> a person, plant, or animal that is descended from a particular ancestor.
 
 descended -> having a specified ancestry or ethnic origin / having gone from a higher place or position to a lower one
+
+ancestor -> a person from whom one is descended; forebear
 
 pseudo -> not actually but having the appearance of; pretended; false or spurious; sham / almost, approaching, or trying to be
 
@@ -717,6 +717,8 @@ appliance -> an instrument, apparatus, or device for a particular purpose or use
 hoist -> to raise or lift, especially by some mechanical appliance.
 
 lump -> a piece or mass of solid matter without regular shape or of no particular shape.
+
+clump -> a compacted mass or lump of something.
 
 chunk -> a thick mass or lump of anything / a thick, solid piece of something.
 
@@ -1338,6 +1340,8 @@ prematurely -> before the due time; ahead of time.
 
 boredom -> the state of feeling bored.
 
+manifest -> clear or obvious to the eye or mind.
+
 embody -> provide (a spirit) with a physical form.
 
 manifestation -> an event, action, or object that clearly shows or embodies something abstract or theoretical.
@@ -1900,7 +1904,7 @@ advert -> refer to in speaking or writing.
 
 revival -> an improvement in the condition or strength of something.
 
-welfare -> 	
+welfare -> the health, happiness, and fortunes of a person or group.
 
 hereditary -> (of a title, office, or right) conferred by or based on inheritance.
 
@@ -3372,8 +3376,46 @@ ubiquitous -> present, appearing, or found everywhere.
 
 demarcate -> set the boundaries or limits of.
 
+drag -> pull (someone or something) along forcefully, roughly, or with difficulty.
 
+delinquent -> (typically of a young person or that person's behavior) showing or characterized by a tendency to commit crime, particularly minor crime.
 
+default -> (in banking system) failure to fulfill an obligation, especially to repay a loan or meet financial commitments.
+
+convolution -> a thing that is complex and difficult to follow.
+
+capstone -> a stone fixed on top of something, typically a wall.
+
+fiddle around -> to engage in aimless or unimportant activity, often for an extended period, to waste time, or to make minor, uncertain changes to something without a real purpose.
+
+solicit -> ask for or try to obtain (something) from someone.
+
+latent -> (of a quality or state) existing but not yet developed or manifest; hidden or concealed.
+
+taxonomic -> concerned with the classification of things, especially organisms.
+
+dendrogram -> a tree diagram, especially one showing taxonomic relationships.
+
+surname -> a hereditary name common to all members of a family, as distinct from a given name / last name.
+
+supplementary -> completing or enhancing something.
+
+subsidiary -> less important than but related or supplementary to something.
+
+affiliate -> officially attach or connect (a subsidiary group or a person) to an organization.
+
+patron -> a person who gives financial or other support to a person, organization, cause, or activity.
+
+parentage -> the identity and origins of one's parents.
+
+veteran -> he was a veteran of the big screen
+
+specimen -> an individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.
+
+propagate -> breed specimens of (a plant or animal) by natural processes from the parent stock.
+
+conscience -> an inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.
+	
 
 
 
