@@ -978,7 +978,7 @@ unite -> to join, combine, or incorporate so as to form a single whole or unit.
 
 distort -> make crooked or deformed.
 
-replicate -> to bend or fold back / to repeat, duplicate, or reproduce, especially for experimental purposes
+replicate -> to bend or fold back / to repeat, duplicate, or reproduce, especially for experimental purposes / make an exact copy of; reproduce.
 
 specify -> to mention or name specifically or definitely; state in detail
 
@@ -1259,8 +1259,6 @@ tailored -> (of clothes) smart, fitted, and well cut.
 bespoke -> made for a particular customer or user.
 
 aspiration -> a hope or ambition of achieving something.
-
-cultivate -> try to acquire or develop (a quality or skill).
 
 aesthetics -> the branch of philosophy that deals with the principles of beauty and artistic taste.
 
@@ -1556,7 +1554,7 @@ accordance -> conformity or agreement.
 
 comply -> (of a person or group) act in accordance with a wish or command.
 
-impeccable -> in accordance with the highest standards; faultless.
+impeccable -> (of behavior, performance, or appearance) in accordance with the highest standards of propriety; faultless.
 
 drastic -> likely to have a strong or far-reaching effect; radical and extreme.
 
@@ -1728,11 +1726,11 @@ motto -> a short sentence or phrase chosen as encapsulating the beliefs or ideal
 
 winding -> a twisting movement or course.
 
-spiral -> winding in a continuous and gradually widening (or tightening) curve
+spiral -> a spiral curve, shape, or pattern.
 
 rhyme -> correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.
 
-herd -> a large group of animals
+herd -> a large group of animals.
 
 absurd -> unreasonable, illogical, or inappropriate.
 
@@ -2026,7 +2024,7 @@ emit -> produce and discharge (something, especially gas or radiation).
 
 radiance -> light or heat as emitted or reflected by something.
 
-glow -> a steady radiance of light or heat.
+glow -> give out steady light without flame. / a steady radiance of light or heat. 
 
 implication -> the conclusion that can be drawn from something although it is not explicitly stated.
 
@@ -3416,9 +3414,38 @@ propagate -> breed specimens of (a plant or animal) by natural processes from th
 
 conscience -> an inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.
 	
+interoperate -> work in conjunction with each other.
 
+drone -> make a continuous low humming sound.
 
+entity -> a thing with distinct and independent existence.
 
+congest -> crowd (a road or place) so as to hinder or prevent freedom of movement.
 
+mortgage -> convey (a property) to a creditor as security on a loan.
 
+sequestration -> the action of taking legal possession of assets until a debt has been paid or other claims have been met.
 
+refrain -> stop oneself from doing something.
+
+waive -> refrain from insisting on or using (a right or claim).
+
+binding -> (of an agreement or promise) involving an obligation that cannot be broken.
+
+pale -> light in color or having little color.
+
+peasant -> a poor farmer of low social status who owns or rents a small piece of land for cultivation (chiefly in historical use or with reference to subsistence farming in poorer countries).
+
+subsistence -> the action or fact of maintaining or supporting oneself at a minimum level.
+
+cultivate -> prepare and use (land) for crops or gardening. / try to acquire or develop (a quality or skill).
+
+bloom -> a flower, especially one cultivated for its beauty.
+
+blush -> show shyness, embarrassment, or shame by becoming red in the face.
+
+sugarcoat -> make something seem more pleasant, acceptable, or less harsh than it really is.
+
+crystal -> clear and transparent like crystal.
+
+	
