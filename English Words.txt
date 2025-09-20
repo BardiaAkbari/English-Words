@@ -132,15 +132,17 @@ penetrate -> to pierce or pass into or through
 
 impenetrable -> not penetrable; that cannot be penetrated, pierced, entered, etc.
 
-opaque -> not transparent or translucent; impenetrable to light; not allowing light to pass through
+opaque -> not transparent or translucent; impenetrable to light; not allowing light to pass through.
 
-minuteness -> narrowness
+minuteness -> narrowness.
 
 elaborate -> involving many carefully arranged parts or details; detailed and complicated in design and planning.
 
-perception -> approach, attention, attitude, awareness, concept, consciousness
+perception -> approach, attention, attitude, awareness, concept, consciousness.
 
-dull -> boring, dim, dumb, simple, slow
+dim -> make or become less bright or distinct.
+
+dull -> boring, dim, dumb, simple, slow.
 
 obtuse -> not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull
 
@@ -431,6 +433,8 @@ explicit -> fully and clearly expressed or demonstrated; leaving nothing merely 
 idle -> not working or active; unemployed; doing nothing
 
 increment -> something added or gained; addition; increase
+
+instruct -> direct or command someone to do something, especially as an official order.
 
 direct -> to manage or guide by advice, helpful information, instruction, etc.
 
@@ -970,7 +974,7 @@ deal out -> distribute or give something to several people
 
 dispense -> to deal out; distribute
 
-cordial -> friendly; warm
+cordial -> friendly; warm.
 
 incorporate -> take in or contain (something) as part of a whole; include.
 
@@ -1672,7 +1676,7 @@ blissfully -> in a manner characterized by extreme happiness or joy.
 
 dawn -> the first appearance of light in the morning followed by sunrise
 
-forgo -> go without (something desirable).
+forgo -> omit or decline to take (something pleasant or valuable); go without.
 
 affection -> a gentle feeling of fondness or liking.
 
@@ -2028,6 +2032,8 @@ glow -> give out steady light without flame. / a steady radiance of light or hea
 
 implication -> the conclusion that can be drawn from something although it is not explicitly stated.
 
+hook -> a piece of metal or other material, curved or bent back at an angle, for catching hold of or hanging things on.
+
 hookup -> an instance of people meeting, communicating, or cooperating.
 
 tenderness -> gentleness and kindness.
@@ -2289,6 +2295,8 @@ crumble -> break or fall apart into small fragments, especially over a period of
 mend -> repair (something that is broken or damaged).
 
 intrude -> put oneself deliberately into a place or situation where one is unwelcome or uninvited.
+
+intrusion -> the action of intruding.
 
 veterinarian -> https://www.google.com/imgres?q=veterinarian&imgurl=https%3A%2F%2Fres.cloudinary.com%2Fhnpb47ejt%2Fimage%2Fupload%2Fv1646258562%2Flead-gen%2Fveterinary-technician&imgrefurl=https%3A%2F%2Fwww.careerexplorer.com%2Fcareers%2Fveterinarian%2F&docid=3vXNkwEvCGcbLM&tbnid=hXv6B5DcBh3ovM&vet=12ahUKEwiJ5vqJ8ZqKAxVsV0EAHVXBATcQM3oECHMQAA..i&w=767&h=427&hcb=2&ved=2ahUKEwiJ5vqJ8ZqKAxVsV0EAHVXBATcQM3oECHMQAA
 
@@ -2976,7 +2984,7 @@ symptom -> a physical or mental feature which is regarded as indicating a condit
 
 punctual -> happening or doing something at the agreed or proper time.
 
-stingy -> unwilling to give or spend; ungenerous. / opposite of economical
+stingy -> unwilling to give or spend; ungenerous.
 
 residual -> a quantity remaining after other things have been subtracted or allowed for.
 
@@ -3396,6 +3404,8 @@ dendrogram -> a tree diagram, especially one showing taxonomic relationships.
 
 surname -> a hereditary name common to all members of a family, as distinct from a given name / last name.
 
+supplement - > something that completes or enhances something else when added to it.
+
 supplementary -> completing or enhancing something.
 
 subsidiary -> less important than but related or supplementary to something.
@@ -3448,4 +3458,78 @@ sugarcoat -> make something seem more pleasant, acceptable, or less harsh than i
 
 crystal -> clear and transparent like crystal.
 
-	
+deck -> https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDeck_%2528building%2529&psig=AOvVaw08fodOeyDWZWO4NkGm93Zt&ust=1757349719464000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjP6oCMx48DFQAAAAAdAAAAABAM
+
+deckchair -> a folding chair of wood and canvas, typically used near the sea or on the deck of passenger ships.
+
+lawn -> an area of short, mown grass in a yard, garden, or park.
+
+starry -> full of or lit by stars.
+
+liable -> responsible by law; legally answerable.
+
+inferno -> a large fire that is dangerously out of control.
+
+resound -> (of a sound, voice, etc.) fill a place with sound; be loud enough to echo.
+
+precursor -> a person or thing that comes before another of the same kind; a forerunner.
+
+seal -> a device or substance that is used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them.
+
+envelope -> a flat paper container with a sealable flap, used to enclose a letter or document.
+
+jargon -> special words or expressions that are used by a particular profession or group and are difficult for others to understand.
+
+buzzword -> a word or phrase, often an item of jargon, that is fashionable at a particular time or in a particular context.
+
+prevalent -> widespread in a particular area or at a particular time.
+
+literary -> concerning the writing, study, or content of literature, especially of the kind valued for quality of form.
+
+colloquial -> (of language) used in ordinary or familiar conversation; not formal or literary.
+
+insulate -> protect (something) by interposing material that prevents the loss of heat or the intrusion of sound.
+
+interpose -> place or insert between one thing and another.
+
+attenuation -> the reduction of the force, effect, or value of something.
+
+choir -> an organized group of singers, typically one that takes part in church services or performs regularly in public.
+
+conductor -> a person who directs the performance of an orchestra or choir.
+
+terrestrial -> of, on, or relating to the earth.
+
+archaic -> very old or old-fashioned.
+
+compartment -> a separate section of a structure or container in which certain items can be kept separate from others.
+
+stall -> To delay or stop progress intentionally. / A small enclosed area or compartment.
+
+swarm -> a large or dense group of insects, especially flying ones.
+
+chunk -> a thick, solid piece of something.
+
+canon -> a general law, rule, principle, or criterion by which something is judged.
+
+canonical -> according to or ordered by canon law.
+
+hindsight -> understanding of a situation or event only after it has happened or developed.
+
+foe -> an enemy or opponent.
+
+vegetation -> plants considered collectively, especially those found in a particular area or habitat.
+
+bleak -> (of an area of land) lacking vegetation and exposed to the elements.
+
+dreary -> dull, bleak, and lifeless; depressing.
+
+dismal -> depressing; dreary.
+
+sparing -> moderate; economical.
+
+frugal -> sparing or economical with regard to money or food.
+
+parsimonious -> unwilling to spend money or use resources; stingy or frugal.
+
+noxious -> harmful, poisonous, or very unpleasant.
