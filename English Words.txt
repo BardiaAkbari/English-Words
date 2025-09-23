@@ -14,7 +14,7 @@ vigor -> active strength or force
 
 vigorous -> full of or characterized by vigor
 
-migrate -> to go from one country, region, or place to another
+migrate -> to go from one country, region, or place to another.
 
 analogy -> a similarity between like features of two things, on which a comparison may be based
 
@@ -178,9 +178,9 @@ compound -> composed of two or more parts, elements, or ingredients
 
 heroic -> Also heroical . of, relating to, or characteristic of a hero or heroine
 
-delicate -> fine in texture, quality, construction, etc
+delicate -> fine in texture, quality, construction, etc. / easily broken or damaged; fragile.
 
-fragile -> easily broken, shattered, or damaged; delicate; brittle; frail
+fragile -> easily broken, shattered, or damaged; delicate; brittle; frail.
 
 robust -> strong and healthy; hardy; vigorous
 
@@ -348,9 +348,9 @@ mischief -> action or behavior (especially of children) that causes small troubl
 
 shenanigans -> trick, prank; mischief
 
-decay -> to (cause to) become to ruined
+decay -> (of organic matter) rot or decompose through the action of bacteria and fungi.
 
-corruption -> dishonesty; immorality; decay
+corruption -> dishonesty; immorality; decay.
 
 substitute -> to put in, or to take, the place of someone or something else / a person or thing acting or serving in place of another.
 
@@ -1930,6 +1930,8 @@ contradiction -> a combination of statements, ideas, or features of a situation 
 
 rebuttal -> a refutation or contradiction.
 
+leisure -> free time.
+
 leisurely -> without hurry.
 
 wander -> walk or move in a leisurely, casual, or aimless way.
@@ -2746,7 +2748,7 @@ alibi -> a claim or piece of evidence that one was elsewhere when an act, especi
 
 ancillary -> providing necessary support to the primary activities or operation of an organization, institution, industry, or system.
 
-cater -> provide
+cater -> provide.
 
 bog -> wet muddy ground too soft to support a heavy body.
 
@@ -3533,3 +3535,23 @@ frugal -> sparing or economical with regard to money or food.
 parsimonious -> unwilling to spend money or use resources; stingy or frugal.
 
 noxious -> harmful, poisonous, or very unpleasant.
+
+benevolent -> well meaning and kindly.
+
+contemplate -> look thoughtfully for a long time at.
+
+eerie -> strange and frightening.
+
+turquoise -> strange and frightening.
+
+frailty -> the condition of being weak and delicate.
+
+tremble -> (of a person or part of the body) shake involuntarily, typically as a result of anxiety, excitement, or frailty.
+
+quiver -> tremble or shake with a slight rapid motion.
+
+waver -> shake with a quivering motion.
+
+resolute -> admirably purposeful, determined, and unwavering.
+
+stroke -> a sudden occurrence of something
