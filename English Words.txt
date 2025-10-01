@@ -180,6 +180,8 @@ heroic -> Also heroical . of, relating to, or characteristic of a hero or heroin
 
 delicate -> fine in texture, quality, construction, etc. / easily broken or damaged; fragile.
 
+frail -> (of a person) weak and delicate.
+
 fragile -> easily broken, shattered, or damaged; delicate; brittle; frail.
 
 robust -> strong and healthy; hardy; vigorous
@@ -1452,7 +1454,7 @@ propositions -> a suggested scheme or plan of action, especially in a business c
 
 harness -> control and make use of (natural resources), especially to produce energy.
 
-subtle -> making use of clever and indirect methods to achieve something.
+subtle -> making use of clever and indirect methods to achieve something. / (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.
 
 appealingly -> in a way that is attractive or interesting.
 
@@ -3573,3 +3575,32 @@ cinch -> an extremely easy task.
 pimp -> a man who controls prostitutes and arranges clients for them, taking part of their earnings in return.
 
 inquiry -> an act of asking for information.
+
+seize -> take hold of suddenly and forcibly.
+
+acclaimed -> publicly praised; celebrated.
+
+seldom -> not often; rarely.
+
+splendid -> magnificent; very impressive.
+
+sumptuous -> splendid and expensive-looking.
+
+banquet -> an elaborate and formal meal for many people.
+
+lavish -> sumptuously rich, elaborate, or luxurious.
+
+flatter -> lavish insincere praise and compliments upon (someone), especially to further one's own interests.
+
+vain -> having or showing an excessively high opinion of one's appearance, abilities, or worth.
+
+guts -> the internal organs in your belly (stomach, intestines, etc.). / having the nerve to do something risky.
+
+heed -> pay attention to; take notice of.
+
+reck -> pay heed to something.
+
+reckless -> (of a person or their actions) without thinking or caring about the consequences of an action.
+
+tipping point -> the point at which a series of small changes or incidents becomes significant enough to cause a larger, more important change.
+
