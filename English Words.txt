@@ -10,9 +10,9 @@ propose -> to offer or suggest
 
 exert -> make a physical or mental effort.
 
-vigor -> active strength or force
+vigor -> active strength or force.
 
-vigorous -> full of or characterized by vigor
+vigorous -> full of or characterized by vigor.
 
 migrate -> to go from one country, region, or place to another.
 
@@ -176,13 +176,13 @@ compose -> to make or form by combining things, parts, or elements
 
 compound -> composed of two or more parts, elements, or ingredients
 
-heroic -> Also heroical . of, relating to, or characteristic of a hero or heroine
-
-delicate -> fine in texture, quality, construction, etc. / easily broken or damaged; fragile.
+heroic -> also heroical . of, relating to, or characteristic of a hero or heroine.
 
 frail -> (of a person) weak and delicate.
 
 fragile -> easily broken, shattered, or damaged; delicate; brittle; frail.
+
+delicate -> fine in texture, quality, construction, etc. / easily broken or damaged; fragile.
 
 robust -> strong and healthy; hardy; vigorous
 
@@ -330,6 +330,8 @@ expense -> cost or charge
 
 conversion -> the act or process of converting; state of being converted / a change in character, form, or function
 
+merit -> the quality of being particularly good or worthy, especially so as to deserve praise or reward.
+
 criticize -> to censure or find fault with / to judge or discuss the merits and faults of
 
 argument -> a reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong. / an exchange of diverging or opposite views, typically a heated or angry one.
@@ -340,7 +342,7 @@ pioneer -> a person who is among those who first enter or settle a region, thus 
 
 strip -> to deprive of covering
 
-characteristics ->distinguishing quality; trait, attribute
+characteristics -> distinguishing quality; trait, attribute
 
 delegate -> to give (a piece of work, power etc. ) to someone else
 
@@ -548,7 +550,7 @@ restrict -> to confine or keep within limits, as of space, action, choice, inten
 
 contingent -> dependent for existence, occurrence, character, etc., on something not yet certain; conditional
 
-sole -> being the only one of the kind
+sole -> being the only one of the kind.
 
 solely -> exclusively or only
 
@@ -1346,7 +1348,7 @@ boredom -> the state of feeling bored.
 
 manifest -> clear or obvious to the eye or mind.
 
-embody -> provide (a spirit) with a physical form.
+embody -> be an expression of or give a tangible or visible form to (an idea, quality, or feeling)..
 
 manifestation -> an event, action, or object that clearly shows or embodies something abstract or theoretical.
 
@@ -2670,6 +2672,8 @@ excrement -> waste matter discharged from the bowels; feces.
 
 swage -> waste water and excrement conveyed in sewers.
 
+swagger -> walk or behave in a very confident and typically arrogant or aggressive way.
+
 sanitary -> relating to the conditions that affect hygiene and health, especially the supply of sewage facilities and clean drinking water.
 
 scaffolding -> a temporary structure on the outside of a building, made usually of wooden planks and metal poles, used by workers while building, repairing, or cleaning the building.
@@ -2704,7 +2708,7 @@ aversion -> a strong dislike or disinclination.
 
 mars -> to damage, spoil, or ruin the appearance or quality of something.
 
-flawless -> a mark, fault, or other imperfection that mars a substance or object.
+flawl-> a mark, fault, or other imperfection that mars a substance or object.
 
 accountability -> the fact or condition of being accountable; responsibility.
 
@@ -2938,7 +2942,7 @@ fumble -> use the hands clumsily while doing or handling something.
 
 interject -> say (something) abruptly, especially as an aside or interruption.
 
-nodded -> lower and raise one's head slightly and briefly, especially in greeting, or understanding, or to give someone a signal.
+nod -> lower and raise one's head slightly and briefly, especially in greeting, or understanding, or to give someone a signal.
 
 fluke -> an unlikely chance occurrence, especially a surprising piece of luck.
 
@@ -3603,4 +3607,46 @@ reck -> pay heed to something.
 reckless -> (of a person or their actions) without thinking or caring about the consequences of an action.
 
 tipping point -> the point at which a series of small changes or incidents becomes significant enough to cause a larger, more important change.
+
+mundane -> lacking interest or excitement; dull.
+
+itinerary -> a planned route or journey.
+
+fidget -> make small movements, especially of the hands and feet, through nervousness or impatience.
+
+torso -> the trunk of the human body.
+
+belittle -> make (someone or something) seem unimportant.
+
+staple -> https://upload.wikimedia.org/wikipedia/commons/d/df/Office-staples.jpg / main or important, especially in terms of consumption.
+
+squash -> crush or squeeze (something) with force so that it becomes flat, soft, or out of shape.
+
+palpable -> (of a feeling or atmosphere) so intense as to seem almost tangible.
+
+implicate -> police claims implicated him in many more killings
+
+complicit -> involved with others in an illegal activity or wrongdoing.
+
+shallow -> of little depth.
+
+reminiscent -> tending to remind one of something.
+
+accolade -> an award or privilege granted as a special honor or as an acknowledgment of merit.
+
+outrageous -> shockingly bad or excessive.
+
+centerpiece -> a decorative piece or display placed in the middle of a dining or serving table.
+
+flaunt -> display (something) ostentatiously, especially in order to provoke envy or admiration or to show defiance.
+
+gloom -> partial or total darkness.
+
+attorney -> a person appointed to act for another in business or legal matters.
+
+prosecutor -> a person, especially a public official, who institutes legal proceedings against someone.
+
+tonic -> a medicinal substance taken to give a feeling of vigor or well-being.
+
+tenant -> a person who occupies land or property rented from a landlord.
 
