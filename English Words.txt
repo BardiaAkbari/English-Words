@@ -18,7 +18,7 @@ migrate -> to go from one country, region, or place to another.
 
 analogy -> a similarity between like features of two things, on which a comparison may be based
 
-correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc
+correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc.
 
 utility -> the state or quality of being useful; usefulness
 
@@ -90,9 +90,9 @@ deity -> a god or goddess (in a polytheistic religion).
 
 invoke -> to call for with earnest desire; make supplication or pray for / to call on (a deity, Muse, etc.), as in prayer or supplication.
 
-sincere -> genuine; real
+sincere -> genuine; real.
 
-compel -> to force or drive, especially to a course of action
+compel -> force or oblige (someone) to do something.
 
 moreover -> in addition to what has been said; further; besides
 
@@ -224,15 +224,15 @@ persist -> to continue steadfastly or firmly in some state, purpose, course of a
 
 perseverance -> steady persistence in a course of action, a purpose, a state, etc., especially in spite of difficulties, obstacles, or discouragement
 
-laborious -> requiring much work, exertion, or perseverance
+laborious -> requiring much work, exertion, or perseverance.
 
-trivial -> of very little importance or value; insignificant
+trivial -> of very little importance or value; insignificant.
 
-inconsequential -> of little or no importance; insignificant; trivial
+inconsequential -> of little or no importance; insignificant; trivial.
 
-liable -> legally responsible
+liable -> responsible by law; legally answerable.
 
-embed -> to fix into a surrounding mass
+embed -> to fix into a surrounding mass.
 
 merely -> only as specified and nothing more; simply
 
@@ -524,6 +524,8 @@ utter -> to give audible expression to; speak or pronounce.
 
 utterly -> in an utter manner; completely: absolutely.
 
+sake -> for the purpose of; in the interest of; in order to achieve or preserve.
+
 forsake -> to quit or leave entirely; abandon; desert.
 
 abandon -> to leave completely and finally; forsake utterly; desert.
@@ -786,6 +788,8 @@ constituent -> serving to compose or make up a thing; component
 
 decompose -> to separate or resolve into constituent parts or elements; disintegrate
 
+cease -> bring or come to an end.
+
 halt -> to stop; cease moving, operating, etc., either permanently or temporarily
 
 viable -> capable of living
@@ -796,15 +800,13 @@ punchy -> being or appearing vigorously effective; forceful.
 
 contender -> a person or group that competes against others to win something; contestant
 
-aught -> anything whatever; any part
-
-pile -> Informal. a large number, quantity, or amount of anything
+aught -> anything whatever; any part.
 
 adverse -> unfavorable or antagonistic in purpose or effect.
 
 beneath -> below; in or to a lower place, position, state, or the like.
 
-shelter -> something beneath, behind, or within which a person, animal, or thing is protected from storms, missiles, adverse conditions, etc.; refuge.
+shelter -> a place giving temporary protection from bad weather or danger.
 
 hive -> a shelter constructed for housing a colony of honeybees; beehive.
 
@@ -844,7 +846,7 @@ deviate -> to turn aside, as from a route, way, course
 
 venue -> the scene or locale of any action or event.
 
-allude -> to refer casually or indirectly; make an allusion 
+allude -> suggest or call attention to indirectly; hint at.
 
 initiative -> an introductory act or step; leading action
 
@@ -1006,7 +1008,7 @@ astound -> shock with wonder or surprise.
 
 upon -> immediately or very soon after / up and on; upward so as to get or be on
 
-advent -> a coming into place, view, or being; arrival
+advent ->the arrival of a notable person, thing, or event.
 
 reflect -> think about (sometimes)
 
@@ -1020,17 +1022,17 @@ refine -> to bring to a fine or a pure state; free from impurities
 
 latter -> being the second mentioned of two
 
-covenant -> an agreement or promise, usually formal, between two or more people or groups to do or not do something specified.
+covenant -> an agreement.
 
-testament -> Law / a covenant, especially between God and humans.
+testament -> a covenant, especially between god and humans. / a person's will, especially the part relating to personal property.
 
-bear -> carry
+bear -> carry.
 
 sustain -> to support, hold, or bear up from below; bear the weight of, as a structure.
 
 undergo -> experience; pass through / to endure; sustain; suffer
 
-endure -> to admit of; allow; bear / to hold out against; sustain without impairment or yielding; undergo
+endure -> to admit of; allow; bear / to hold out against; sustain without impairment or yielding; undergo.
 
 articulate -> capable of speech; not speechless.
 
@@ -1054,7 +1056,7 @@ amicably -> with goodwill; in a friendly or peaceable way
 
 moderate -> kept or keeping within reasonable or proper limits; not extreme, excessive, or intense:
 
-vague -> not clearly or explicitly stated or expressed
+vague -> not clearly or explicitly stated or expressed.
 
 notion -> a general understanding; vague or imperfect conception or idea of something
 
@@ -1428,11 +1430,9 @@ fallacy -> a mistaken belief, especially one based on unsound arguments.
 
 prostitute -> a person, in particular a woman, who engages in sexual activity for payment.
 
-liable -> responsible by law; legally answerable.
-
 prone -> likely or liable to suffer from, do, or experience something unpleasant or regrettable.
 
-breed -> a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection.
+breed -> a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection. / (of animals) mate and then produce offspring.
 
 deliberate -> done consciously and intentionally.
 
@@ -1476,7 +1476,9 @@ litter -> rubbish such as paper, cans, and bottles left lying in an open or publ
 
 sweep -> clean (an area) by brushing away dirt or litter.
 
-ornament -> to add decoration to something
+figurine -> a statuette, especially one of a human form.
+
+ornament -> a thing used to make something look more attractive but usually having no practical purpose, especially a small object such as a figurine.
 
 erect -> put together and set upright (a building, wall, or other structure).
 
@@ -1535,6 +1537,8 @@ synthesis -> the combination of components or elements to form a connected whole
 synthetic -> (of a substance) made by chemical synthesis, especially to imitate a natural product.
 
 hollow -> having a hole or empty space inside.
+
+breach -> an act of breaking or failing to observe a law, agreement, or code of conduct.
 
 receptacle -> a hollow object used to contain something.
 
@@ -3238,9 +3242,9 @@ plausible -> (of an argument or statement) seeming reasonable or probable.
 
 heartstring -> used in reference to one's deepest feelings of love or compassion.
 
-longing -> a yearning desire.
-
 yearn -> have an intense feeling of longing for something, typically something that one has lost or been separated from.
+
+longing -> a yearning desire.
 
 anonymize -> remove identifying particulars or details from (something, especially medical test results), typically for statistical or other purposes.
 
@@ -3474,8 +3478,6 @@ lawn -> an area of short, mown grass in a yard, garden, or park.
 
 starry -> full of or lit by stars.
 
-liable -> responsible by law; legally answerable.
-
 inferno -> a large fire that is dangerously out of control.
 
 resound -> (of a sound, voice, etc.) fill a place with sound; be loud enough to echo.
@@ -3630,6 +3632,8 @@ complicit -> involved with others in an illegal activity or wrongdoing.
 
 shallow -> of little depth.
 
+reminisce -> indulge in enjoyable recollection of past events.
+
 reminiscent -> tending to remind one of something.
 
 accolade -> an award or privilege granted as a special honor or as an acknowledgment of merit.
@@ -3649,4 +3653,59 @@ prosecutor -> a person, especially a public official, who institutes legal proce
 tonic -> a medicinal substance taken to give a feeling of vigor or well-being.
 
 tenant -> a person who occupies land or property rented from a landlord.
+
+gab -> talk at length, typically about trivial matters.
+
+shack -> a roughly built hut or cabin.
+
+bank -> the land alongside or sloping down to a river or lake.
+
+authentic -> of undisputed origin; genuine.
+
+spoken -> speaking in a specified way.
+
+vase -> a decorative container, typically made of glass or china and used as an ornament or for displaying cut flowers.
+
+fairytale -> a children's story about magical and imaginary beings and lands.
+
+nuisance -> a person, thing, or circumstance causing inconvenience or annoyance.
+
+bud -> a compact growth on a plant that develops into a leaf, flower, or shoot.
+
+prey -> an animal that is caught and killed by another for food.
+
+bait -> food used to entice fish or other animals as prey.
+
+temptation -> the desire to do something, especially something wrong or unwise.
+
+linger -> stay in a place longer than necessary because of a reluctance to leave.
+
+pensive -> engaged in, involving, or reflecting deep or serious thought.
+
+melancholic -> feeling or expressing pensive sadness.
+
+wistful -> having or showing a feeling of vague or regretful longing.
+
+infatuate -> be inspired with an intense but short-lived passion or admiration for.
+
+boulder -> a large rock, typically one that has been worn smooth by erosion.
+
+celestial -> positioned in or relating to the sky, or outer space as observed in astronomy.
+
+cosmetic -> involving or relating to treatment intended to restore or improve a person's appearance.
+
+cosmic -> relating to the universe or cosmos, especially as distinct from the earth.
+
+reproachful -> expressing disapproval or disappointment.
+
+remonstrate -> make a forcefully reproachful protest.
+
+scold -> remonstrate with or rebuke (someone) angrily.
+	
+upbraid -> find fault with (someone); scold.
+
+wither -> (of a plant) become dry and shriveled.
+
+fatalistic -> relating to or characteristic of the belief that all events are predetermined and therefore inevitable.
+	
 
