@@ -190,17 +190,17 @@ delicate -> fine in texture, quality, construction, etc. / easily broken or dama
 
 robust -> strong and healthy; hardy; vigorous
 
-frail -> having delicate health; not robust; weak
+frail -> having delicate health; not robust; weak.
 
-brittle -> easily damaged or destroyed; fragile; frail
+brittle -> easily damaged or destroyed; fragile; frail.
 
 juggernaut -> any large, overpowering force or object, such as war, a giant battleship, or a powerful football team
 
-penetrate -> to pierce or pass into or through
+penetrate -> to pierce or pass into or through.
 
-profound -> penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding
+profound -> penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding.
 
-devotion -> profound dedication, especially to religion
+devotion -> profound dedication, especially to religion. / love, loyalty, or enthusiasm for a person, activity, or cause.
 
 engage -> to occupy the attention or efforts of (a person or persons)
 
@@ -300,7 +300,11 @@ irresistible -> not resistible; incapable of being resisted or withstood
 
 vogue -> something in fashion, as at a particular time / popular currency, acceptance, or favor; popularity
 
-incline -> feel willing or favorably disposed toward (an action, belief, or attitude).
+dispose -> bring (someone) into a particular frame of mind.
+
+disposal -> the action or process of getting rid of something. / access.
+
+incline -> feel willing or favorably disposed toward (an action, belief, or attitude). / leaning or turning away from the vertical or horizontal; sloping.
 
 tend -> to be disposed or inclined in action, operation, or effect to do something
 
@@ -542,6 +546,8 @@ entrust -> to charge or invest with a trust or responsibility; charge with a spe
 
 commission -> the act of committing or entrusting a person, group, etc., with supervisory power or authority.
 
+diminish -> make or become less.
+
 diminished -> reduced or lessened; made smaller.
 
 impairment -> the state of being diminished, weakened, or damaged, especially mentally or physically. / the state or fact of a faculty or function being weakened or damaged.
@@ -612,7 +618,7 @@ cumbersome -> burdensome; troublesome
 
 abundant -> present in great quantity; more than adequate; oversufficient
 
-progenitor -> a biologically related ancestor
+progenitor -> a biologically related ancestor.
 
 offspring -> children or young of a particular parent or progenitor.
 
@@ -678,17 +684,17 @@ fleet -> a group of ships sailing together, engaged in the same activity, or und
 
 swift -> happening quickly or promptly; rapid.
 
-obsolete -> no longer in general use; fallen into disuse
+obsolete -> no longer in general use; fallen into disuse.
 
 inventive -> (of a person) having the ability to create or design new things or to think originally.
 
 ingenuity -> the quality of being clever, original, and inventive.
 
-contrive -> to plan with ingenuity; devise; invent
+elaborate -> worked out with great care and nicety of detail; executed with great minuteness.
 
-elaborate -> worked out with great care and nicety of detail; executed with great minuteness
+devise -> to contrive, plan, or elaborate; invent from existing principles or ideas.
 
-devise -> to contrive, plan, or elaborate; invent from existing principles or ideas
+contrive -> to plan with ingenuity; devise; invent.
 
 barrier -> anything built or serving to bar passage, as a railing, fence, or the like
 
@@ -732,7 +738,7 @@ appliance -> an instrument, apparatus, or device for a particular purpose or use
 
 hoist -> to raise or lift, especially by some mechanical appliance.
 
-lump -> a piece or mass of solid matter without regular shape or of no particular shape.
+lump -> a compact mass of a substance, especially one without a definite or regular shape.
 
 clump -> a compacted mass or lump of something.
 
@@ -1064,11 +1070,11 @@ moderate -> kept or keeping within reasonable or proper limits; not extreme, exc
 
 vague -> not clearly or explicitly stated or expressed.
 
-notion -> a general understanding; vague or imperfect conception or idea of something
-
-conceive -> to form (a notion, opinion, purpose, etc.)
-
 conception -> the act of conceiving; the state of being conceived.
+
+notion -> a general understanding; vague or imperfect conception or idea of something.
+
+conceive -> to form (a notion, opinion, purpose, etc.). / become pregnant with (a child).
 
 dissect -> to examine minutely part by part; analyze.
 
@@ -1615,10 +1621,6 @@ labor -> work, especially physical work.
 cushion -> a bag of cloth stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.
 
 rational -> based on or in accordance with reason or logic.
-
-dispose -> bring (someone) into a particular frame of mind.
-
-disposal -> the action or process of getting rid of something. / access.
 
 dilemma -> a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.
 
@@ -2558,6 +2560,8 @@ moisture -> water or other liquid diffused in a small quantity as vapor, within 
 
 rust -> a reddish- or yellowish-brown flaky coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.
 
+decree -> an official order issued by a legal authority.
+
 revoke -> put an end to the validity or operation of (a decree, decision, or promise).
 
 annulled -> declare invalid (an official agreement, decision, or result).
@@ -2801,8 +2805,6 @@ reprimand -> a rebuke, especially an official one.
 swamp -> https://www.google.com/url?sa=i&url=https%3A%2F%2Fmybestplace.com%2Fen%2Farticle%2Fmanchac-swamp-the-most-terrifying-place-in-louisiana&psig=AOvVaw0hDiO3YZWLkqsZ1HmoL8xi&ust=1745930554028000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiZu6ng-owDFQAAAAAdAAAAABAI
 
 favorably -> with approval.
-
-incline -> feel willing or favorably disposed toward (an action, belief, or attitude).
 
 incubate -> keep something in the right conditions so it can develop or grow.
 
@@ -3723,4 +3725,19 @@ antagonize -> cause (someone) to become hostile or angry.
 gratification -> pleasure, especially when gained from the satisfaction of a desire.
 
 sensual -> relating to or involving gratification of the senses and physical, especially sexual, pleasure.
+
+prenatal -> before birth; during or relating to pregnancy.
+
+fetus -> an offspring of a human or other mammal in the stages of prenatal development that follow the embryo stage (in humans taken as beginning eight weeks after conception).
+
+gestate -> carry a fetus in the womb from conception to birth.
+
+uterus -> the organ in the lower body of a woman or female mammal where offspring are conceived and in which they gestate before birth; the womb.
+
+eradicate -> destroy completely; put an end to.
+
+fertilize -> cause (an egg, female animal, or plant) to develop a new individual by introducing male reproductive material.
+
+eugenics -> the study of how to arrange reproduction within a human population to increase the occurrence of heritable characteristics regarded as desirable. Developed largely by Sir Francis Galton as a method of improving the human race, eugenics was increasingly discredited as unscientific and racially biased during the 20th century, especially after the adoption of its doctrines by the Nazis in order to justify their treatment of Jews, disabled people, and other minority groups.
+
 
