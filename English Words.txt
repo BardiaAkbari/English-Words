@@ -66,27 +66,31 @@ substantial -> of ample or considerable amount, quantity, size, etc.
 
 portion -> a part of any whole, either separated from or integrated with it
 
+rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.
+
+stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite. / raise levels of physiological or nervous activity in (the body or any biological system).
+
+provoke -> stimulate or give rise to (a reaction or emotion, typically a strong or unwelcome one) in someone.
+
 appetizer -> a small portion of a food or drink served before or at the beginning of a meal to stimulate the desire to eat.
 
 abolish -> formally put an end to (a system, practice, or institution).
 
-suppress -> to do away with by or as by authority; abolish; stop (a practice, custom, etc.)
+suppress -> to do away with by or as by authority; abolish; stop (a practice, custom, etc.). / forcibly put an end to.
 
 apathy -> absence or suppression of passion, emotion, or excitement / lack of interest in or concern for things that others find moving or exciting
 
-endeavor -> to attempt; try / to exert oneself to do or effect something; make an effort; strive
+endeavor -> to attempt; try / to exert oneself to do or effect something; make an effort; strive.
 
-imitate -> to follow or endeavor to follow as a model or example
+imitate -> to follow or endeavor to follow as a model or example.
 
-rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.
+earnest -> serious in intention, purpose, or effort.
 
-stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite
-
-earnest -> serious in intention, purpose, or effort
+deity -> a god or goddess (in a polytheistic religion).
 
 goddess -> a female deity.
 
-deity -> a god or goddess (in a polytheistic religion).
+supplication -> the action of asking or begging for something earnestly or humbly.
 
 invoke -> to call for with earnest desire; make supplication or pray for / to call on (a deity, Muse, etc.), as in prayer or supplication.
 
@@ -592,6 +596,8 @@ devour -> to swallow or eat up hungrily, voraciously, or ravenously.
 
 drain -> to withdraw or draw off (a liquid) gradually; remove slowly or by degrees, as by filtration.
 
+fatigue -> extreme tiredness resulting from mental or physical exertion or illness.
+
 exhaust -> to drain of strength or energy, wear out, or fatigue greatly, as a person.
 
 plague -> an epidemic disease that causes high mortality; pestilence.
@@ -770,7 +776,7 @@ vertex -> the highest point of something; apex; summit; top
 
 departure -> leave-taking, exit, going, leaving
 
-deviation -> departure from a standard or norm
+deviation -> departure from a standard or norm.
 
 correlate  -> to place in or bring into mutual or reciprocal relation; establish in orderly connection
 
@@ -842,7 +848,7 @@ cramming -> packing, storing
 
 bump -> to cause to strike or collide
 
-deviate -> to turn aside, as from a route, way, course
+deviate -> to turn aside, as from a route, way, course. / depart from an established course.
 
 venue -> the scene or locale of any action or event.
 
@@ -856,9 +862,9 @@ thrilled -> feeling very pleased or happily excited; delighted.
 
 solid -> having three dimensions (length, breadth, and thickness), as a geometrical body or figure.
 
-prohibited -> forbidden by authority or law
+prohibited -> forbidden by authority or law.
 
-hostile -> of, relating to, or characteristic of an enemy
+hostile -> of, relating to, or characteristic of an enemy.
 
 unanimous -> of one mind; in complete agreement; agreed
 
@@ -3708,4 +3714,13 @@ wither -> (of a plant) become dry and shriveled.
 
 fatalistic -> relating to or characteristic of the belief that all events are predetermined and therefore inevitable.
 	
+confrontation -> a hostile or argumentative meeting or situation between opposing parties.
+
+indoctrinate -> teach (a person or group) to accept a set of beliefs uncritically.
+
+antagonize -> cause (someone) to become hostile or angry.
+
+gratification -> pleasure, especially when gained from the satisfaction of a desire.
+
+sensual -> relating to or involving gratification of the senses and physical, especially sexual, pleasure.
 
