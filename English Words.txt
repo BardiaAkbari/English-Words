@@ -104,7 +104,7 @@ entrepreneur -> a person who organizes and manages any enterprise, especially a 
 
 transcend -> to rise above or go beyond; overpass; exceed
 
-virtue -> behavior showing high moral standards.
+virtue -> behavior showing high moral standards. / the good qualities inherent in a person or thing. / knowledge of or expertise in the fine arts.
 
 cogent -> convincing or believable by virtue of forcible, clear, or incisive presentation; telling
 
@@ -182,15 +182,13 @@ compound -> composed of two or more parts, elements, or ingredients
 
 heroic -> also heroical . of, relating to, or characteristic of a hero or heroine.
 
-frail -> (of a person) weak and delicate.
+frail -> having delicate health; not robust; weak. / (of a person) weak and delicate. 
 
 fragile -> easily broken, shattered, or damaged; delicate; brittle; frail.
 
 delicate -> fine in texture, quality, construction, etc. / easily broken or damaged; fragile.
 
-robust -> strong and healthy; hardy; vigorous
-
-frail -> having delicate health; not robust; weak.
+robust -> strong and healthy; hardy; vigorous.
 
 brittle -> easily damaged or destroyed; fragile; frail.
 
@@ -204,13 +202,13 @@ devotion -> profound dedication, especially to religion. / love, loyalty, or ent
 
 engage -> to occupy the attention or efforts of (a person or persons)
 
-affair -> anything done or to be done; anything requiring action or effort; business; concern
+affair -> anything done or to be done; anything requiring action or effort; business; concern.
 
 forum -> the marketplace or public square of an ancient Roman city, the center of judicial and business affairs and a place of assembly for the people
 
 disperse -> to drive or send off in various directions; scatter
 
-bid -> to command; order; direct
+bid -> to command; order; direct.
 
 depart -> to go away; leave
 
@@ -662,7 +660,7 @@ jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, f
 
 attain -> to reach, achieve, or accomplish; gain; obtain
 
-pursuit -> an effort to secure or attain; quest
+pursuit -> the action of following or pursuing someone or something.
 
 quest -> a search or pursuit made in order to find or obtain something
 
@@ -956,15 +954,15 @@ provident -> having or showing foresight; providing carefully for the future.
 
 expedient -> tending to promote some proposed or desired object; fit or suitable for the purpose; proper under the circumstances
 
-judicious -> using or showing judgment as to action or practical expediency; discreet, prudent, or politic
+judicious -> having, showing, or done with good judgment or sense.
 
-keen -> finely sharpened, as an edge; so shaped as to cut or pierce substances readily
+keen -> finely sharpened, as an edge; so shaped as to cut or pierce substances readily.
 
-discreet -> careful, reasonable
+discreet -> careful, reasonable.
 
-sagacious -> having or showing acute mental discernment and keen practical sense; shrewd
+sagacious -> having or showing acute mental discernment and keen practical sense; shrewd.
 
-prudent -> wise or judicious in practical affairs; discreet or circumspect; sagacious; sober.
+prudent -> acting with or showing care and thought for the future.
 
 hurl -> to throw or cast down.
 
@@ -1500,7 +1498,9 @@ monument -> a statue, building, or other structure erected to commemorate a nota
 
 pillar -> a tall vertical structure of stone, wood, or metal, used as a support for a building, or as an ornament or monument.
 
-pursue -> follow or chase (someone or something).
+pursue -> follow or chase (someone or something). / follow (someone or something) in order to catch or attack them.
+
+persecution -> hostility and ill-treatment, especially on the basis of ethnicity, religion, or sexual orientation or political beliefs.
 
 sanctuary -> refuge or safety from pursuit, persecution, or other danger.
 
@@ -3064,6 +3064,8 @@ dogmatic -> strongly opinionated and often unwilling to consider other views
 
 prosperity -> having what you need to live well	
 
+persuade -> cause (someone) to do something through reasoning or argument.
+
 prompting -> the action of saying something to persuade, encourage, or remind someone to do or say something.
 
 fervor -> intense and passionate feeling.
@@ -3740,4 +3742,16 @@ fertilize -> cause (an egg, female animal, or plant) to develop a new individual
 
 eugenics -> the study of how to arrange reproduction within a human population to increase the occurrence of heritable characteristics regarded as desirable. Developed largely by Sir Francis Galton as a method of improving the human race, eugenics was increasingly discredited as unscientific and racially biased during the 20th century, especially after the adoption of its doctrines by the Nazis in order to justify their treatment of Jews, disabled people, and other minority groups.
 
+debunk -> expose the falseness or hollowness of (a myth, idea, or belief).
 
+tally -> a current score or amount.
+
+retaliation -> the action of returning a military attack; counterattack.
+
+predicate -> the part of a sentence or clause containing a verb and stating something about the subject (e.g., went home in John went home ).
+
+reconcile -> restore friendly relations between.
+
+prosecution -> the institution and conducting of legal proceedings against someone in respect of a criminal charge.
+
+prudence -> the quality of being prudent; cautiousness.
