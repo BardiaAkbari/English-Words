@@ -140,8 +140,6 @@ opaque -> not transparent or translucent; impenetrable to light; not allowing li
 
 minuteness -> narrowness.
 
-elaborate -> involving many carefully arranged parts or details; detailed and complicated in design and planning.
-
 perception -> approach, attention, attitude, awareness, concept, consciousness.
 
 dim -> make or become less bright or distinct.
@@ -153,8 +151,6 @@ obtuse -> not quick or alert in perception, feeling, or intellect; not sensitive
 handful -> a small amount, number, or quantity
 
 metaphor -> something used, or regarded as being used, to represent something else; symbol
-
-laborious -> requiring much work, exertion, or perseverance
 
 recruit -> a new member of a group, organization, or the like
 
@@ -918,9 +914,7 @@ eligible -> fit or proper to be chosen; worthy of choice; desirable.
 
 velvet -> https://poundfabrics.co.uk/cdn/shop/files/6825CDCF-AB1E-4FFD-9369-6A6B0C4473FB_1200x.jpg?v=1706782262
 
-extent -> the space or degree to which a thing extends; length, area, volume, or scope
-
-elaborate -> worked out with great care and nicety of detail; executed with great minuteness
+extent -> the space or degree to which a thing extends; length, area, volume, or scope.
 
 estate -> a piece of landed property, especially one of large extent with an elaborate house on it
 
@@ -1616,7 +1610,7 @@ abundance -> a very large quantity of something.
 
 mitigate -> make (something bad) less severe, serious, or painful.
 
-labor -> work, especially physical work.
+labor -> work, especially physical work. / work hard; make great effort.
 
 cushion -> a bag of cloth stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.
 
@@ -3755,3 +3749,7 @@ reconcile -> restore friendly relations between.
 prosecution -> the institution and conducting of legal proceedings against someone in respect of a criminal charge.
 
 prudence -> the quality of being prudent; cautiousness.
+
+permutation -> a way, especially one of several possible variations, in which a set or number of things can be ordered or arranged.
+
+doppelganger -> an apparition or double of a living person.
