@@ -886,7 +886,7 @@ bitter -> having a harsh, disagreeably acrid taste, like that of aspirin / havin
 
 strife -> vigorous or bitter conflict, discord, or antagonism.
 
-contention -> a struggling together in opposition; strife.
+contention -> a struggling together in opposition; strife. / heated disagreement.
 
 dispute -> to engage in argument or debate.
 
@@ -3805,3 +3805,37 @@ ascertain -> find (something) out for certain; make sure of.
 riddle -> a question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning, typically presented as a game.
 
 incarceration -> the state of being confined in prison; imprisonment.
+
+sabotage -> deliberately destroy, damage, or obstruct (something), especially for political or military advantage.
+
+prosecute -> institute legal proceedings against (a person or organization).
+
+affluent -> (especially of a group or area) having a great deal of money; wealthy.
+
+adhesive -> able to stick fast to a surface or object; sticky.
+
+brothel -> a house where men can visit prostitutes.
+
+chronic -> (of an illness) persisting for a long time or constantly recurring.
+
+psoriasis -> a chronic (long-term) skin disease.
+
+alopecia -> the partial or complete absence of hair from areas of the body where it normally grows; baldness.
+
+sentience -> feel, perceive, or experience things.
+
+preface -> an introduction to a book, typically stating its subject, scope, or aims.
+
+hatred -> intense dislike or ill will.
+
+abomination -> a thing that causes disgust or hatred.
+
+red herring -> something that distracts you from the main issue or misleads you.
+
+kinky -> involving or given to unusual sexual behavior.
+
+virtuous -> having or showing high moral standards.
+
+infant -> a very young child or baby.
+
+refutable -> able to be proven wrong or denied.
