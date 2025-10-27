@@ -52,11 +52,11 @@ pertain -> to have reference or relation; relate
 
 constitute -> to compose; form.
 
-quirk -> a peculiar behavioral habit.
-
 peculiar -> strange or odd; unusual.
 
-characteristic -> also characteristical. pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive.
+quirk -> a peculiar behavioral habit.
+
+characteristic -> pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive.
 
 permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
 
@@ -96,6 +96,8 @@ invoke -> to call for with earnest desire; make supplication or pray for / to ca
 
 sincere -> genuine; real.
 
+oblige -> make (someone) legally or morally bound to an action or course of action.
+
 compel -> force or oblige (someone) to do something.
 
 moreover -> in addition to what has been said; further; besides
@@ -130,8 +132,6 @@ redundant -> exceeding what is needed or useful; superfluous
 
 convey -> to carry, bring, or take from one place to another; transport; bear
 
-synthetic -> manufactured
-
 penetrate -> to pierce or pass into or through
 
 impenetrable -> not penetrable; that cannot be penetrated, pierced, entered, etc.
@@ -140,7 +140,7 @@ opaque -> not transparent or translucent; impenetrable to light; not allowing li
 
 minuteness -> narrowness.
 
-perception -> approach, attention, attitude, awareness, concept, consciousness.
+perception -> the ability to see, hear, or become aware of something through the senses. / approach, attention, attitude, awareness, concept, consciousness.
 
 dim -> make or become less bright or distinct.
 
@@ -388,7 +388,7 @@ assess -> to estimate or judge the quality or quantity of
 
 depreciate -> to reduce the purchasing value of (money) / to lessen the value or price of
 
-resemble -> to be like or similar to
+resemble -> to be like or similar to. / have qualities or features, especially those of appearance, in common with (someone or something); look or seem like.
 
 dense -> having the component parts closely compacted together; crowded or compact
 
@@ -698,7 +698,7 @@ perimeter -> a line bounding or marking off an area
 
 circumference -> the outer boundary, especially of a circular area; perimeter
 
-proportion -> comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio
+proportion -> comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.
 
 slender -> having a circumference that is small in proportion to the height or length.
 
@@ -746,7 +746,7 @@ compensate -> to recompense for something.
 
 assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver.
 
-reciprocal -> given or felt by each toward the other; mutual.
+reciprocal -> given or felt by each toward the other; mutual. / given, felt, or done in return.
 
 mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal.
 
@@ -857,6 +857,8 @@ allude -> suggest or call attention to indirectly; hint at.
 initiative -> an introductory act or step; leading action
 
 empower -> to give power pow power or authority to; authorize, especially by legal or official means
+
+thrill -> a sudden feeling of excitement and pleasure.
 
 thrilled -> feeling very pleased or happily excited; delighted.
 
@@ -1186,7 +1188,7 @@ honing in -> to focus one's attention more narrowly or precisely on a particular
 
 on behalf of -> in the interests of (a person, group, or principle). / as a representative of.
 
-alleviate -> to make easier to endure
+alleviate -> make (suffering, deficiency, or a problem) less severe. / to make easier to endure.
 
 relieve -> to ease or alleviate (pain, distress, anxiety, need, etc.).
 
@@ -1228,7 +1230,7 @@ unprecedented -> never done or known before.
 
 rip someone off -> cheat someone, especially financially.
 
-imitate -> to make a copy of; reproduce closely.
+imitate -> to make a copy of; reproduce closely. / take or follow as a model.
 
 cognitive -> relating to the mental process involved in knowing, learning, and understanding things
 
@@ -1540,7 +1542,7 @@ controversial -> causing much discussion, disagreement.
 
 synthesis -> the combination of components or elements to form a connected whole.
 
-synthetic -> (of a substance) made by chemical synthesis, especially to imitate a natural product.
+synthetic -> (of a substance) made by chemical synthesis, especially to imitate a natural product. / manufactured.
 
 hollow -> having a hole or empty space inside.
 
@@ -2790,6 +2792,8 @@ dilate -> make or become wider, larger, or more open.
 
 detrimental -> tending to cause harm.
 
+incidence -> the occurrence, rate, or frequency of a disease, crime, or something else undesirable.
+
 coincidence -> a remarkable concurrence of events or circumstances without apparent causal connection.
 
 rebuke -> express sharp disapproval or criticism of (someone) because of their behavior or actions.
@@ -3753,3 +3757,51 @@ prudence -> the quality of being prudent; cautiousness.
 permutation -> a way, especially one of several possible variations, in which a set or number of things can be ordered or arranged.
 
 doppelganger -> an apparition or double of a living person.
+
+dye -> a natural or synthetic substance used to add a color to or change the color of something.
+
+pathology -> the science of the causes and effects of diseases, especially the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purposes.
+
+fellow -> a man or boy.
+
+dialect -> a particular form of a language which is peculiar to a specific region or social group.
+
+fella -> nonstandard spelling of fellow, used in representing speech in various dialects.
+
+convo -> a conversation.
+
+build -> the dimensions or proportions of a person's or animal's body. ( as a noun )
+
+slenderly -> (of a person or part of the body) gracefully thin.
+
+slim -> (of a person or their build) gracefully thin; slenderly built (used approvingly).
+
+likeness -> the fact or quality of being alike; resemblance.
+
+hark -> listen.
+
+incompetent -> not having or showing the necessary skills to do something successfully.
+
+ick -> sudden feeling of disgust or loss of attraction toward someone you used to like — often for a small or even silly reason.
+
+deception -> the action of deceiving someone.
+
+oblivion -> the state of being unaware or unconscious of what is happening.
+
+resurrection -> being brought back to life after dying.
+
+crucify -> put (someone) to death by nailing or binding them to a cross, especially as an ancient punishment.
+
+brunette -> a person with dark brown hair (typically used of a woman).
+
+incarnation -> the physical or human form of something abstract, spiritual, or divine.
+
+obscuration -> the action of hiding or concealing something.
+
+haze -> a slight obscuration of the lower atmosphere, typically caused by fine suspended particles.
+
+ascertain -> find (something) out for certain; make sure of.
+
+riddle -> a question or statement intentionally phrased so as to require ingenuity in ascertaining its answer or meaning, typically presented as a game.
+
+incarceration -> the state of being confined in prison; imprisonment.
