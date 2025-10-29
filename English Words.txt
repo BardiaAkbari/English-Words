@@ -958,6 +958,10 @@ discreet -> careful, reasonable.
 
 sagacious -> having or showing acute mental discernment and keen practical sense; shrewd.
 
+objectionable -> arousing distaste or opposition; unpleasant or offensive.
+
+prude -> a person who is or claims to be easily shocked by matters relating to sex or nudity.
+
 prudent -> acting with or showing care and thought for the future.
 
 hurl -> to throw or cast down.
@@ -1014,7 +1018,7 @@ astound -> shock with wonder or surprise.
 
 upon -> immediately or very soon after / up and on; upward so as to get or be on
 
-advent ->the arrival of a notable person, thing, or event.
+advent -> the arrival of a notable person, thing, or event.
 
 reflect -> think about (sometimes)
 
@@ -3839,3 +3843,5 @@ virtuous -> having or showing high moral standards.
 infant -> a very young child or baby.
 
 refutable -> able to be proven wrong or denied.
+
+proliferation -> rapid increase in numbers.
