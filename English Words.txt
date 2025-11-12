@@ -82,7 +82,7 @@ apathy -> absence or suppression of passion, emotion, or excitement / lack of in
 
 endeavor -> to attempt; try / to exert oneself to do or effect something; make an effort; strive.
 
-imitate -> to follow or endeavor to follow as a model or example.
+imitate -> to follow or endeavor to follow as a model or example. / his style was imitated by many other writers
 
 earnest -> serious in intention, purpose, or effort.
 
@@ -108,23 +108,25 @@ transcend -> to rise above or go beyond; overpass; exceed
 
 virtue -> behavior showing high moral standards. / the good qualities inherent in a person or thing. / knowledge of or expertise in the fine arts.
 
-cogent -> convincing or believable by virtue of forcible, clear, or incisive presentation; telling
+cogent -> convincing or believable by virtue of forcible, clear, or incisive presentation; telling.
 
-toggle -> switch
+toggle -> switch.
 
-extensible -> capable of being extended
+extensible -> capable of being extended.
 
-consortium -> an association, typically of several companies
+consortium -> an association, typically of several companies.
 
-nexus -> a means of connection; tie; link
+nexus -> a means of connection; tie; link.
 
 societal -> noting or pertaining to large social groups, or to their activities, customs, etc.
 
-punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses
+punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.
 
-possess -> to have as belonging to one; have as property; own
+possess -> to have as belonging to one; have as property; own.
 
-enrich -> to supply with riches, wealth, abundant or valuable possessions
+abundant -> present in great quantity; more than adequate; oversufficient.
+
+enrich -> to supply with riches, wealth, abundant or valuable possessions.
 
 facility -> something designed, built, installed, etc., to serve a specific function affording a convenience or service
 
@@ -232,7 +234,13 @@ liable -> responsible by law; legally answerable.
 
 embed -> to fix into a surrounding mass.
 
-merely -> only as specified and nothing more; simply
+sole -> being the only one of the kind.
+
+solely -> exclusively or only.
+
+mere -> that is solely or no more or better than what is specified.
+
+merely -> just; only / only as specified and nothing more; simply.
 
 aspect -> appearance to the eye or mind; look / nature; quality; character
 
@@ -283,6 +291,8 @@ descended -> having a specified ancestry or ethnic origin / having gone from a h
 ancestor -> a person from whom one is descended; forebear
 
 pseudo -> not actually but having the appearance of; pretended; false or spurious; sham / almost, approaching, or trying to be
+
+withdraw -> remove or take away (something) from a particular place or position. / leave or cause to leave a place or situation.
 
 retreat -> the forced or strategic withdrawal of an army or an armed force before an enemy, or the withdrawing of a naval force from action
 
@@ -354,6 +364,8 @@ mischief -> action or behavior (especially of children) that causes small troubl
 
 shenanigans -> trick, prank; mischief
 
+rot -> (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.
+
 decay -> (of organic matter) rot or decompose through the action of bacteria and fungi.
 
 corruption -> dishonesty; immorality; decay.
@@ -400,6 +412,8 @@ subordinate -> lower in rank or position.
 
 allegiance -> loyalty or commitment of a subordinate to a superior or of an individual to a group or cause.
 
+pursuit -> the action of following or pursuing someone or something.
+
 devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
 
 adhere -> to stay attached; stick fast; cleave; cling (usually followed by to ), to be devoted in support or allegiance; be attached as a follower or upholder (usually followed by to )
@@ -418,9 +432,9 @@ vital -> of or relating to life
 
 synthesize -> to form (a material or abstract entity) by combining parts or elements ( analyze )
 
-proceed -> to move or go forward or onward, especially after stopping
+proceed -> to move or go forward or onward, especially after stopping.
 
-circumstance -> a condition, detail, part, or attribute, with respect to time, place, manner, agent, etc., that accompanies, determines, or modifies a fact or event; a modifying or influencing factor
+circumstance -> a condition, detail, part, or attribute, with respect to time, place, manner, agent, etc., that accompanies, determines, or modifies a fact or event; a modifying or influencing factor.
 
 aviation -> the design, development, production, operation, and use of aircraft, especially heavier-than-air aircraft.
 
@@ -556,10 +570,6 @@ restrict -> to confine or keep within limits, as of space, action, choice, inten
 
 contingent -> dependent for existence, occurrence, character, etc., on something not yet certain; conditional
 
-sole -> being the only one of the kind.
-
-solely -> exclusively or only
-
 discretion -> the power or right to decide or act according to one's own judgment; freedom of judgment or choice
 
 arbitrary -> subject to individual will or judgment without restriction; contingent solely upon one's discretion
@@ -582,7 +592,7 @@ proxy -> the agency, function, or power of a person authorized to act as the dep
 
 realm -> a kingdom.
 
-spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur /  relating to, occupying, or having the character of space
+spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur. /  relating to or occupying space.
 
 essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features.
 
@@ -609,8 +619,6 @@ onerous -> (of a task or responsibility) involving a great deal of effort, troub
 burdensome -> oppressively heavy; onerous
 
 cumbersome -> burdensome; troublesome
-
-abundant -> present in great quantity; more than adequate; oversufficient
 
 progenitor -> a biologically related ancestor.
 
@@ -655,8 +663,6 @@ referential -> having reference / containing a reference
 jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, feelings, thoughts, etc.
 
 attain -> to reach, achieve, or accomplish; gain; obtain
-
-pursuit -> the action of following or pursuing someone or something.
 
 quest -> a search or pursuit made in order to find or obtain something
 
@@ -1230,6 +1236,8 @@ decisive -> having or showing the ability to make decisions quickly and effectiv
 
 rival -> a person or thing competing with another for the same objective or for superiority in the same field of activity.
 
+precedent -> an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.
+
 unprecedented -> never done or known before.
 
 rip someone off -> cheat someone, especially financially.
@@ -1240,7 +1248,7 @@ cognitive -> relating to the mental process involved in knowing, learning, and u
 
 peer -> one that is of equal standing with another
 
-probe -> to search into and explore very thoroughly
+probe -> to search into and explore very thoroughly. / physically explore or examine (something) with the hands or an instrument.
 
 strengthen -> make or become stronger.
 
@@ -1420,7 +1428,7 @@ resist -> withstand the action or effect of.
 
 rebellious -> showing a desire to resist authority, control, or convention.
 
-trivial -> of little worth or importance
+trivial -> of little worth or importance. / of little value or importance.
 
 petty -> of little importance; trivial
 
@@ -1488,13 +1496,13 @@ sweep -> clean (an area) by brushing away dirt or litter.
 
 figurine -> a statuette, especially one of a human form.
 
-ornament -> a thing used to make something look more attractive but usually having no practical purpose, especially a small object such as a figurine.
-
 erect -> put together and set upright (a building, wall, or other structure).
 
 commemorate -> recall and show respect for (someone or something).
 
 monument -> a statue, building, or other structure erected to commemorate a notable person or event.
+
+ornament -> a thing used to make something look more attractive but usually having no practical purpose, especially a small object such as a figurine.
 
 pillar -> a tall vertical structure of stone, wood, or metal, used as a support for a building, or as an ornament or monument.
 
@@ -1531,8 +1539,6 @@ boast -> talk with excessive pride and self-satisfaction about one's achievement
 methodically -> in an orderly or systematic manner.
 
 dissect -> methodically cut up (a body or plant) in order to study its internal parts.
-
-precedent -> an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.
 
 constitution -> a body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.
 
@@ -2398,8 +2404,6 @@ yield -> produce or provide (a natural, agricultural, or industrial product).
 
 entail -> involve (something) as a necessary or inevitable part or consequence.
 
-merely -> just; only.
-
 abound -> exist in large numbers or amounts.
 
 robustness -> the quality or condition of being strong and in good condition.
@@ -2684,6 +2688,10 @@ hygiene -> conditions or practices conducive to maintaining health and preventin
 
 excrement -> waste matter discharged from the bowels; feces.
 
+conduit -> a channel for conveying water or other fluid.
+
+sewer -> an underground conduit for carrying off drainage water and waste matter.
+
 swage -> waste water and excrement conveyed in sewers.
 
 swagger -> walk or behave in a very confident and typically arrogant or aggressive way.
@@ -2704,6 +2712,8 @@ auction -> a public sale in which goods or property are sold to the highest bidd
 
 flesh -> the soft substance consisting of muscle and fat that is found between the skin and bones of an animal or a human.
 
+herb -> any plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.
+
 herbivore -> an animal that feeds on plants.
 
 carnivore -> an animal that feeds on flesh.
@@ -2722,7 +2732,7 @@ aversion -> a strong dislike or disinclination.
 
 mars -> to damage, spoil, or ruin the appearance or quality of something.
 
-flawl-> a mark, fault, or other imperfection that mars a substance or object.
+flaw -> a mark, fault, or other imperfection that mars a substance or object.
 
 accountability -> the fact or condition of being accountable; responsibility.
 
@@ -3845,3 +3855,53 @@ infant -> a very young child or baby.
 refutable -> able to be proven wrong or denied.
 
 proliferation -> rapid increase in numbers.
+
+wane -> (of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.
+
+fertile -> (of soil or land) producing or capable of producing abundant vegetation or crops.
+
+novel -> new or unusual in an interesting way.
+
+facet -> one side of something many-sided, especially of a cut gem.
+
+immense -> extremely large or great, especially in scale or degree.
+
+manifold -> many and various.
+
+degrade -> treat or regard (someone) with contempt or disrespect.
+
+intrinsic -> belonging naturally; essential.
+
+chemo -> chemotherapy.
+
+tame -> (of an animal) not dangerous or frightened of people; domesticated.
+
+domesticated -> (of an animal) tame and kept as a pet or on a farm.
+
+clam -> https://upload.wikimedia.org/wikipedia/commons/a/ad/Clams_on_Sandy_Hook_beaches_-_panoramio.jpg
+
+genital -> relating to the human or animal reproductive organs.
+
+giggle -> laugh lightly in a nervous, affected, or silly manner.
+
+stir -> move a spoon or other implement around in (a liquid or other substance) in order to mix it thoroughly.
+
+conversely -> introducing a statement or idea which reverses one that has just been made or referred to.
+
+clout -> influence, power, or fame, especially on social media.
+
+stint -> supply an ungenerous or inadequate amount of (something).
+
+marine -> of, found in, or produced by the sea.
+
+paunch -> big, soft, or protruding belly, especially in men.
+
+accentuate -> make more noticeable or prominent.
+
+burp -> noisily release air from the stomach through the mouth.
+
+bloke -> similar to how Americans might say guy, dude, or fella.
+
+redeem -> compensate for the faults or bad aspects of (something).
+
+remedy -> a medicine or treatment for a disease or injury.
