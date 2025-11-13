@@ -1,4 +1,4 @@
-registry -> a place where a register is kept
+registry -> a place where a register is kept.
 
 register -> a book in which records of acts, events, names, etc., are kept
 
@@ -106,9 +106,13 @@ entrepreneur -> a person who organizes and manages any enterprise, especially a 
 
 transcend -> to rise above or go beyond; overpass; exceed
 
+critic -> a person who expresses an unfavorable opinion of something.
+
+incisive -> (of a person or mental process) intelligently analytical and clear-thinking.
+
 virtue -> behavior showing high moral standards. / the good qualities inherent in a person or thing. / knowledge of or expertise in the fine arts.
 
-cogent -> convincing or believable by virtue of forcible, clear, or incisive presentation; telling.
+cogent -> convincing or believable by virtue of forcible, clear, or incisive presentation; telling. / (of an argument or case) clear, logical, and convincing.
 
 toggle -> switch.
 
@@ -344,7 +348,7 @@ conversion -> the act or process of converting; state of being converted / a cha
 
 merit -> the quality of being particularly good or worthy, especially so as to deserve praise or reward.
 
-criticize -> to censure or find fault with / to judge or discuss the merits and faults of
+criticize -> to censure or find fault with / to judge or discuss the merits and faults of.
 
 argument -> a reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong. / an exchange of diverging or opposite views, typically a heated or angry one.
 
@@ -1478,7 +1482,7 @@ subtle -> making use of clever and indirect methods to achieve something. / (esp
 
 appealingly -> in a way that is attractive or interesting.
 
-nuanced -> having or characterized by subtle and often appealingly complex qualities, aspects, or distinctions
+nuanced -> having or characterized by subtle and often appealingly complex qualities, aspects, or distinctions.
 
 consistent -> acting or done in the same way over time, especially so as to be fair or accurate.	
 
@@ -1549,6 +1553,16 @@ reside -> have one's permanent home in a particular place.
 deprecate -> express disapproval of.
 
 controversial -> causing much discussion, disagreement.
+
+spontaneously -> as a result of a sudden impulse and without premeditation.
+
+contraction -> the process of becoming smaller.
+
+dilatation -> the process of becoming bigger. 
+
+elastic -> (of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
+
+rubber -> a tough elastic polymeric substance made from the latex of a tropical plant or synthetically.(of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
 
 synthesis -> the combination of components or elements to form a connected whole.
 
@@ -2127,14 +2141,6 @@ seduce -> entice (someone) into sexual activity.
 curtain -> https://images.app.goo.gl/o68fMFXRFsiCXPdLA
 
 impulse -> a sudden strong and unreflective urge or desire to act.
-
-spontaneously -> as a result of a sudden impulse and without premeditation.
-
-contraction -> the process of becoming smaller.
-
-dilatation -> the process of becoming bigger. 
-
-elastic -> (of an object or material) able to resume its normal shape spontaneously after contraction, dilatation, or distortion.
 
 taunt -> a remark made in order to anger, wound, or provoke someone.
 
@@ -3905,3 +3911,5 @@ bloke -> similar to how Americans might say guy, dude, or fella.
 redeem -> compensate for the faults or bad aspects of (something).
 
 remedy -> a medicine or treatment for a disease or injury.
+
+sanity -> the ability to think and behave in a normal and rational manner; sound mental health.
