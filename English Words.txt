@@ -542,7 +542,7 @@ associate -> to connect or bring into relation, as thought, feeling, memory, etc
 
 expression -> a look on someone's face that conveys a particular emotion. / a word or phrase, especially an idiomatic one, used to convey an idea.
 
-utter -> to give audible expression to; speak or pronounce.
+utter -> to give audible expression to; speak or pronounce. / make (a sound) with one's voice. / complete; absolute.
 
 utterly -> in an utter manner; completely: absolutely.
 
@@ -690,7 +690,7 @@ fleet -> a group of ships sailing together, engaged in the same activity, or und
 
 swift -> happening quickly or promptly; rapid.
 
-obsolete -> no longer in general use; fallen into disuse.
+obsolete -> no longer in general use; fallen into disuse. / no longer produced or used; out of date.
 
 inventive -> (of a person) having the ability to create or design new things or to think originally.
 
@@ -838,7 +838,7 @@ decent -> conforming to the recognized standard of propriety, good taste, modest
 
 spark -> anything that activates or stimulates; inspiration or catalyst.
 
-conduct -> personal behavior; way of acting; bearing or deportment.
+conduct -> personal behavior; way of acting; bearing or deportment. / the manner in which a person behaves, especially on a particular occasion or in a particular context.
 
 articulate -> capable of speech; not speechless.
 
@@ -1236,7 +1236,7 @@ fierce -> having or displaying an intense or ferocious aggressiveness.
 
 glare -> stare in an angry or fierce way.
 
-decisive -> having or showing the ability to make decisions quickly and effectively.
+decisive -> having or showing the ability to make decisions quickly and effectively. / settling an issue; producing a definite result.
 
 rival -> a person or thing competing with another for the same objective or for superiority in the same field of activity.
 
@@ -3930,4 +3930,46 @@ rural -> in, relating to, or characteristic of the countryside rather than the t
 serenity -> the state of being calm, peaceful, and untroubled.
 
 recitation -> the action of repeating something aloud from memory.
+
+plagiarism -> the practice of taking someone else's work or ideas and passing them off as one's own.
+
+disclose -> make (secret or new information) known.
+
+espionage -> the practice of spying or of using spies, typically by governments to obtain political and military information.
+
+thriller -> a novel, play, or movie with an exciting plot, typically involving crime or espionage.
+
+glee -> great delight.
+
+impish -> inclined to do slightly naughty things for fun; mischievous.
+
+roar -> a full, deep, prolonged cry uttered by a lion or other large wild animal.
+
+behead -> cut off the head of (someone), especially as a form of execution.
+
+nuance -> a subtle difference in or shade of meaning, expression, or sound.
+
+coral -> https://upload.wikimedia.org/wikipedia/commons/2/2e/Coral_Outcrop_Flynn_Reef.jpg
+
+vacancy -> an unoccupied position or job.
+
+rescind -> revoke, cancel, or repeal (a law, order, or agreement).
+
+proprietary -> relating to an owner or ownership.
+
+paragon -> a person or thing regarded as a perfect example of a particular quality.
+
+titillate -> stimulate or excite (someone), especially in a sexual way.
+
+clumsy -> awkward in movement or in handling things.
+
+commiseration -> sympathy and sorrow for the misfortunes of others; compassion.
+
+sequel -> a published, broadcast, or recorded work that continues the story or develops the theme of an earlier one.
+
+wrinkle -> a slight line or fold in something, especially fabric or the skin of the face.
+
+keenness -> the quality of being eager or enthusiastic; eagerness.
+
+
 
