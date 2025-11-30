@@ -520,6 +520,8 @@ apprehend -> to take into custody; arrest by legal warrant or authority / unders
 
 perceive -> to become aware of, know, or identify by means of the senses.
 
+cognition -> the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
+
 perception -> the act or faculty of perceiving, or apprehending by means of the senses or of the mind; cognition; understanding.
 
 severe -> (of something bad or undesirable) very great; intense.
@@ -818,7 +820,7 @@ contender -> a person or group that competes against others to win something; co
 
 aught -> anything whatever; any part.
 
-adverse -> unfavorable or antagonistic in purpose or effect.
+adverse -> preventing success or development; harmful; unfavorable.
 
 beneath -> below; in or to a lower place, position, state, or the like.
 
@@ -1050,7 +1052,7 @@ bear -> carry.
 
 sustain -> to support, hold, or bear up from below; bear the weight of, as a structure.
 
-undergo -> experience; pass through / to endure; sustain; suffer
+undergo -> experience; pass through. / to endure; sustain; suffer.
 
 endure -> to admit of; allow; bear / to hold out against; sustain without impairment or yielding; undergo.
 
@@ -1145,8 +1147,6 @@ extract -> to get, pull, or draw out, usually with special effort, skill, or for
 hostility -> unfriendliness or opposition.
 
 antagonistic -> showing or feeling active opposition or hostility towards someone or something.
-
-adverse -> unfavorable or antagonistic in purpose or effect
 
 fortune -> chance or luck as an external, arbitrary force affecting human affairs.
 
@@ -1998,6 +1998,8 @@ infuse -> fill; pervade.
 
 vindication -> the action of clearing someone of blame or suspicion.
 
+grant -> agree to give or allow (something requested) to.
+
 take for granted -> assume that something is true without questioning it.
 
 fond -> having an affection or liking for.
@@ -2251,6 +2253,10 @@ bearing -> relation; relevance.
 inflate -> fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.
 
 girder -> a large iron or steel beam or compound structure used for building bridges and the framework of large buildings.
+
+menial -> (of work) not requiring much skill and lacking prestige.
+
+
 
 pier -> a platform supported on pillars or girders leading out from the shore into a body of water, used as a landing stage for boats.
 
@@ -3576,6 +3582,9 @@ benevolent -> well meaning and kindly.
 
 contemplate -> look thoughtfully for a long time at.
 
+charade -> an absurd pretense intended to create a pleasant or respectable appearance.
+
+
 eerie -> strange and frightening.
 
 turquoise -> strange and frightening.
@@ -3913,3 +3922,12 @@ redeem -> compensate for the faults or bad aspects of (something).
 remedy -> a medicine or treatment for a disease or injury.
 
 sanity -> the ability to think and behave in a normal and rational manner; sound mental health.
+
+reclusive -> avoiding the company of other people; solitary.
+
+rural -> in, relating to, or characteristic of the countryside rather than the town.
+
+serenity -> the state of being calm, peaceful, and untroubled.
+
+recitation -> the action of repeating something aloud from memory.
+
