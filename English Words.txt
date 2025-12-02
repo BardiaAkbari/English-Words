@@ -38,9 +38,9 @@ audit -> an official examination and verification of accounts and records, espec
 
 bind -> to fasten or secure with a band or bond / tie or fasten (something) tightly together.
 
-establish -> to found, institute, build, or bring into being on a firm or stable basis
+establish -> to found, institute, build, or bring into being on a firm or stable basis.
 
-habitually -> as a habit, or an established way of being or acting; routinely or regularly
+habitually -> as a habit, or an established way of being or acting; routinely or regularly.
 
 veneration -> great respect; reverence.
 
@@ -48,7 +48,7 @@ sacred -> connected with God (or the gods) or dedicated to a religious purpose a
 
 profane -> relating or devoted to that which is not sacred or biblical; secular rather than religious.
 
-pertain -> to have reference or relation; relate
+pertain -> to have reference or relation; relate.
 
 constitute -> to compose; form.
 
@@ -838,7 +838,7 @@ decent -> conforming to the recognized standard of propriety, good taste, modest
 
 spark -> anything that activates or stimulates; inspiration or catalyst.
 
-conduct -> personal behavior; way of acting; bearing or deportment. / the manner in which a person behaves, especially on a particular occasion or in a particular context.
+conduct -> the manner in which a person behaves, especially on a particular occasion or in a particular context. / lead or guide (someone) to or around a particular place.
 
 articulate -> capable of speech; not speechless.
 
@@ -2362,6 +2362,10 @@ alternating -> (of two or more things) occurring in turn repeatedly.
 
 interleaved -> mix (two or more digital signals) by alternating between them.
 
+detrimental -> tending to cause harm.
+
+prejudicial -> harmful to someone or something; detrimental.
+
 discriminate -> make an unjust or prejudicial distinction in the treatment of different categories of people, especially on the grounds of ethnicity, sex, age, or disability.
 
 bond -> a relationship between people or groups based on shared feelings, interests, or experiences.
@@ -2816,8 +2820,6 @@ apparatus -> the technical equipment or machinery needed for a particular activi
 
 dilate -> make or become wider, larger, or more open.
 
-detrimental -> tending to cause harm.
-
 incidence -> the occurrence, rate, or frequency of a disease, crime, or something else undesirable.
 
 coincidence -> a remarkable concurrence of events or circumstances without apparent causal connection.
@@ -2904,9 +2906,9 @@ revolt -> rise in rebellion.
 
 munition -> military weapons, ammunition, equipment, and stores.
 
-aggregate -> a whole formed by combining several (typically disparate) elements.
-
 disparate -> essentially different in kind; not allowing comparison.
+
+aggregate -> a whole formed by combining several (typically disparate) elements.
 
 admissible -> acceptable or valid, especially as evidence in a court of law.
 
@@ -3971,5 +3973,21 @@ wrinkle -> a slight line or fold in something, especially fabric or the skin of 
 
 keenness -> the quality of being eager or enthusiastic; eagerness.
 
+wicked -> evil or morally wrong.
 
+dour -> a distinctive smell, especially an unpleasant one.
+
+gestation -> the process or period of developing inside the womb between conception and birth.
+
+satire -> the use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues.
+
+ditch -> a narrow channel dug in the ground, typically used for drainage alongside a road or the edge of a field.
+
+podium -> a small platform on which a person may stand to be seen by an audience, as when making a speech or conducting an orchestra.
+
+accrued -> (of a benefit or sum of money) received or accumulated in regular or increasing amounts over time.
+
+equilibrium -> a state in which opposing forces or influences are balanced.
+
+coitus interruptus -> sexual intercourse in which the penis is withdrawn before ejaculation.
 
