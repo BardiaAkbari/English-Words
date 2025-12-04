@@ -314,9 +314,9 @@ disposal -> the action or process of getting rid of something. / access.
 
 incline -> feel willing or favorably disposed toward (an action, belief, or attitude). / leaning or turning away from the vertical or horizontal; sloping.
 
-tend -> to be disposed or inclined in action, operation, or effect to do something
+tend -> to be disposed or inclined in action, operation, or effect to do something.
 
-prevail -> to be widespread or current; exist everywhere or generally / to appear or occur as the more important or frequent feature or element; predominate
+prevail -> to be widespread or current; exist everywhere or generally. / to appear or occur as the more important or frequent feature or element; predominate. / prove more powerful than opposing forces; be victorious.
 
 trend -> the general course or prevailing tendency / style or vogue
 
@@ -356,7 +356,7 @@ settle -> resolve or reach an agreement about (an argument or problem).
 
 pioneer -> a person who is among those who first enter or settle a region, thus opening it for occupation and development by others
 
-strip -> to deprive of covering
+strip -> to deprive of covering.
 
 characteristics -> distinguishing quality; trait, attribute
 
@@ -1292,7 +1292,7 @@ bespoke -> made for a particular customer or user.
 
 aspiration -> a hope or ambition of achieving something.
 
-aesthetics -> the branch of philosophy that deals with the principles of beauty and artistic taste.
+aesthetics -> the branch of philosophy that deals with the principles of beauty and artistic taste. / concerned with beauty or the appreciation of beauty.
 
 reverberate -> (of a loud noise) be repeated several times as an echo.
 
