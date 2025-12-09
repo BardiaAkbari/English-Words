@@ -1292,7 +1292,7 @@ bespoke -> made for a particular customer or user.
 
 aspiration -> a hope or ambition of achieving something.
 
-aesthetics -> the branch of philosophy that deals with the principles of beauty and artistic taste. / concerned with beauty or the appreciation of beauty.
+aesthetic -> the branch of philosophy that deals with the principles of beauty and artistic taste. / concerned with beauty or the appreciation of beauty.
 
 reverberate -> (of a loud noise) be repeated several times as an echo.
 
@@ -3985,9 +3985,49 @@ ditch -> a narrow channel dug in the ground, typically used for drainage alongsi
 
 podium -> a small platform on which a person may stand to be seen by an audience, as when making a speech or conducting an orchestra.
 
-accrued -> (of a benefit or sum of money) received or accumulated in regular or increasing amounts over time.
+accrue -> (of sums of money or benefits) be received by someone in regular or increasing amounts over time.
 
 equilibrium -> a state in which opposing forces or influences are balanced.
 
 coitus interruptus -> sexual intercourse in which the penis is withdrawn before ejaculation.
+
+containment -> the action of keeping something harmful under control or within limits.
+
+eccentric -> (of a person or their behavior) unconventional and slightly strange.
+
+incest -> sexual relations between people classed as being too closely related to marry each other.
+
+capacitate -> make (someone) capable of a particular action or legally competent to act in a particular way.
+
+incapacitate -> prevent from functioning in a normal way.
+
+identical -> similar in every detail; exactly alike.
+
+commission -> give an order for or authorize the production of (something such as a building, piece of equipment, or work of art).
+
+editorial -> relating to the commissioning or preparing of material for publication.
+
+bout -> a short period of intense activity of a specified kind.
+
+elation -> great happiness and exhilaration.
+
+alternate -> occur in turn repeatedly.
+
+checkered -> having a pattern consisting of alternating squares of different colors.
+
+daring -> (of a person or action) adventurous or audaciously bold.
+
+cottage -> a small simple house, typically one near a lake or beach.
+
+quaint -> attractively unusual or old-fashioned.
+
+whimsical -> playfully quaint or fanciful, especially in an appealing and amusing way.
+
+communal -> shared by all members of a community; for common use.
+
+tuck -> push, fold, or turn (the edges or ends of something, especially a garment or bedclothes) so as to hide them or hold them in place.
+
+cozy -> giving a feeling of comfort, warmth, and relaxation.
+
+squiggle -> a short line that curls and loops in an irregular way.
 
