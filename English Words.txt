@@ -1864,6 +1864,8 @@ heartfelt -> (of a feeling or its expression) deeply and strongly felt; sincere.
 
 appeal -> make a serious, urgent, or heartfelt request.
 
+plead -> make an emotional appeal.
+
 fluctuation -> an irregular rising and falling in number or amount; a variation.
 
 clumsily -> in an awkward and careless way.
@@ -2255,8 +2257,6 @@ inflate -> fill (a balloon, tire, or other expandable structure) with air or gas
 girder -> a large iron or steel beam or compound structure used for building bridges and the framework of large buildings.
 
 menial -> (of work) not requiring much skill and lacking prestige.
-
-
 
 pier -> a platform supported on pillars or girders leading out from the shore into a body of water, used as a landing stage for boats.
 
@@ -3110,7 +3110,7 @@ venue -> the place where something happens, especially an organized event such a
 
 pinch -> grip (something, typically someone's flesh) tightly and sharply between finger and thumb.
 
-destined -> (of a person's future) developing as though according to a plan.
+distend -> swell or cause to swell by pressure from inside.
 
 inflate -> fill (a balloon, tire, or other expandable structure) with air or gas so that it becomes distended.
 
@@ -4030,4 +4030,14 @@ tuck -> push, fold, or turn (the edges or ends of something, especially a garmen
 cozy -> giving a feeling of comfort, warmth, and relaxation.
 
 squiggle -> a short line that curls and loops in an irregular way.
+
+blast -> a destructive wave of highly compressed air spreading outward from an explosion.
+
+rectify -> put right; correct.
+	
+pervert -> a person whose sexual behavior is regarded as abnormal and unacceptable. / alter (something) from its original course, meaning, or state to a distortion or corruption of what was first intended.
+
+conspire -> make secret plans jointly to commit an unlawful or harmful act.
+
+harass -> subject to aggressive pressure or intimidation.
 
