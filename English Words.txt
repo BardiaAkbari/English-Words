@@ -152,15 +152,17 @@ dim -> make or become less bright or distinct.
 
 dull -> boring, dim, dumb, simple, slow.
 
+intellect -> the faculty of reasoning and understanding objectively, especially with regard to abstract or academic matters.
+
 obtuse -> not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull
 
 handful -> a small amount, number, or quantity
 
 metaphor -> something used, or regarded as being used, to represent something else; symbol
 
-recruit -> a new member of a group, organization, or the like
+recruit -> a new member of a group, organization, or the like. / enlist (someone) in the armed forces.
 
-enlist -> to enroll, usually voluntarily, for military service
+enlist -> to enroll, usually voluntarily, for military service.
 
 strip -> remove all coverings from.
 
@@ -358,7 +360,7 @@ pioneer -> a person who is among those who first enter or settle a region, thus 
 
 strip -> to deprive of covering.
 
-characteristics -> distinguishing quality; trait, attribute
+characteristics -> distinguishing quality; trait, attribute.
 
 delegate -> to give (a piece of work, power etc. ) to someone else
 
@@ -504,7 +506,7 @@ hindrance -> a thing that provides resistance, delay, or obstruction to somethin
 
 drawback -> a hindrance or disadvantage; an undesirable or objectionable feature.
 
-faculty -> an ability, natural or acquired, for a particular kind of action.
+faculty -> an ability, natural or acquired, for a particular kind of action. / an inherent mental or physical power.
 
 guardian -> a person who guards, protects, or preserves.
 
@@ -606,9 +608,9 @@ fraught -> (of a situation or course of action) filled with or likely to result 
 
 blueprint -> a design plan or other technical drawing. / draw up (a plan or model).
 
-swallow -> to take into the stomach by drawing through the throat and esophagus with a voluntary muscular action, as food, drink, or other substances
+swallow -> cause or allow (something, especially food or drink) to pass down the throat.
 
-devour -> to swallow or eat up hungrily, voraciously, or ravenously.
+devour -> eat (food or prey) hungrily or quickly.
 
 drain -> to withdraw or draw off (a liquid) gradually; remove slowly or by degrees, as by filtration.
 
@@ -632,7 +634,7 @@ offspring -> children or young of a particular parent or progenitor.
 
 prolific -> producing offspring, young, fruit, etc., abundantly; highly fruitful
 
-s -> to look at or view with continued attention; observe or study thoughtfully
+contemplate -> to look at or view with continued attention; observe or study thoughtfully.
 
 speculation -> the contemplation or consideration of some subject
 
@@ -650,7 +652,7 @@ congruous -> exhibiting harmony of parts.
 
 heterogeneous -> different in kind; unlike; incongruous.
 
-homogeneous -> composed of parts or elements that are all of the same kind; not heterogeneous
+homogeneous -> composed of parts or elements that are all of the same kind; not heterogeneous.  of the same kind; alike.
 
 conspicuous -> standing out so as to be clearly visible.
 
@@ -706,7 +708,7 @@ barrier -> anything built or serving to bar passage, as a railing, fence, or the
 
 interior -> being within; inside of anything; internal; inner; further toward a center
 
-perimeter -> a line bounding or marking off an area
+perimeter -> the continuous line forming the boundary of a closed geometric figure.
 
 circumference -> the outer boundary, especially of a circular area; perimeter
 
@@ -734,7 +736,7 @@ acculturation -> the process of sharing and learning the cultural traits or soci
 
 hesitation -> the action of pausing before saying or doing something.
 
-acculturate -> to alter by acculturation, through sharing and learning the cultural traits or social patterns of another group: Older computer users are hesitant to acculturate to social media communities.
+acculturate -> to alter by acculturation, through sharing and learning the cultural traits or social patterns of another group
 
 criterion -> a standard of judgment or criticism; a rule or principle for evaluating or testing something.
 
@@ -774,11 +776,13 @@ deduct -> subtract or take away (an amount or part) from a total.
 
 gross -> without tax or other contributions having been deducted.
 
-outrageous -> of the nature of or involving gross injury or wrong.
+outrageous -> of the nature of or involving gross injury or wrong. / shockingly bad or excessive.
 
-defamation -> the act of defaming; false or unjustified injury of the good reputation of another, as by slander or libel; calumny.
+slander -> defamation; calumny. / the action or crime of making a false spoken statement damaging to a person's reputation.
 
-slander -> defamation; calumny.
+defamation -> the action of damaging the good reputation of someone; slander or libel.
+
+libel -> a published false statement that is damaging to a person's reputation; a written defamation.
 
 compass -> an instrument for determining directions, as by means of a freely rotating magnetized needle that indicates magnetic north.
 
@@ -1270,6 +1274,8 @@ temper -> a person's state of mind seen in terms of their being angry or calm.
 
 grumble -> complain about something in a bad-tempered way.
 
+discontent -> lack of contentment; dissatisfaction with one's circumstances.
+
 grouch -> voice one's discontent ill-temperedly; grumble.
 
 suitability -> the quality of being right or appropriate for a particular person, purpose, or situation.
@@ -1454,9 +1460,9 @@ prostitute -> a person, in particular a woman, who engages in sexual activity fo
 
 prone -> likely or liable to suffer from, do, or experience something unpleasant or regrettable.
 
-breed -> a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection. / (of animals) mate and then produce offspring.
-
 deliberate -> done consciously and intentionally.
+
+breed -> a stock of animals or plants within a species having a distinctive appearance and typically having been developed by deliberate selection. / (of animals) mate and then produce offspring.
 
 discern -> recognize or find out.
 
@@ -1511,6 +1517,8 @@ ornament -> a thing used to make something look more attractive but usually havi
 pillar -> a tall vertical structure of stone, wood, or metal, used as a support for a building, or as an ornament or monument.
 
 pursue -> follow or chase (someone or something). / follow (someone or something) in order to catch or attack them.
+
+ethnicity -> the quality or fact of belonging to a population group or subgroup made up of people who share a common cultural background or descent.
 
 persecution -> hostility and ill-treatment, especially on the basis of ethnicity, religion, or sexual orientation or political beliefs.
 
@@ -1723,6 +1731,8 @@ obligation -> the condition of being morally or legally bound to do something.
 euphoria -> a feeling or state of intense excitement and happiness.
 
 mock -> make (something) seem laughably, unreal or impossible.
+
+toll -> the number of deaths, casualties, or injuries arising from particular circumstances, such as a natural disaster, conflict, or accident. / a charge payable for permission to use a particular bridge or road.
 
 casualty -> a person killed or injured in a war or accident.
 
@@ -1952,7 +1962,7 @@ dynasty -> a line of hereditary rulers of a country.
 
 lodging -> a place in which someone lives or stays temporarily.
 
-accommodate -> (of physical space, especially a building) provide lodging or sufficient space for.
+accommodate -> (of physical space, especially a building) provide lodging or sufficient space for. / fit in with the wishes or needs of.
 
 influx -> an arrival or entry of large numbers of people or things.
 
@@ -2449,8 +2459,6 @@ prose -> written or spoken language in its ordinary form, without metrical struc
 subroutine -> a set of instructions designed to perform a frequently used operation within a program.
 
 worship -> the feeling or expression of reverence and adoration for a deity.
-
-deity -> a god or goddess (in a polytheistic religion).
 
 theism -> belief in the existence of a god or gods, especially belief in one god as creator of the universe, intervening in it and sustaining a personal relation to his creatures.
 
@@ -3677,8 +3685,6 @@ reminiscent -> tending to remind one of something.
 
 accolade -> an award or privilege granted as a special honor or as an acknowledgment of merit.
 
-outrageous -> shockingly bad or excessive.
-
 centerpiece -> a decorative piece or display placed in the middle of a dining or serving table.
 
 flaunt -> display (something) ostentatiously, especially in order to provoke envy or admiration or to show defiance.
@@ -3731,6 +3737,10 @@ boulder -> a large rock, typically one that has been worn smooth by erosion.
 
 celestial -> positioned in or relating to the sky, or outer space as observed in astronomy.
 
+reinstate -> restore (someone or something) to their former position or condition.
+
+restore -> bring back (a previous right, practice, custom, or situation); reinstate.
+
 cosmetic -> involving or relating to treatment intended to restore or improve a person's appearance.
 
 cosmic -> relating to the universe or cosmos, especially as distinct from the earth.
@@ -3744,6 +3754,8 @@ scold -> remonstrate with or rebuke (someone) angrily.
 upbraid -> find fault with (someone); scold.
 
 wither -> (of a plant) become dry and shriveled.
+
+fatal -> causing death.
 
 fatalistic -> relating to or characteristic of the belief that all events are predetermined and therefore inevitable.
 	
@@ -4040,4 +4052,80 @@ pervert -> a person whose sexual behavior is regarded as abnormal and unacceptab
 conspire -> make secret plans jointly to commit an unlawful or harmful act.
 
 harass -> subject to aggressive pressure or intimidation.
+
+convolve -> mix things so they affect each other.
+
+inhale -> breathe in (air, gas, smoke, etc.).
+
+fume -> gas, smoke, or vapor that smells strongly or is dangerous to inhale.
+
+procrastination -> the action of delaying or postponing something.
+
+gigolo -> a young man paid or financially supported by a woman, typically an older woman, to be her escort or lover.
+
+posthumous -> occurring, awarded, or appearing after the death of the originator.
+
+oscillation -> movement back and forth at a regular speed.
+
+amplitude -> the maximum extent of a vibration or oscillation, measured from the position of equilibrium.
+
+morphological -> relating to the form or structure of things.
+
+ensemble -> a group of musicians, actors, or dancers who perform together.
+
+blob -> a drop of a thick liquid or viscous substance.
+
+diagnosis -> the identification of the nature of an illness or other problem by examination of the symptoms.
+
+ophthalmology -> the branch of medicine concerned with the diagnosis and treatment of disorders of the eye.
+
+invariant -> a function, quantity, or property which remains unchanged when a specified transformation is applied.
+
+feeble -> lacking physical strength, especially as a result of age or illness.
+
+whimper -> (of a person or animal) make a series of low, feeble sounds expressive of fear, pain, or discontent.
+
+pupil -> a person who is taught by another, especially a schoolchild or student in relation to a teacher.
+
+provocative -> causing annoyance, anger, or another strong reaction, especially deliberately.
+
+supremacy -> the state or condition of being superior to all others in authority, power, or status.
+
+wuss -> a weak or ineffectual person (often used as a general term of abuse).
+
+epitome -> a person or thing that is a perfect example of a particular quality or type.
+
+disperse -> distribute or spread over a wide area.
+
+apprehension -> anxiety or fear that something bad or unpleasant will happen.
+
+mystic -> a person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect.
+
+orgy -> a wild party characterized by excessive drinking and indiscriminate sexual activity.
+
+squirt -> cause (a liquid) to be ejected from a small opening in a thin, fast stream or jet.
+
+yelp -> a short, sharp cry, especially of pain or alarm.
+
+lubricant -> a substance, such as oil or grease, used for minimizing friction, especially in an engine or component.
+
+massacre -> deliberately and violently kill (a large number of people).
+
+scandal -> an action or event regarded as morally or legally wrong and causing general public outrage.
+
+inducement -> a thing that persuades or influences someone to do something.
+
+bribe -> persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement.
+
+circumcise -> cut off the foreskin of (a young boy or man, especially a baby) as a religious rite, especially in Judaism and Islam, or as a medical treatment.
+
+obedient -> complying or willing to comply with orders or requests; submissive to another's will.
+
+naughty -> (especially of children) disobedient; badly behaved.
+
+depiction -> the action or result of depicting something, especially in art.
+
+cane -> https://www.walkingsticks.co.uk/user/products/Collared-Cherry-Cane-with-Crook-Handle-ik1.jpg
+
+slaughter -> kill (animals) for food.
 
