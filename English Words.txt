@@ -610,6 +610,8 @@ blueprint -> a design plan or other technical drawing. / draw up (a plan or mode
 
 swallow -> cause or allow (something, especially food or drink) to pass down the throat.
 
+prey -> an animal that is caught and killed by another for food.
+
 devour -> eat (food or prey) hungrily or quickly.
 
 drain -> to withdraw or draw off (a liquid) gradually; remove slowly or by degrees, as by filtration.
@@ -1200,7 +1202,7 @@ Loudness -> is a measure of a song's strength, or amplitude, in decibels (dB).
 
 punctuation -> the practice or system of using certain conventional marks or characters in writing or printing in order to separate elements and make the meaning clear, as in ending a sentence or separating clauses.
 
-flagship -> the best or most important one of a group or system
+flagship -> the best or most important one of a group or system.
 
 honing in -> to focus one's attention more narrowly or precisely on a particular task, issue, etc.
 
@@ -1212,11 +1214,11 @@ relieve -> to ease or alleviate (pain, distress, anxiety, need, etc.).
 
 encounter -> to come upon or meet with, especially unexpectedly
 
-affiliated -> being in close formal or informal association; related
+affiliate -> officially attach or connect (a subsidiary group or a person) to an organization.
 
-infrastructure -> the basic, underlying framework or features of a system or organization
+infrastructure -> the basic, underlying framework or features of a system or organization.
 
-tedious -> too long, slow, or dull
+tedious -> too long, slow, or dull.
 
 proficient -> very good at doing something especially through practice.
 
@@ -1711,6 +1713,8 @@ summon -> order (someone) to be present.
 domesticate -> tame (an animal) and keep it as a pet or on a farm.
 
 apocalypse -> the complete final destruction of the world 
+
+dividend -> a sum of money paid regularly (typically quarterly) by a company to its shareholders out of its profits (or reserves).
 
 advocate -> a person who publicly supports or recommends a particular cause or policy.
 
@@ -3144,8 +3148,6 @@ pale -> light in color or having little color.
 
 lethal -> sufficient to cause death.
 
-prey -> an animal that is caught and killed by another for food.
-
 gut -> the stomach or belly.
 
 infiltration -> the action of entering or gaining access to an organization or place surreptitiously, especially in order to acquire secret information or cause damage.
@@ -3594,7 +3596,6 @@ contemplate -> look thoughtfully for a long time at.
 
 charade -> an absurd pretense intended to create a pleasant or respectable appearance.
 
-
 eerie -> strange and frightening.
 
 turquoise -> strange and frightening.
@@ -3716,8 +3717,6 @@ fairytale -> a children's story about magical and imaginary beings and lands.
 nuisance -> a person, thing, or circumstance causing inconvenience or annoyance.
 
 bud -> a compact growth on a plant that develops into a leaf, flower, or shoot.
-
-prey -> an animal that is caught and killed by another for food.
 
 bait -> food used to entice fish or other animals as prey.
 
@@ -4128,4 +4127,67 @@ depiction -> the action or result of depicting something, especially in art.
 cane -> https://www.walkingsticks.co.uk/user/products/Collared-Cherry-Cane-with-Crook-Handle-ik1.jpg
 
 slaughter -> kill (animals) for food.
+
+remit -> cancel or refrain from exacting or inflicting (a debt or punishment).
+
+stratify -> arrange or classify.
+
+patriotic -> having or expressing devotion to and vigorous support for one's country.
+
+predator -> an animal that naturally preys on others.
+
+cynic -> a person who believes that people are motivated purely by self-interest rather than acting for honorable or unselfish reasons.
+
+pebble -> a small stone made smooth and round by the action of water or sand.
+
+controversy -> disagreement, typically when prolonged, public, and heated.
+
+protract -> prolong. 
+
+prolly -> probably.
+
+enlarge -> make or become bigger or more extensive.
+
+prophecy -> a prediction.
+
+testimony -> a formal written or spoken statement, especially one given in a court of law.
+
+culpability -> responsibility for a fault or wrong; blame.
+
+tenacity -> the quality or fact of being able to grip something firmly; grip.
+
+captivity -> the condition of being imprisoned or confined.
+
+feral -> (especially of an animal) in a wild state, especially after escape from captivity or domestication.
+
+glide -> move with a smooth continuous motion, typically with little noise.
+
+residue -> a small amount of something that remains after the main part has gone or been taken or used.
+
+ash -> the powdery residue left after the burning of a substance.
+
+erupt -> (of a volcano) become active and eject lava, ash, and gases.
+
+fissure -> a long, narrow opening or line of breakage made by cracking or splitting, especially in rock or earth.
+
+chasm -> a deep fissure in the earth, rock, or another surface.
+
+abyss -> a deep or seemingly bottomless chasm.
+
+jolly -> a deep or seemingly bottomless chasm.
+
+abstain -> restrain oneself from doing or enjoying something.
+
+writ -> a form of written command in the name of a court or other legal authority to act, or abstain from acting, in some way.
+
+summon -> authoritatively or urgently call on (someone) to be present, especially as a defendant or witness in a law court.
+
+brink -> an extreme edge of land before a steep or vertical slope.
+
+cliff -> a steep rock face, especially at the edge of the sea.
+
+lucrative -> producing a great deal of profit.
+
+prenup -> an agreement made by a couple before they marry concerning the ownership of their respective assets should the marriage fail.
+
 
