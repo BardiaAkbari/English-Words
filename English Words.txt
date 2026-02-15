@@ -68,6 +68,8 @@ portion -> a part of any whole, either separated from or integrated with it
 
 rouse -> to bring out of a state of sleep, unconsciousness, inactivity, fancied security, apathy, depression, etc.
 
+incite -> encourage or stir up (violent or unlawful behavior).
+
 stimulate -> to rouse to action or effort, as by encouragement or pressure; spur on; incite. / raise levels of physiological or nervous activity in (the body or any biological system).
 
 provoke -> stimulate or give rise to (a reaction or emotion, typically a strong or unwelcome one) in someone.
@@ -268,9 +270,9 @@ occupation -> a job or profession. / the action, state, or period of occupying o
 
 craft -> an art, trade, or occupation requiring special skill, especially manual skill
 
-reluctance -> unwillingness
+reluctance -> unwillingness.
 
-linger -> to remain or stay on in a place longer than is usual or expected, as if from reluctance to leave
+linger -> stay in a place longer than necessary because of a reluctance to leave.
 
 hover -> to keep lingering about; wait near at hand
 
@@ -3990,6 +3992,12 @@ dour -> a distinctive smell, especially an unpleasant one.
 
 gestation -> the process or period of developing inside the womb between conception and birth.
 
+rudimentary -> involving or limited to basic principles.
+
+makeshift -> serving as a temporary substitute; sufficient for the time being.
+
+crude -> constructed in a rudimentary or makeshift way.
+
 satire -> the use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices, particularly in the context of contemporary politics and other topical issues.
 
 ditch -> a narrow channel dug in the ground, typically used for drainage alongside a road or the edge of a field.
@@ -4190,4 +4198,42 @@ lucrative -> producing a great deal of profit.
 
 prenup -> an agreement made by a couple before they marry concerning the ownership of their respective assets should the marriage fail.
 
+portray -> depict (someone or something) in a work of art or literature.
 
+slick -> (of an action or thing) done or operating in an impressively smooth, efficient, and apparently effortless way.
+
+abide -> accept or act in accordance with (a rule, decision, or recommendation).
+
+libel -> a published false statement that is damaging to a person's reputation; a written defamation.
+
+atrocity -> an extremely wicked or cruel act, typically one involving physical violence or injury.
+
+diabolical -> characteristic of the Devil, or so evil as to be suggestive of the Devil.
+
+sedition -> conduct or speech inciting people to rebel against the authority of a state or monarch.
+
+narcotic -> a drug or other substance that affects mood or behavior and is consumed for nonmedical purposes, especially one sold illegally.
+
+dispel -> make (a doubt, feeling, or belief) disappear.
+
+dejection -> the brightness of the day did nothing to dispel Elaine's dejection
+
+rotten -> suffering from decay.
+
+grief -> deep sorrow, especially that caused by someone's death.
+
+decapitation -> the action of cutting off the head of a person or animal.
+
+wary -> feeling or showing caution about possible dangers or problems.
+
+circumspect -> wary and unwilling to take risks.
+
+oppression -> prolonged cruel or unjust treatment or control.
+
+discreet -> careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage.
+
+harrow -> https://upload.wikimedia.org/wikipedia/commons/9/94/Kverneland_harrow.jpg
+
+captivate -> attract and hold the interest and attention of; charm.
+
+parody -> an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.
