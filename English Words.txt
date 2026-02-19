@@ -184,7 +184,7 @@ oppose -> to act against or provide resistance to; combat
 
 compose -> to make or form by combining things, parts, or elements
 
-compound -> composed of two or more parts, elements, or ingredients
+compound -> a thing that is composed of two or more separate elements; a mixture.
 
 heroic -> also heroical . of, relating to, or characteristic of a hero or heroine.
 
@@ -474,7 +474,7 @@ direct -> to give authoritative instructions to; command; order or ordain / to m
 
 directive -> serving to direct; directing.
 
-acute -> sharp or severe in effect; intense.
+acute -> (of a bad, difficult, or unwelcome situation or phenomenon) present or experienced to a severe or intense degree.
 
 sensation -> a physical feeling or perception resulting from something that happens to or comes into contact with the body. / a widespread reaction of interest and excitement.
 
@@ -2273,6 +2273,8 @@ inflate -> fill (a balloon, tire, or other expandable structure) with air or gas
 girder -> a large iron or steel beam or compound structure used for building bridges and the framework of large buildings.
 
 menial -> (of work) not requiring much skill and lacking prestige.
+
+jetty -> a landing stage or small pier at which boats can dock or be moored.
 
 pier -> a platform supported on pillars or girders leading out from the shore into a body of water, used as a landing stage for boats.
 
@@ -4237,3 +4239,16 @@ harrow -> https://upload.wikimedia.org/wikipedia/commons/9/94/Kverneland_harrow.
 captivate -> attract and hold the interest and attention of; charm.
 
 parody -> an imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.
+
+commentary -> an expression of opinions or offering of explanations about an event or situation.
+
+asylum -> the protection granted by a nation to someone who has left their native country as a political refugee.
+
+aloof -> not friendly or forthcoming; cool and distant. / standoffish.
+
+incentive -> a thing that motivates or encourages one to do something.
+
+coalition -> an alliance for combined action, especially a temporary alliance of political parties forming a government or of states.
+
+turmoil -> a state of great disturbance, confusion, or uncertainty.
+
