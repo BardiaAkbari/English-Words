@@ -302,6 +302,8 @@ pseudo -> not actually but having the appearance of; pretended; false or spuriou
 
 withdraw -> remove or take away (something) from a particular place or position. / leave or cause to leave a place or situation.
 
+withdrawal -> the action of withdrawing something.
+
 retreat -> the forced or strategic withdrawal of an army or an armed force before an enemy, or the withdrawing of a naval force from action
 
 shrink -> to draw back, as in retreat or avoidance
@@ -768,7 +770,9 @@ reciprocal -> given or felt by each toward the other; mutual. / given, felt, or 
 
 mutual -> possessed, experienced, performed, etc., by each of two or more with respect to the other; reciprocal.
 
-contrary -> opposite in nature or character; diametrically or mutually opposed.
+diametrically -> (with reference to opposition) completely; directly.
+
+contrary -> opposite in nature or character; diametrically or mutually opposed. / opposite in nature, direction, or meaning.
 
 substitution -> change; exchange; swap; trade.
 
@@ -948,7 +952,7 @@ justify -> to defend or uphold as warranted or well-grounded / to show (an act, 
 
 accountable -> subject to the obligation to report, explain, or justify something; responsible; answerable.
 
-equity -> the quality of being fair or impartial; fairness; impartiality
+equity -> the quality of being fair and impartial. / the value of the shares issued by a company.
 
 neutral -> not taking part or giving assistance in a dispute or war between others
 
@@ -1002,7 +1006,7 @@ defy -> to challenge the power of; resist boldly or openly
 
 vow -> oath / promise
 
-thrive -> to grow or develop vigorously
+thrive -> to grow or develop vigorously.
 
 flourish -> to be in a vigorous state; thrive
 
@@ -1334,7 +1338,15 @@ ambient -> relating to the immediate surroundings of something.
 
 artifact -> an object made by a human being, typically one of cultural or historical interest.
 
-intricate -> very complicated or detailed.
+attentive -> paying close attention to something.
+
+fastidious -> very attentive to and concerned about accuracy and detail.
+
+fussy -> (of a person) fastidious about one's needs or requirements; hard to please.
+
+
+
+nicety -> a fine detail or distinction, especially one regarded as intricate and fussy.
 
 hazard -> a danger or risk. / chance; probability.
 
@@ -1487,6 +1499,8 @@ demographics -> statistical data relating to the population and particular group
 propositions -> a suggested scheme or plan of action, especially in a business context.
 
 harness -> control and make use of (natural resources), especially to produce energy.
+
+distinction -> a difference or contrast between similar things or people.
 
 subtle -> making use of clever and indirect methods to achieve something. / (especially of a change or distinction) so delicate or precise as to be difficult to analyze or describe.
 
@@ -1730,7 +1744,7 @@ forgo -> omit or decline to take (something pleasant or valuable); go without.
 
 affection -> a gentle feeling of fondness or liking.
 
-embrace -> hold (someone) closely in one's arms, especially as a sign of affection.
+embrace -> hold (someone) closely in one's arms, especially as a sign of affection. / accept or support (a belief, theory, or change) willingly and enthusiastically.
 
 obligation -> the condition of being morally or legally bound to do something.
 
@@ -2213,6 +2227,8 @@ breeze -> a gentle wind.
 slam -> shut (a door, window, or lid) forcefully and loudly.
 
 rage -> violent, uncontrollable anger.
+
+swirl -> move in a twisting or spiraling pattern
 
 flurries -> a small swirling mass of something, especially snow or leaves, moved by sudden gusts of wind.
 
@@ -3494,7 +3510,7 @@ entity -> a thing with distinct and independent existence.
 
 congest -> crowd (a road or place) so as to hinder or prevent freedom of movement.
 
-mortgage -> convey (a property) to a creditor as security on a loan.
+mortgage -> convey (a property) to a creditor as security on a loan. / 
 
 sequestration -> the action of taking legal possession of assets until a debt has been paid or other claims have been met.
 
@@ -4122,6 +4138,9 @@ massacre -> deliberately and violently kill (a large number of people).
 
 scandal -> an action or event regarded as morally or legally wrong and causing general public outrage.
 
+infuriate -> make (someone) extremely angry and impatient.
+
+
 inducement -> a thing that persuades or influences someone to do something.
 
 bribe -> persuade (someone) to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducement.
@@ -4279,3 +4298,70 @@ depreciation -> a reduction in the value of an asset with the passage of time, d
 frowning -> the action of forming an expression of disapproval, displeasure, or concentration, typically by turning down the corners of the mouth.
 
 issuer -> a person or company that supplies or distributes something.
+
+extrapolate -> extend the application of (a method or conclusion, especially one based on statistics) to an unknown situation by assuming that existing trends will continue or similar methods will be applicable.
+
+empirically -> by means of observation or experience rather than theory or pure logic.
+
+nausea -> a feeling of sickness with an inclination to vomit.
+
+designation -> the choosing and naming of someone to be the holder of an official position.
+
+misnomer -> a wrong or inaccurate name or designation.
+
+emanate -> (of something abstract but perceptible) issue or spread out from (a source).
+
+rewind -> wind (a tape or film) back to the beginning.
+
+console -> comfort (someone) at a time of grief or disappointment.
+
+abduct -> take (someone) away by force or deception; kidnap.
+
+emissary -> a person sent on a special mission, usually as a diplomatic representative.
+
+interloper -> a person who becomes involved in a place or situation where they are not wanted or are considered not to belong.
+
+garment -> an item of clothing.
+
+braid -> threads of silk, cotton, or other material woven into a decorative band for edging or trimming garments.
+
+exposition -> a comprehensive description and explanation of an idea or theory.
+
+infatuation -> an intense but short-lived passion or admiration for someone or something.
+
+avail -> help or benefit.
+
+coup -> a sudden, violent, and unlawful seizure of power from a government.
+
+legislative -> having the power to make laws.
+
+reign -> hold royal office; rule as king or queen.
+
+assembly -> a group of people gathered together in one place for a common purpose.
+
+heuristic -> enabling someone to discover or learn something for themselves.
+
+beacon -> a fire or light set up in a high or prominent position as a warning, signal, or celebration.
+
+grassroots -> the most basic level of an activity or organization.
+
+stutter -> talk with continued involuntary repetition of sounds, especially initial consonants.
+
+regard -> consider or think of (someone or something) in a specified way.
+
+livestock -> farm animals regarded as an asset.
+
+wisp -> a small thin or twisted bunch, piece, or amount of something.
+
+catharsis -> the process of releasing, and thereby providing relief from, strong or repressed emotions.
+
+cathartic -> providing psychological relief through the open expression of strong emotions; causing catharsis.
+
+redact -> edit (text) for publication.
+
+memo -> a written message, especially in business.
+
+confidential -> intended to be kept secret.
+
+
+
