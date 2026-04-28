@@ -38,6 +38,8 @@ audit -> an official examination and verification of accounts and records, espec
 
 bind -> to fasten or secure with a band or bond / tie or fasten (something) tightly together.
 
+institute -> a society or organization having a particular object or common factor, especially a scientific, educational, or social one. / set in motion or establish (something, especially a program, system, or inquiry).
+
 establish -> to found, institute, build, or bring into being on a firm or stable basis.
 
 habitually -> as a habit, or an established way of being or acting; routinely or regularly.
@@ -60,7 +62,7 @@ characteristic -> pertaining to, constituting, or indicating the character or pe
 
 permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
 
-ample -> fully sufficient or more than adequate for the purpose or needs; plentiful; enough
+ample -> fully sufficient or more than adequate for the purpose or needs; plentiful; enough.
 
 substantial -> of ample or considerable amount, quantity, size, etc.
 
@@ -412,9 +414,9 @@ depreciate -> to reduce the purchasing value of (money) / to lessen the value or
 
 resemble -> to be like or similar to. / have qualities or features, especially those of appearance, in common with (someone or something); look or seem like.
 
-dense -> having the component parts closely compacted together; crowded or compact
+dense -> closely compacted in substance.
 
-altitude -> the height of anything above a given planetary reference plane, especially above sea level on earth
+altitude -> the height of an object or point in relation to sea level or ground level.
 
 glance -> to look quickly or briefly.
 
@@ -642,9 +644,13 @@ prolific -> producing offspring, young, fruit, etc., abundantly; highly fruitful
 
 contemplate -> to look at or view with continued attention; observe or study thoughtfully.
 
-speculation -> the contemplation or consideration of some subject
+speculation -> the contemplation or consideration of some subject.
 
-speculative -> pertaining to, of the nature of, or characterized by speculation, contemplation, conjecture, or abstract reasoning
+speculative -> engaged in, expressing, or based on conjecture rather than knowledge.
+
+conjecture -> an opinion or conclusion formed on the basis of incomplete information.
+
+speculate -> form a theory or conjecture about a subject without firm evidence.
 
 latch -> a device for holding a door, gate, or the like, closed, consisting basically of a bar falling or sliding into a catch, groove, hole, etc.
 
@@ -748,7 +754,7 @@ criterion -> a standard of judgment or criticism; a rule or principle for evalua
 
 apparatus -> a group or combination of instruments, machinery, tools, materials, etc., having a particular function or intended for a specific use.
 
-appliance -> an instrument, apparatus, or device for a particular purpose or use.
+appliance -> a device or piece of equipment designed to perform a specific task, typically a domestic one.
 
 hoist -> to raise or lift, especially by some mechanical appliance.
 
@@ -1344,8 +1350,6 @@ fastidious -> very attentive to and concerned about accuracy and detail.
 
 fussy -> (of a person) fastidious about one's needs or requirements; hard to please.
 
-
-
 nicety -> a fine detail or distinction, especially one regarded as intricate and fussy.
 
 hazard -> a danger or risk. / chance; probability.
@@ -1459,10 +1463,6 @@ trivial -> of little worth or importance. / of little value or importance.
 petty -> of little importance; trivial
 
 beam -> (of a light or light source) shine brightly.
-
-conjecture -> an opinion or conclusion formed on the basis of incomplete information.
-
-speculate -> form a theory or conjecture about a subject without firm evidence.
 
 horizon -> the line at which the earth's surface and the sky appear to meet.
 
@@ -2093,6 +2093,8 @@ psychoactive -> (chiefly of a drug) affecting the mind
 revelation -> a surprising and previously unknown fact, especially one that is made known in a dramatic way.
 
 reverence -> deep respect for someone or something.
+
+reverent -> feeling or showing deep and solemn respect.
 
 awe -> a feeling of reverential respect mixed with fear or wonder.
 
@@ -3660,6 +3662,8 @@ splendid -> magnificent; very impressive.
 
 sumptuous -> splendid and expensive-looking.
 
+sumptuously -> in a very rich, elaborate, or luxurious way.
+
 banquet -> an elaborate and formal meal for many people.
 
 lavish -> sumptuously rich, elaborate, or luxurious.
@@ -4006,6 +4010,8 @@ keenness -> the quality of being eager or enthusiastic; eagerness.
 
 wicked -> evil or morally wrong.
 
+vice -> immoral or wicked behavior.
+
 dour -> a distinctive smell, especially an unpleasant one.
 
 gestation -> the process or period of developing inside the womb between conception and birth.
@@ -4209,6 +4215,8 @@ abstain -> restrain oneself from doing or enjoying something.
 
 writ -> a form of written command in the name of a court or other legal authority to act, or abstain from acting, in some way.
 
+defendant -> an individual, company, or institution sued or accused in a court of law.
+
 summon -> authoritatively or urgently call on (someone) to be present, especially as a defendant or witness in a law court.
 
 brink -> an extreme edge of land before a steep or vertical slope.
@@ -4363,5 +4371,23 @@ memo -> a written message, especially in business.
 
 confidential -> intended to be kept secret.
 
+gimmick -> a trick or device intended to attract attention, publicity, or business.
 
+broaden -> become larger in distance from side to side; widen.
+
+indelible -> (of ink or a pen) making marks that cannot be removed.
+
+thesaurus -> a book or electronic resource that lists words in groups of synonyms and related concepts.
+
+possessive -> demanding someone's total attention and love.
+
+procession -> a number of people or vehicles moving forward in an orderly fashion, especially as part of a ceremony or festival.
+
+spacious -> (especially of a room or building) having ample space.
+
+fixture -> a piece of equipment or furniture which is fixed in position in a building or vehicle.
+
+helpline -> a telephone service providing help with problems.
+
+dissuade -> persuade (someone) not to take a particular course of action.
 
