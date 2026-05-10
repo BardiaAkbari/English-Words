@@ -1800,7 +1800,9 @@ spiral -> a spiral curve, shape, or pattern.
 
 rhyme -> correspondence of sound between words or the endings of words, especially when these are used at the ends of lines of poetry.
 
-herd -> a large group of animals.
+hoof -> go on foot.
+
+herd -> a large group of animals, especially hoofed mammals, that live, feed, or migrate together or are kept together as livestock.
 
 absurd -> unreasonable, illogical, or inappropriate.
 
@@ -2078,7 +2080,9 @@ benign -> gentle and kindly.
 
 primitive -> relating to, denoting, or preserving the character of an early stage in the evolutionary or historical development of something.
 
-sheer -> nothing other than.
+unmitigated -> absolute; unqualified.
+
+sheer -> nothing other than; unmitigated (used for emphasis).
 
 indulge -> allow oneself to enjoy the pleasure of.
 
@@ -3034,6 +3038,8 @@ corrode -> destroy or damage (metal, stone, or other materials) slowly by chemic
 
 alloy -> a metal made by combining two or more metallic elements, especially to give greater strength or resistance to corrosion.
 
+crisp -> (of a substance) firm, dry, and brittle, especially in a way considered pleasing or attractive.
+
 crispr -> a segment of DNA containing short repetitions of base sequences, involved in the defense mechanisms of prokaryotic organisms to viruses.
 
 grin -> smile broadly, especially in an unrestrained manner and with the mouth open.
@@ -3195,6 +3201,10 @@ revert -> return to (a previous state, practice, topic, etc.).
 rejoice -> feel or show great joy or delight.
 
 fiend -> an evil spirit or demon.
+
+knit -> make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.
+
+stitch -> a loop of thread or yarn resulting from a single pass or movement of the needle in sewing, knitting, or crocheting.
 
 sew -> join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.
 
@@ -4391,3 +4401,16 @@ helpline -> a telephone service providing help with problems.
 
 dissuade -> persuade (someone) not to take a particular course of action.
 
+pose -> present or constitute (a problem, danger, or difficulty).
+
+roaming -> moving about aimlessly or unsystematically, especially over a wide area.
+
+indigenous -> originating or occurring naturally in a particular place; native.
+
+lifeline -> a thing on which someone or something depends or which provides a means of escape from a difficult situation.
+
+lore -> a body of traditions and knowledge on a subject or held by a particular group, typically passed from person to person by word of mouth.
+
+opt for -> choose it or decide to do it in preference to anything else.
+
+fountain -> 
