@@ -18,6 +18,8 @@ migrate -> to go from one country, region, or place to another.
 
 analogy -> a similarity between like features of two things, on which a comparison may be based
 
+conform -> comply with rules, standards, or laws.
+
 correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc.
 
 utility -> the state or quality of being useful; usefulness
@@ -50,7 +52,7 @@ sacred -> connected with God (or the gods) or dedicated to a religious purpose a
 
 profane -> relating or devoted to that which is not sacred or biblical; secular rather than religious.
 
-pertain -> to have reference or relation; relate.
+pertain -> be appropriate, related, or applicable.
 
 constitute -> to compose; form.
 
@@ -198,7 +200,7 @@ delicate -> fine in texture, quality, construction, etc. / easily broken or dama
 
 robust -> strong and healthy; hardy; vigorous.
 
-brittle -> easily damaged or destroyed; fragile; frail.
+brittle -> easily damaged or destroyed; fragile; frail. / hard but liable to break or shatter easily.
 
 juggernaut -> any large, overpowering force or object, such as war, a giant battleship, or a powerful football team
 
@@ -336,7 +338,7 @@ integral -> of, relating to, or belonging as a part of the whole; constituent or
 
 integration -> an act or instance of combining into an integral whole / an act or instance of integrating a racial, religious, or ethnic group
 
-ethnic -> pertaining to or characteristic of a people, especially a group (ethnic group ) sharing a common and distinctive culture, religion, language, or the like
+ethnic -> pertaining to or characteristic of a people, especially a group (ethnic group) sharing a common and distinctive culture, religion, language, or the like.
 
 excel -> to surpass others or be superior in some respect or area; do extremely well
 
@@ -360,7 +362,7 @@ criticize -> to censure or find fault with / to judge or discuss the merits and 
 
 argument -> a reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong. / an exchange of diverging or opposite views, typically a heated or angry one.
 
-settle -> resolve or reach an agreement about (an argument or problem).
+settle -> resolve or reach an agreement about (an argument or problem). / to place in a position of rest or comfort.
 
 pioneer -> a person who is among those who first enter or settle a region, thus opening it for occupation and development by others
 
@@ -397,8 +399,6 @@ unfold -> open something that was folded; reveal, explain; become unfolded, be r
 quarrel -> an angry disagreement or argument
 
 neutral -> not taking sides in a quarrel or war
-
-settle -> to place in a position of rest or comfort / to reach a decision or agreement
 
 conciliator -> a person who acts as a mediator between two disputing people or groups.
 
@@ -504,13 +504,15 @@ distract -> to draw away or divert, as the mind or attention.
 
 antagonism -> an active hostility or opposition, as between unfriendly or conflicting groups.
 
+hostile -> of, relating to, or characteristic of an enemy.
+
 hostility -> a hostile state, condition, or attitude; enmity; antagonism; unfriendliness.
 
 hinder -> to cause delay, interruption, or difficulty in.
 
 hindrance -> a thing that provides resistance, delay, or obstruction to something or someone.
 
-drawback -> a hindrance or disadvantage; an undesirable or objectionable feature.
+drawback -> a feature that renders something less acceptable; a disadvantage or problem. / a hindrance or disadvantage; an undesirable or objectionable feature.
 
 faculty -> an ability, natural or acquired, for a particular kind of action. / an inherent mental or physical power.
 
@@ -712,9 +714,9 @@ ingenuity -> the quality of being clever, original, and inventive.
 
 elaborate -> worked out with great care and nicety of detail; executed with great minuteness.
 
-devise -> to contrive, plan, or elaborate; invent from existing principles or ideas.
+devise -> plan or invent (a complex procedure, system, or mechanism) by careful thought.
 
-contrive -> to plan with ingenuity; devise; invent.
+contrive -> create or bring about (an object or a situation) by deliberate use of skill and artifice.
 
 barrier -> anything built or serving to bar passage, as a railing, fence, or the like
 
@@ -770,7 +772,9 @@ remunerate -> to pay, recompense, or reward for work, trouble, etc.
 
 compensate -> to recompense for something.
 
-assert -> to state with assurance, confidence, or force; state strongly or positively; affirm; aver.
+assertive -> having or showing a confident and forceful personality.
+
+assert -> state a fact or belief confidently and forcefully.
 
 reciprocal -> given or felt by each toward the other; mutual. / given, felt, or done in return.
 
@@ -856,7 +860,7 @@ decent -> conforming to the recognized standard of propriety, good taste, modest
 
 spark -> anything that activates or stimulates; inspiration or catalyst.
 
-conduct -> the manner in which a person behaves, especially on a particular occasion or in a particular context. / lead or guide (someone) to or around a particular place.
+conduct -> the manner in which a person behaves, especially on a particular occasion or in a particular context. / lead or guide (someone) to or around a particular place. / the action or manner of managing an activity or organization.
 
 articulate -> capable of speech; not speechless.
 
@@ -894,9 +898,7 @@ thrilled -> feeling very pleased or happily excited; delighted.
 
 solid -> having three dimensions (length, breadth, and thickness), as a geometrical body or figure.
 
-prohibited -> forbidden by authority or law.
-
-hostile -> of, relating to, or characteristic of an enemy.
+prohibited -> forbidden by authority or law.hostile -> of, relating to, or characteristic of an enemy.
 
 unanimous -> of one mind; in complete agreement; agreed
 
@@ -1142,9 +1144,9 @@ offspring -> a person's child or children.
 
 prolific -> (of a plant, animal, or person) producing much fruit or foliage or many offspring.
 
-attire  -> dress, clothes
+attire  -> clothes, especially fine or formal ones.
 
-setback -> problem / difficulty / issue
+setback -> a reversal or check in progress.
 
 camaraderie -> mutual trust and friendship among people who spend a lot of time together.
 
@@ -1161,8 +1163,6 @@ associativity  -> when more than two numbers are added or multiplied, the result
 scalar -> a quantity which is completely described by its magnitude—a numerical value and usually a unit.
 
 extract -> to get, pull, or draw out, usually with special effort, skill, or force
-
-hostility -> unfriendliness or opposition.
 
 antagonistic -> showing or feeling active opposition or hostility towards someone or something.
 
@@ -1190,7 +1190,7 @@ appoint -> assign a job or role to (someone).
 
 designate -> appoint (someone) to a specified office or post.
 
-unwind -> relax after a period of work or tension.
+unwind -> relax after a period of work or tension. / undo or be undone after winding or being wound.
 
 preceding -> coming before something in order, position, or time.
 
@@ -1279,6 +1279,8 @@ symptom -> a physical or mental feature which is regarded as indicating a condit
 diagnose -> identify the nature of (an illness or other problem) by examination of the symptoms.
 
 irritate -> make (someone) annoyed or a little angry.
+
+content -> satisfy (someone). / in a state of peaceful happiness.
 
 contentment -> a state of happiness and satisfaction.
 
@@ -1940,8 +1942,6 @@ trimming -> decoration, especially for clothing.
 
 spill -> cause or allow (liquid) to flow over the edge of its container, especially unintentionally.
 
-knot -> a fastening made by looping a piece of string, rope, or something similar on itself and tightening it.
-
 fluid -> a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.
 
 foster -> encourage the development of (something, especially something desirable).
@@ -2350,6 +2350,8 @@ verge -> an edge or border.
 
 agenda -> a list of items to be discussed at a formal meeting.
 
+triumph -> a great victory or achievement.
+
 triumphant -> having won a battle or contest; victorious.
 
 presumably -> used to convey that what is asserted is very likely though not known for certain.
@@ -2380,7 +2382,7 @@ discretion -> the freedom to decide what should be done in a particular situatio
 
 creditor -> a person or company to whom money is owed.
 
-surpluses -> an amount of something left over when requirements have been met; an excess of production or supply over demand.
+surplus -> an amount of something left over when requirements have been met; an excess of production or supply over demand.
 
 exacerbate -> make (a problem, bad situation, or negative feeling) worse.
 
@@ -2607,6 +2609,10 @@ resuscitate -> revive (someone) from unconsciousness or apparent death.
 flaky -> breaking or separating easily into small thin pieces.
 
 secede -> withdraw formally from membership of a federal union, an alliance, or a political or religious organization.
+
+fur -> the short, fine, soft hair of certain animals.
+
+coat -> an animal's covering of fur or hair.
 
 coating -> a thin layer or covering of something.
 
@@ -3148,6 +3154,8 @@ escalation -> a rapid increase; a rise.
 
 venue -> the place where something happens, especially an organized event such as a concert, conference, or sports event.
 
+grip -> 
+
 pinch -> grip (something, typically someone's flesh) tightly and sharply between finger and thumb.
 
 distend -> swell or cause to swell by pressure from inside.
@@ -3202,9 +3210,17 @@ rejoice -> feel or show great joy or delight.
 
 fiend -> an evil spirit or demon.
 
+shear -> cut the wool off (a sheep or other animal).
+
+whirl -> move or cause to move rapidly around and around.
+
+yarn -> spun thread used for knitting, weaving, or sewing.
+
+wool -> the fine, soft curly or wavy hair forming the coat of a sheep, goat, or similar animal, especially when shorn and prepared for use in making cloth or yarn.
+
 knit -> make (a garment, blanket, etc.) by interlocking loops of wool or other yarn with knitting needles or on a machine.
 
-stitch -> a loop of thread or yarn resulting from a single pass or movement of the needle in sewing, knitting, or crocheting.
+stitch -> a loop of thread or yarn resulting from a single pass or movement of the needle in sewing, knitting, or crocheting. / a sudden sharp pain in the side of the body, caused by strenuous exercise.
 
 sew -> join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine.
 
@@ -4156,6 +4172,7 @@ scandal -> an action or event regarded as morally or legally wrong and causing g
 
 infuriate -> make (someone) extremely angry and impatient.
 
+induce -> succeed in persuading or leading (someone) to do something.
 
 inducement -> a thing that persuades or influences someone to do something.
 
@@ -4413,4 +4430,59 @@ lore -> a body of traditions and knowledge on a subject or held by a particular 
 
 opt for -> choose it or decide to do it in preference to anything else.
 
-fountain -> 
+snuggle -> settle or move into a warm, comfortable position.
+
+fountain -> an ornamental structure in a pool or lake from which one or more jets of water are pumped into the air.
+
+secluded -> (of a place) not seen or visited by many people; sheltered and private.
+
+incessant -> (of something regarded as unpleasant) continuing without pause or interruption.
+
+hectic -> full of incessant or frantic activity.
+
+instill -> gradually but firmly establish (an idea or attitude, especially a desirable one) in a person's mind.
+
+autistic -> relating to or having the neurodevelopmental condition of autism.
+
+dissuade -> persuade (someone) not to take a particular course of action.
+
+picket -> a person or group of people standing outside a place of work or other venue, protesting something or trying to persuade others not to enter during a strike.
+
+perplexity -> inability to deal with or understand something.
+
+intricate -> very complicated or detailed.
+
+cynical -> believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.
+
+expenditure -> the action of spending funds.
+
+altruistic -> showing a disinterested and selfless concern for the well-being of others; unselfish.
+
+factual -> concerned with what is actually the case rather than interpretations of or reactions to it.
+
+impermanence -> the state or fact of lasting for only a limited period of time.
+
+companionable -> (of a person) friendly and sociable.
+
+suckle -> feed (a baby or young animal) from the breast or teat.
+
+protagonist -> the leading character or one of the major characters in a drama, movie, novel, or other fictional text.
+
+arch nemesis -> arch enemy. / the main enemy of the protagonist.
+
+custodian -> a person who has responsibility for taking care of or protecting something.
+
+curator -> a keeper or custodian of a museum or other collection.
+
+gratification -> pleasure, especially when gained from the satisfaction of a desire.
+
+courtesy -> the showing of politeness in one's attitude and behavior toward others.
+
+grip -> take and keep a firm hold of; grasp tightly.
+
+inward -> directed or proceeding toward the inside; coming in from outside.
+
+ignite -> catch fire or cause to catch fire.
+
+
+
