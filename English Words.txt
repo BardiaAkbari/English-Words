@@ -212,7 +212,7 @@ devotion -> profound dedication, especially to religion. / love, loyalty, or ent
 
 engage -> to occupy the attention or efforts of (a person or persons)
 
-affair -> anything done or to be done; anything requiring action or effort; business; concern.
+affair -> an event or sequence of events of a specified kind or that has previously been referred to. / anything done or to be done; anything requiring action or effort; business; concern.
 
 forum -> the marketplace or public square of an ancient Roman city, the center of judicial and business affairs and a place of assembly for the people
 
@@ -231,6 +231,8 @@ rigid -> unable to bend or be forced out of shape; not flexible.
 firm -> not soft or yielding when pressed; comparatively solid, hard, stiff, or rigid
 
 remonstrance -> a protest
+
+spite -> a desire to hurt, annoy, or offend someone.
 
 persist -> to continue steadfastly or firmly in some state, purpose, course of action, or the like, especially in spite of opposition, remonstrance
 
@@ -440,7 +442,7 @@ conspicuous -> easily seen or noticed; readily visible or observable
 
 seamless -> smoothly continuous or uniform in quality; combined in an inconspicuous way
 
-vital -> of or relating to life
+vital -> of or relating to life. / absolutely necessary or important; essential.
 
 synthesize -> to form (a material or abstract entity) by combining parts or elements ( analyze )
 
@@ -672,7 +674,7 @@ conspicuous -> standing out so as to be clearly visible.
 
 prominent -> standing out so as to be seen easily; particularly noticeable; conspicuous. / very noticeable, important, or famous.
 
-readily -> promptly; quickly; easily.
+readily -> without hesitation or reluctance; willingly. / promptly; quickly; easily.
 
 promptly -> at once or without delay
 
@@ -1030,9 +1032,9 @@ unite -> to join, combine, or incorporate so as to form a single whole or unit.
 
 distort -> make crooked or deformed.
 
-replicate -> to bend or fold back / to repeat, duplicate, or reproduce, especially for experimental purposes / make an exact copy of; reproduce.
+replicate -> to bend or fold back. / to repeat, duplicate, or reproduce, especially for experimental purposes / make an exact copy of; reproduce.
 
-specify -> to mention or name specifically or definitely; state in detail
+specify -> to mention or name specifically or definitely; state in detail.
 
 specification -> the act of specifying.
 
@@ -2660,8 +2662,6 @@ propel -> drive, push, or cause to move in a particular direction, typically for
 
 status quo -> the existing state of affairs, especially regarding social or political issues.
 
-agenda -> a list of items to be discussed at a formal meeting.
-
 wield -> hold and use (a weapon or tool).
 
 formidable -> inspiring fear or respect through being impressively large, powerful, intense, or capable.
@@ -3154,7 +3154,7 @@ escalation -> a rapid increase; a rise.
 
 venue -> the place where something happens, especially an organized event such as a concert, conference, or sports event.
 
-grip -> 
+grip -> take and keep a firm hold of; grasp tightly.
 
 pinch -> grip (something, typically someone's flesh) tightly and sharply between finger and thumb.
 
@@ -3515,8 +3515,6 @@ supplement - > something that completes or enhances something else when added to
 supplementary -> completing or enhancing something.
 
 subsidiary -> less important than but related or supplementary to something.
-
-affiliate -> officially attach or connect (a subsidiary group or a person) to an organization.
 
 patron -> a person who gives financial or other support to a person, organization, cause, or activity.
 
@@ -4478,11 +4476,62 @@ gratification -> pleasure, especially when gained from the satisfaction of a des
 
 courtesy -> the showing of politeness in one's attitude and behavior toward others.
 
-grip -> take and keep a firm hold of; grasp tightly.
-
 inward -> directed or proceeding toward the inside; coming in from outside.
 
 ignite -> catch fire or cause to catch fire.
 
+discrepancy -> a lack of compatibility or similarity between two or more facts.
+
+props -> respect or credit due to a person.
+
+lunatic -> a mentally ill person (not in technical use).
+
+vicious -> deliberately cruel or violent.
+
+calibrate -> to adjust, check, or standardize a measuring instrument so it records accurately.
+
+novice -> a person new to or inexperienced in a field or situation.
+
+oblivious -> not aware of or not concerned about what is happening around one.
+
+adversity -> difficulties; misfortune.
+
+disguised -> having changed one's appearance in order to conceal one's identity.
+
+cipher -> a secret or disguised way of writing; a code.
+
+belligerent -> hostile and aggressive.
+
+reprehensible -> deserving censure or condemnation.
+
+cone -> https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cone_with_labeled_Radius%2C_Height%2C_Angle_and_Side_v2.svg/960px-Cone_with_labeled_Radius%2C_Height%2C_Angle_and_Side_v2.svg.png
+
+debut -> a person's first appearance or performance in a particular capacity or role.
+
+obstinate -> stubbornly refusing to change one's opinion or chosen course of action, despite attempts to persuade one to do so.
+
+uncharted -> (of an area of land or sea) not mapped or surveyed.
+
+penalize -> subject to some form of punishment.
+
+contingent -> subject to chance.
+
+deprive -> deny (a person or place) the possession or use of something.
+
+disarmament -> the reduction or withdrawal of military forces and weapons.
+
+prowl -> (of a person or animal) move around restlessly and stealthily, especially in search of or as if in search of prey.
+
+wilderness -> an uncultivated, uninhabited, and inhospitable region.
+
+greenwashing -> the practice of making false or misleading claims about the environmental benefits of a product, service, or company.
+
+significant-other -> a gender-neutral term for a person's romantic or intimate partner.
+
+fairy tale -> a children's story about magical and imaginary beings and lands; a fairy story.
+
+counter-intuitive -> contrary to intuition or to common-sense expectation.
+
+perversely -> in a way that shows a deliberate and obstinate desire to behave in an unreasonable or unacceptable manner.
 
 
