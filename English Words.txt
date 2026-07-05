@@ -206,7 +206,7 @@ juggernaut -> any large, overpowering force or object, such as war, a giant batt
 
 penetrate -> to pierce or pass into or through.
 
-profound -> penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding.
+profound -> (of a state, quality, or emotion) very great or intense. / penetrating or entering deeply into subjects of thought or knowledge; having deep insight or understanding.
 
 devotion -> profound dedication, especially to religion. / love, loyalty, or enthusiasm for a person, activity, or cause.
 
@@ -390,7 +390,11 @@ substitute -> to put in, or to take, the place of someone or something else / a 
 
 intercept -> to stop or catch (a person, thing etc. ) before he, it etc. arrives at the place to which he, it etc. is going, being sent etc.
 
-profess -> to state or declare openly / to claim or pretend
+profess -> to state or declare openly. / claim that one has (a quality or feeling), especially when this is not the case.
+
+purport -> appear or claim to be or do something, especially falsely; profess.
+
+spurious -> not being what it purports to be; false or fake.
 
 ostensible -> appearing to be true; professed to be a certain way (but often having hidden meaning or intent)
 
@@ -447,6 +451,8 @@ vital -> of or relating to life. / absolutely necessary or important; essential.
 synthesize -> to form (a material or abstract entity) by combining parts or elements ( analyze )
 
 proceed -> to move or go forward or onward, especially after stopping.
+
+manner -> a way in which a thing is done or happens.
 
 circumstance -> a condition, detail, part, or attribute, with respect to time, place, manner, agent, etc., that accompanies, determines, or modifies a fact or event; a modifying or influencing factor.
 
@@ -787,6 +793,8 @@ diametrically -> (with reference to opposition) completely; directly.
 contrary -> opposite in nature or character; diametrically or mutually opposed. / opposite in nature, direction, or meaning.
 
 substitution -> change; exchange; swap; trade.
+
+supervision -> the action of supervising someone or something.
 
 supervise -> to oversee (a process, work, workers, etc.) during execution or performance.
 
@@ -2958,6 +2966,8 @@ admissible -> acceptable or valid, especially as evidence in a court of law.
 
 obese -> very fat or overweight.
 
+inhibit -> hinder, restrain, or prevent (an action or process).
+
 inhibited -> unable to act in a relaxed and natural way because of self-consciousness or mental restraint.
 
 overawe -> impress (someone) so much that they become silent or inhibited.
@@ -3760,8 +3770,6 @@ spoken -> speaking in a specified way.
 
 vase -> a decorative container, typically made of glass or china and used as an ornament or for displaying cut flowers.
 
-fairytale -> a children's story about magical and imaginary beings and lands.
-
 nuisance -> a person, thing, or circumstance causing inconvenience or annoyance.
 
 bud -> a compact growth on a plant that develops into a leaf, flower, or shoot.
@@ -4326,6 +4334,8 @@ escalate -> increase rapidly.
 
 theocracy -> a system of government in which priests rule in the name of God or a god.
 
+wear and tear -> the physical damage, deterioration, or loss of value that naturally and inevitably occurs to an object as a result of ordinary, everyday use.
+
 depreciation -> a reduction in the value of an asset with the passage of time, due in particular to wear and tear.
 
 frowning -> the action of forming an expression of disapproval, displeasure, or concentration, typically by turning down the corners of the mouth.
@@ -4528,10 +4538,97 @@ greenwashing -> the practice of making false or misleading claims about the envi
 
 significant-other -> a gender-neutral term for a person's romantic or intimate partner.
 
+fairy -> a small imaginary being of human form that has magical powers, especially a female one.
+
 fairy tale -> a children's story about magical and imaginary beings and lands; a fairy story.
 
 counter-intuitive -> contrary to intuition or to common-sense expectation.
 
 perversely -> in a way that shows a deliberate and obstinate desire to behave in an unreasonable or unacceptable manner.
 
+aftermath -> the consequences or aftereffects of a significant unpleasant event.
+
+soar -> fly or rise high in the air.
+
+sassy -> lively, bold, and full of spirit; cheeky.
+
+informer -> a person who informs on another person to the police or other authority.
+
+infiltrate -> enter or gain access to (an organization, place, etc.) surreptitiously and gradually, especially in order to acquire secret information.
+
+peculiar -> different to what is normal or expected; strange.
+
+mandate -> an official order or commission to do something.
+
+heir -> a person legally entitled to the property or rank of another on that person's death. / a person who inherits and continues the work of a predecessor.
+
+crone -> an old woman regarded as having magic powers or wisdom.
+
+maiden -> an unmarried girl or young woman.
+
+eerily -> in a strange and frightening manner.
+
+hazard -> a danger or risk.
+
+contamination -> the action or state of making or being made impure by polluting or poisoning.
+
+purport -> appear or claim to be or do something, especially falsely; profess.
+
+fledge -> (of a young bird) develop wing feathers that are large enough for flight.
+
+despondent -> in low spirits from loss of hope or courage.
+
+hue -> a color or shade.
+
+aquatic -> relating to water.
+
+timber -> wood prepared for use in building and carpentry.
+
+logging -> the activity or business of felling trees and cutting and preparing the timber.
+
+fervent -> having or displaying a passionate intensity.
+
+apostle -> each of the twelve chief disciples of Jesus Christ.
+
+disciple -> a personal follower of Jesus during his life, especially one of the twelve Apostles.
+
+guerrilla -> a member of a small independent group taking part in irregular fighting, typically against larger regular forces.
+
+erosion -> the process of eroding or being eroded by wind, water, or other natural agents.
+
+nourishment -> the food or other substances necessary for growth, health, and good condition.
+
+nutrient -> a substance that provides nourishment essential for growth and the maintenance of life.
+
+terrestrial -> of, on, or relating to the earth.
+
+artefact -> an object made or modified by a human being, typically one of cultural or historical interest.
+
+archeology -> the study of human history and prehistory through the excavation of sites and the analysis of artefacts and other physical remains.
+
+hyperbolically -> of, relating to, or marked by language that exaggerates or overstates the truth.
+
+interminable -> endless or apparently endless (often used hyperbolically).
+
+grad school -> a higher education institution which awards postgraduate degrees – most commonly master's and doctorate (PhD) programmes.
+
+hoe -> someone engaging in prostitution. / a agricultural tool used to level ground and break roots.
+
+civic participation -> how individuals and groups involve themselves in their community and beyond.
+
+reaper -> a person or machine that harvests a crop.
+
+perm -> a hairstyle produced by setting the hair in waves or curls and then treating it with chemicals so that the style lasts for several months.
+
+warden -> a person responsible for the supervision of a particular place or thing or for ensuring that regulations associated with it are obeyed.
+
+hyperbole -> an extreme, deliberate exaggeration or overstatement not meant to be taken literally.
+
+slip of paper -> a small sheet of paper.
+
+homunculus -> a very small human or humanoid creature.
+
+discrimination -> the unjust or prejudicial treatment of different categories of people, especially on the grounds of ethnicity, age, sex, or disability.
+
+	
 
