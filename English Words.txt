@@ -588,7 +588,7 @@ spine -> any backbone like part.
 
 paralysis -> a loss or impairment of voluntary movement in a body part, caused by injury or disease of the nerves, brain, or spinal cord.
 
-confine -> to enclose within bounds; limit or restrict / keep or restrict someone or something within certain limits of (space, scope, or time).
+confine -> to enclose within bounds; limit or restrict. / keep or restrict someone or something within certain limits of (space, scope, or time).
 
 restrict -> to confine or keep within limits, as of space, action, choice, intensity, or quantity
 
@@ -598,7 +598,7 @@ discretion -> the power or right to decide or act according to one's own judgmen
 
 arbitrary -> subject to individual will or judgment without restriction; contingent solely upon one's discretion
 
-cast -> to throw or hurl; fling
+cast -> cause (light or shadow) to appear on a surface.
 
 thrust -> push (something or someone) suddenly or violently in the specified direction.
 
@@ -692,7 +692,7 @@ referential -> having reference / containing a reference
 
 jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, feelings, thoughts, etc.
 
-attain -> to reach, achieve, or accomplish; gain; obtain
+attain -> to reach, achieve, or accomplish; gain; obtain.
 
 quest -> a search or pursuit made in order to find or obtain something
 
@@ -1046,7 +1046,7 @@ specify -> to mention or name specifically or definitely; state in detail.
 
 specification -> the act of specifying.
 
-imperative -> absolutely necessary or required; unavoidable
+imperative -> of vital importance; crucial. / an essential or urgent thing.
 
 applicative -> usable or capable of being used; practical; applicatory.
 
@@ -1401,6 +1401,13 @@ opt -> make a choice from a range of possibilities.
 knack -> an acquired or natural skill at doing something.
 
 feat -> an achievement that requires great courage, skill, or strength.
+
+hemisphere -> a half of a sphere.
+
+valiantly -> with courage or determination.
+
+
+
 
 mature -> fully developed physically; full-grown.
 
@@ -3190,7 +3197,7 @@ sneak -> move or go in a furtive or stealthy manner.
 
 gleam -> shine brightly, especially with reflected light.
 
-pale -> light in color or having little color.
+pale -> light in color or having little color. / become pale in one's face from shock or fear.
 
 lethal -> sufficient to cause death.
 
@@ -3299,6 +3306,8 @@ erode -> (of wind, water, or other natural agents) gradually wear away (soil, ro
 wear -> damage, erode, or destroy by friction or use.
 
 pothole -> a depression or hollow in a road surface caused by wear or sinking; become submerged.
+
+intoxicate -> (of alcoholic drink or a drug) cause (someone) to lose control of their faculties or behaviour.
 
 intoxicated -> drunk or under the influence of drugs.
 
@@ -4486,6 +4495,8 @@ gratification -> pleasure, especially when gained from the satisfaction of a des
 
 courtesy -> the showing of politeness in one's attitude and behavior toward others.
 
+inwardly -> (of a particular thought, feeling, or action) registered or existing in the mind but not expressed to others.
+
 inward -> directed or proceeding toward the inside; coming in from outside.
 
 ignite -> catch fire or cause to catch fire.
@@ -4590,7 +4601,7 @@ fervent -> having or displaying a passionate intensity.
 
 apostle -> each of the twelve chief disciples of Jesus Christ.
 
-disciple -> a personal follower of Jesus during his life, especially one of the twelve Apostles.
+disciples -> a personal follower of Jesus during his life, especially one of the twelve Apostles.
 
 guerrilla -> a member of a small independent group taking part in irregular fighting, typically against larger regular forces.
 
@@ -4630,5 +4641,58 @@ homunculus -> a very small human or humanoid creature.
 
 discrimination -> the unjust or prejudicial treatment of different categories of people, especially on the grounds of ethnicity, age, sex, or disability.
 
-	
+quick-witted -> showing or characterized by an ability to think or respond quickly and effectively.
 
+astray -> wandering off the correct path or moving into errors.
+
+succinctly -> in a brief and clearly expressed manner.
+
+salient -> most noticeable or important.
+
+elicit -> evoke or draw out (a response, answer, or fact) from someone in reaction to one's own actions or questions.
+
+invariably -> the meals here are invariably big and hearty
+
+retrospective -> looking back on or dealing with past events or situations.
+
+amputation -> the action of surgically cutting off a limb.
+
+limb -> an arm or leg of a person or four-legged animal, or a bird's wing.
+
+agony -> extreme physical or mental suffering.
+
+diurnal -> of or during the day. / daily; of each day.
+
+nocturnal -> done, occurring, or active at night.
+
+obscure -> not discovered or known about; uncertain. / keep from being seen; conceal.
+
+dermatology -> the branch of medicine concerned with the diagnosis and treatment of skin disorders.
+
+windswept -> (of a place) exposed to strong winds.
+
+shade -> comparative darkness and coolness caused by shelter from direct sunlight.
+
+philanthropy -> the desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.
+
+frothy -> full of or covered with a mass of small bubbles.
+
+periphery -> the outer limits or edge of an area or object.
+
+peripheral -> relating to or situated on the edge or periphery of something.
+
+chuckle -> laugh quietly or inwardly.
+
+demote -> give (someone) a lower rank or less senior position, usually as a punishment.
+
+seething -> his seething resentment finally reached boiling point
+
+hiccup -> an involuntary spasm of the diaphragm and respiratory organs, with a sudden closure of the glottis and a characteristic sound like that of a cough.
+
+hurdle -> one of a series of upright frames over which athletes in a race must jump.
+
+studious -> spending a lot of time studying or reading.
+
+bastard -> (of a thing) no longer in its pure or original form; debased.
+
+debase -> reduce (something) in quality or value; degrade.
