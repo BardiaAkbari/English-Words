@@ -370,9 +370,9 @@ pioneer -> a person who is among those who first enter or settle a region, thus 
 
 strip -> to deprive of covering.
 
-characteristics -> distinguishing quality; trait, attribute.
+characteristic -> distinguishing quality; trait, attribute.
 
-delegate -> to give (a piece of work, power etc. ) to someone else
+delegate -> to give (a piece of work, power etc. ) to someone else. / a person sent or authorized to represent others, in particular an elected representative sent to a conference.
 
 trivial -> trifling, unimportant, insignificant, minor
 
@@ -380,9 +380,9 @@ mischief -> action or behavior (especially of children) that causes small troubl
 
 shenanigans -> trick, prank; mischief
 
-rot -> (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.
-
 decay -> (of organic matter) rot or decompose through the action of bacteria and fungi.
+
+rot -> (chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi; decompose.
 
 corruption -> dishonesty; immorality; decay.
 
@@ -893,8 +893,6 @@ cramming -> packing, storing
 bump -> to cause to strike or collide
 
 deviate -> to turn aside, as from a route, way, course. / depart from an established course.
-
-venue -> the scene or locale of any action or event.
 
 allude -> suggest or call attention to indirectly; hint at.
 
@@ -2555,6 +2553,8 @@ untidy -> not arranged neatly and in order.
 
 clutter -> crowd (something) untidily; fill with clutter.
 
+bulk -> the mass or magnitude of something large.
+
 freight -> goods transported in bulk by truck, train, ship, or aircraft.
 
 discard -> get rid of (someone or something) as no longer useful or desirable.
@@ -3401,7 +3401,8 @@ restitution -> the restoration of something lost or stolen to its proper owner.
 
 screw -> https://upload.wikimedia.org/wikipedia/commons/4/4c/Screws.jpg
 
-stunt -> prevent from growing or developing properly.
+stunt -> prevent from growing or developing properly. / an action displaying spectacular skill and daring.
+
 
 toddler -> a young child who is just beginning to walk.
 
@@ -4696,3 +4697,51 @@ studious -> spending a lot of time studying or reading.
 bastard -> (of a thing) no longer in its pure or original form; debased.
 
 debase -> reduce (something) in quality or value; degrade.
+
+upfront -> at the front; in front. / (of a payment) in advance.
+
+stringent -> (of regulations, requirements, or conditions) strict, precise, and exacting.
+
+excess -> an amount of something that is more than necessary, permitted, or desirable.
+
+solvent -> having assets in excess of liabilities; able to pay one's debts.
+
+dilute -> make (a liquid) thinner or weaker by adding water or another solvent to it.
+
+get a leg up -> to get an advantage, to receive help, or to be in a better position than others.
+
+remnant -> a small remaining quantity of something.
+
+unscrupulous -> having or showing no moral principles; not honest or fair.
+
+aversive -> causing strong dislike or disinclination.
+
+hedonic -> relating to or considered in terms of pleasant (or unpleasant) sensations.
+
+fallible -> capable of making mistakes or being erroneous.
+
+fathom -> a unit of length equal to six feet (approximately 1.8 m), chiefly used in reference to the depth of water. / understand (a difficult problem or an enigmatic person) after much thought.
+
+conservation -> prevention of wasteful use of a resource.
+
+compositional -> relating to the production of a creative work such as a poem or piece of music.
+
+rhetoric -> the art of effective or persuasive speaking or writing, especially the use of figures of speech and other compositional techniques.
+
+gregarious -> (of a person) fond of company; sociable.
+
+fallacious -> based on a mistaken belief.
+
+drill -> To repeat an activity many times in order to learn or improve a skill. / To create a hole using a rotating tool.
+
+thoroughness -> great care and attention to detail.
+
+rigor -> extreme thoroughness, strictness, accuracy, or careful attention to detail.
+
+crave -> feel a powerful desire for (something).
+
+steam -> the vapor into which water is converted when heated, forming a white mist of minute water droplets in the air. / give off or produce steam.
+
+nurture -> care for and encourage the growth or development of.
+
+spotlight -> a lamp projecting a narrow, intense beam of light directly on to a place or person, especially a performer on stage.
