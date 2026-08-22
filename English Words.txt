@@ -20,6 +20,8 @@ analogy -> a similarity between like features of two things, on which a comparis
 
 conform -> comply with rules, standards, or laws.
 
+analogous -> comparable in certain respects, typically in a way which makes clearer the nature of the things compared.
+
 correspond -> to be in agreement or conformity / to be similar or analogous; be equivalent in function, position, amount, etc.
 
 utility -> the state or quality of being useful; usefulness
@@ -1793,7 +1795,7 @@ divisive -> tending to cause disagreement or hostility between people.
 
 testify -> give evidence as a witness in a law court.
 
-incident -> an instance of something happening; an event or occurrence.
+incident -> an instance of something happening; an event or occurrence. / an event or occurrence.
 
 anecdote -> a short amusing or interesting story about a real incident or person.
 
@@ -1957,7 +1959,7 @@ trimming -> decoration, especially for clothing.
 
 spill -> cause or allow (liquid) to flow over the edge of its container, especially unintentionally.
 
-fluid -> a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid.
+fluid -> a substance that has no fixed shape and yields easily to external pressure; a gas or (especially) a liquid. / aFVble to change easily, with fewer fixed rules, traditions, or barriers.
 
 foster -> encourage the development of (something, especially something desirable).
 
@@ -4745,3 +4747,37 @@ steam -> the vapor into which water is converted when heated, forming a white mi
 nurture -> care for and encourage the growth or development of.
 
 spotlight -> a lamp projecting a narrow, intense beam of light directly on to a place or person, especially a performer on stage.
+
+engrave -> cut or carve (a text or design) on the surface of a hard object.
+
+compilation -> the action or process of producing something, especially a list, book, or report, by assembling information collected from other sources.
+
+deceit -> the action or practice of deceiving someone by concealing or misrepresenting the truth.
+
+concoct -> make (a dish or meal) by combining various ingredients.
+
+fabricate -> invent or concoct (something), typically with deceitful intent.
+
+exploratory -> relating to or involving exploration or investigation.
+
+repertoire -> A complete collection or set of something.	
+
+immune -> totally or partially resistant to a particular infectious disease or pathogen.
+
+pathogen -> a bacterium, virus, or other microorganism that can cause disease.
+
+complexion -> the natural color, texture, and appearance of a person's skin, especially of the face.
+
+prospector -> a person who searches for mineral deposits, especially by drilling and excavation.
+
+leaflet -> a printed sheet of paper, sometimes folded, containing information or advertising and usually distributed free.
+
+malicious -> deliberately intending to cause harm or trouble.
+
+obliterated -> completely destroyed or wiped out, so that almost nothing remains.
+
+memorandum -> a short official document that communicates information, instructions, or a decision, especially within an organization.
+
+ensue -> happen or occur afterward or as a result.
+
+silhouette -> the dark shape and outline of someone or something visible against a lighter background, especially in dim light.
