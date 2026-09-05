@@ -1184,7 +1184,7 @@ amplitude -> the vertical distance from the midline of a sine or cosine wave to 
 
 analogy -> a similarity between like features of two things, on which a comparison may be based
 
-wiggle -> to move or go with short, quick, irregular movements from side to side
+wiggle -> move or cause to move up and down or from side to side with small rapid movements.
 
 far-flung -> distant or remote.
 
@@ -1276,7 +1276,7 @@ rip someone off -> cheat someone, especially financially.
 
 imitate -> to make a copy of; reproduce closely. / take or follow as a model.
 
-cognitive -> relating to the mental process involved in knowing, learning, and understanding things
+cognitive -> relating to the mental process involved in knowing, learning, and understanding things.
 
 peer -> one that is of equal standing with another
 
@@ -1633,7 +1633,7 @@ credibility -> the quality of being trusted and believed in.
 
 hypothetical -> imagined or suggested, but perhaps not true or really happening
 
-verdict -> an opinion or judgement.
+verdict -> a decision on a disputed issue in a civil or criminal case or an inquest. / an opinion or judgement.
 
 insidiously -> in a gradual, subtle way, but with harmful effects.
 
@@ -2341,7 +2341,9 @@ perceptible -> (especially of a slight movement or change of state) able to be s
 
 embodiment -> a tangible or visible form of an idea, quality, or feeling.
 
-keenly -> intensely
+article -> a particular item or object.
+
+keenly -> intensely.
 
 ominous -> giving the impression that something bad or unpleasant is going to happen
 
@@ -3542,7 +3544,7 @@ patron -> a person who gives financial or other support to a person, organizatio
 
 parentage -> the identity and origins of one's parents.
 
-veteran -> he was a veteran of the big screen
+veteran -> a person who has had long experience in a particular field.
 
 specimen -> an individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.
 
@@ -4356,7 +4358,6 @@ issuer -> a person or company that supplies or distributes something.
 
 extrapolate -> extend the application of (a method or conclusion, especially one based on statistics) to an unknown situation by assuming that existing trends will continue or similar methods will be applicable.
 
-empirically -> by means of observation or experience rather than theory or pure logic.
 
 nausea -> a feeling of sickness with an inclination to vomit.
 
@@ -4748,6 +4749,10 @@ nurture -> care for and encourage the growth or development of.
 
 spotlight -> a lamp projecting a narrow, intense beam of light directly on to a place or person, especially a performer on stage.
 
+inscription -> words inscribed, as on a monument or in a book.
+
+carve -> cut (a hard material) in order to produce an object, design, or inscription.
+
 engrave -> cut or carve (a text or design) on the surface of a hard object.
 
 compilation -> the action or process of producing something, especially a list, book, or report, by assembling information collected from other sources.
@@ -4781,3 +4786,75 @@ memorandum -> a short official document that communicates information, instructi
 ensue -> happen or occur afterward or as a result.
 
 silhouette -> the dark shape and outline of someone or something visible against a lighter background, especially in dim light.
+
+erudite -> having or showing great knowledge or learning.
+
+proliferate -> increase rapidly in numbers; multiply.
+
+nucleus -> the central and most important part of an object, movement, or group, forming the basis for its activity and growth.
+
+encephalitis -> inflammation of the brain, caused by infection or an allergic reaction.
+
+scribble -> write or draw (something) carelessly or hurriedly.
+
+illegible -> not clear enough to be read.
+
+flock -> a number of birds of one kind feeding, resting, or traveling together.
+
+amorphous -> without a clearly defined shape or form.
+
+conurbation -> an extended urban area, typically consisting of several towns merging with the suburbs of one or more cities.
+
+hallmark -> a mark stamped on articles of gold, silver, or platinum in Britain, certifying their standard of purity.
+
+elude ->evade or escape from (a danger, enemy, or pursuer), typically in a skillful or cunning way.
+
+notional -> existing only in theory or as a suggestion or idea.
+
+vehement -> showing strong feeling; forceful, passionate, or intense.
+
+arduous -> involving or requiring strenuous effort; difficult and tiring.
+
+extol -> praise enthusiastically.
+
+virtues -> behavior showing high moral standards.
+
+proponent -> a person who advocates a theory, proposal, or project.
+
+perturbation -> a deviation of a system, moving object, or process from its regular or normal state or path, caused by an outside influence.
+
+vertigo -> a sensation of whirling and loss of balance, associated particularly with looking down from a great height, or caused by disease affecting the inner ear or the vestibular nerve; giddiness.
+
+insinuate -> suggest or hint (something bad or reprehensible) in an indirect and unpleasant way.
+
+boredom -> the state of feeling bored.
+
+collateral -> something pledged as security for repayment of a loan, to be forfeited in the event of a default.
+
+refraction -> the fact or phenomenon of light, radio waves, etc. being deflected in passing obliquely through the interface between one medium and another or through a medium of varying density.
+
+proviso -> a condition attached to an agreement.
+
+stipulation -> a condition or requirement that is specified or demanded as part of an agreement.
+
+caveat -> a warning or proviso of specific stipulations, conditions, or limitations.
+
+fiddles about with -> messes around with.
+
+premises -> a building and the land/property belonging to it.
+
+congregate -> gather into a crowd or mass.
+
+hostel -> an establishment which provides inexpensive food and lodging for a specific group of people, such as students, workers, or travelers.
+
+courier -> a company or employee of a company that transports commercial packages and documents.
+
+refurbishment -> the renovation and redecoration of something, especially a building.
+
+intrigue -> arouse the curiosity or interest of; fascinate.
+
+empirical -> based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.
+
+maternity -> motherhood.
+
+
