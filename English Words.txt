@@ -1144,7 +1144,7 @@ acquaint -> make someone aware of or familiar with.
 
 acquainted -> having met.
 
-acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend. / a person's knowledge or experience of something.
+acquaintance -> knowledge or experience of something. / a person one knows slightly, but who is not a close friend.
 
 subsequent -> coming after something in time; following.
 
@@ -1754,6 +1754,8 @@ dividend -> a sum of money paid regularly (typically quarterly) by a company to 
 advocate -> a person who publicly supports or recommends a particular cause or policy.
 
 rim -> the upper or outer edge of an object, typically something circular or approximately circular.
+
+bliss -> perfect happiness; great joy.
 
 blissfully -> in a manner characterized by extreme happiness or joy.
 
@@ -3274,6 +3276,8 @@ fissile -> (of an atom or element) able to undergo nuclear fission.
 struck -> hit forcibly and deliberately with one's hand or a weapon or other implement.
 
 swollen -> (especially of a part of the body) become larger or rounder in size, typically as a result of an accumulation of fluid.
+
+infect -> affect (a person, organism, cell, etc.) with a disease-causing organism.
 
 inflammation -> a localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection.
 
@@ -4857,4 +4861,26 @@ empirical -> based on, concerned with, or verifiable by observation or experienc
 
 maternity -> motherhood.
 
+ocular -> of or connected with the eyes or vision.
 
+constraint -> a limitation or restriction.
+
+granular -> resembling or consisting of small grains or particles.
+
+binoculars -> an optical instrument with a lens for each eye, used for viewing distant objects.
+
+fare -> the money a passenger on public transportation has to pay.
+
+pneumonia -> a serious illness affecting one or both lungs that makes breathing difficult.
+
+mnemonic -> helping you to remember something.
+
+minuscule -> extremely small.
+
+liaison -> a relationship between people or organizations involving the exchange of information or ideas.
+
+pastime -> something that you enjoy doing when you are not working 
+
+ecstasy -> a feeling or state of very great happiness.
+
+handkerchief -> a square of cotton or other finely woven material, typically carried in one's pocket and intended for blowing or wiping one's nose.
