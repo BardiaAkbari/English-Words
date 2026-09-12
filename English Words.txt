@@ -10,7 +10,7 @@ propose -> to offer or suggest
 
 exert -> make a physical or mental effort.
 
-vigor -> active strength or force.
+vigor -> physical strength and good health. / active strength or force.
 
 vigorous -> full of or characterized by vigor.
 
@@ -574,7 +574,7 @@ abandon -> to leave completely and finally; forsake utterly; desert.
 
 arrogant -> making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud.
 
-incur -> to come into or acquire (some consequence, usually undesirable or injurious).
+incur -> become subject to (something unwelcome or unpleasant) as a result of one's own behavior or actions.
 
 entrust -> to charge or invest with a trust or responsibility; charge with a specified office or duty involving trust.
 
@@ -693,6 +693,8 @@ sentiment -> an attitude toward something; regard; opinion.
 referential -> having reference / containing a reference
 
 jarring -> having a harshly unpleasant or disturbing effect on one’s nerves, feelings, thoughts, etc.
+
+accomplish -> achieve or complete successfully.
 
 attain -> to reach, achieve, or accomplish; gain; obtain.
 
@@ -1024,13 +1026,15 @@ defy -> to challenge the power of; resist boldly or openly
 
 vow -> oath / promise
 
+flour -> a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.
+
 thrive -> to grow or develop vigorously.
 
-flourish -> to be in a vigorous state; thrive
+flourish -> (of a person, animal, or other living organism) grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.
 
-deal out -> distribute or give something to several people
+deal out -> distribute or give something to several people.
 
-dispense -> to deal out; distribute
+dispense -> distribute or provide (a service or information) to a number of people.
 
 cordial -> friendly; warm.
 
@@ -1072,13 +1076,13 @@ sophistication -> complexity, as in design or organization.
 
 refine -> to bring to a fine or a pure state; free from impurities
 
-latter -> being the second mentioned of two
+latter -> being the second mentioned of two. / situated or occurring nearer to the end of something than to the beginning.
 
 covenant -> an agreement.
 
 testament -> a covenant, especially between god and humans. / a person's will, especially the part relating to personal property.
 
-bear -> carry.
+bear -> carry the weight of; support.
 
 sustain -> to support, hold, or bear up from below; bear the weight of, as a structure.
 
@@ -1114,7 +1118,7 @@ conception -> the act of conceiving; the state of being conceived.
 
 notion -> a general understanding; vague or imperfect conception or idea of something.
 
-conceive -> to form (a notion, opinion, purpose, etc.). / become pregnant with (a child).
+conceive -> to form (a notion, opinion, purpose, etc.). / become pregnant with (a child). / form or devise (a plan or idea) in the mind. / imagine.
 
 dissect -> to examine minutely part by part; analyze.
 
@@ -1128,7 +1132,7 @@ helm -> the place or post of control
 
 slack -> not tight, firm, or tense
 
-relentless -> not easing or slackening; maintaining speed, vigor, etc.
+relentless -> not easing or slackening; maintaining speed, vigor, etc. / oppressively constant; incessant.
 
 exhaustive -> examining, including, or considering all elements or aspects; fully comprehensive.
 
@@ -1190,7 +1194,8 @@ far-flung -> distant or remote.
 
 rigidly -> in a strict or exacting way.
 
-erect -> rigidly upright or straight.
+erect -> rigidly upright or straight. / construct (a building, wall, or other upright structure).
+
 
 goosebumps -> a state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect
 
@@ -1406,9 +1411,6 @@ hemisphere -> a half of a sphere.
 
 valiantly -> with courage or determination.
 
-
-
-
 mature -> fully developed physically; full-grown.
 
 prematurely -> before the due time; ahead of time.
@@ -1447,7 +1449,7 @@ eloquently -> in a way that gives a strong, clear message
 
 distorted -> pulled into or appearing as a strange or unnatural shape, false or wrong
 
-intrinsic  -> being an extremely important and basic characteristic of a person or thing
+intrinsic -> belonging naturally; essential. / being an extremely important and basic characteristic of a person or thing. 
 
 evolve -> to develop gradually, or to cause something or someone to develop gradually
 
@@ -1517,7 +1519,8 @@ demographics -> statistical data relating to the population and particular group
 
 propositions -> a suggested scheme or plan of action, especially in a business context.
 
-harness -> control and make use of (natural resources), especially to produce energy.
+harness -> control and make use of (natural resources), especially to produce energy. / a set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow, etc. and is controlled by its driver.
+
 
 distinction -> a difference or contrast between similar things or people.
 
@@ -2039,6 +2042,8 @@ serpent -> a large snake.
 
 domain -> an area of territory owned or controlled by a ruler or government.
 
+privilege -> a special right or advantage that a particular person or group of people has.
+
 exclude -> deny (someone) access to or bar (someone) from a place, group, or privilege.
 
 minority -> the smaller number or part, especially a number that is less than half the whole number.
@@ -2245,7 +2250,7 @@ smelt -> extract (metal) from its ore by a process involving heating and melting
 
 furnace -> an enclosed structure in which material can be heated to very high temperatures, e.g. for smelting metals.
 
-forge -> make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it.
+forge -> make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it. / to create or develop something
 
 breeze -> a gentle wind.
 
@@ -3958,6 +3963,8 @@ refutable -> able to be proven wrong or denied.
 
 proliferation -> rapid increase in numbers.
 
+illuminated -> lit with bright lights. / (of a manuscript) having pages or letters decorated by hand with gold, silver, or colored designs.
+
 wane -> (of the moon) have a progressively smaller part of its visible surface illuminated, so that it appears to decrease in size.
 
 fertile -> (of soil or land) producing or capable of producing abundant vegetation or crops.
@@ -4884,3 +4891,107 @@ pastime -> something that you enjoy doing when you are not working
 ecstasy -> a feeling or state of very great happiness.
 
 handkerchief -> a square of cotton or other finely woven material, typically carried in one's pocket and intended for blowing or wiping one's nose.
+
+inoculate -> to protect a person or an animal from catching a particular disease by injecting them with a mild form of the disease.
+
+sensational -> (of an event, a person, or a piece of information) causing great public interest and excitement.
+
+millennium -> a period of a thousand years, especially when calculated from the traditional date of the birth of Christ.
+
+bygone -> belonging to an earlier time.
+
+relic -> an object surviving from an earlier time, especially one of historical or sentimental interest.
+
+heyday -> the period of a person's or thing's greatest success, popularity, or vigor.
+
+crater -> a large, bowl-shaped cavity in the ground or on the surface of a planet or the moon, typically one caused by an explosion or the impact of a meteorite or other celestial body.
+
+pavilion -> a small building or covered structure, usually in a garden, park, or public place, where people can sit, rest, or take shelter.
+
+embellish -> make (something) more attractive by the addition of decorative details or features.
+
+derelict -> in a very poor condition as a result of disuse and neglect.
+
+renowned -> known or talked about by many people; famous.
+
+commissioned -> (especially of a work of art) produced specially to order.
+
+ornate -> made in an intricate shape or decorated with complex patterns.
+
+haulage -> the commercial transport of goods.
+
+culprit -> a person who is responsible for a crime or other misdeed.
+
+curb -> a check or restraint on something.
+
+quintet -> a group of five people playing music or singing together.
+
+pervasive -> (especially of an unwelcome influence or physical effect) spreading widely throughout an area or a group of people.
+
+deepen -> make or become deep or deeper.
+
+sermon -> a talk on a religious or moral subject, especially one given during a church service and based on a passage from the Bible.
+
+preach -> deliver a sermon or religious address to an assembled group of people, typically in church.
+
+congregation -> a group of people assembled for religious worship.
+
+furlough -> suspend or discharge (a worker) from a job, especially temporarily, on account of economic conditions or shortage of work.
+
+dodge -> avoid (someone or something) by a sudden quick movement.
+
+antiseptic -> relating to or denoting substances that prevent the growth of disease-causing microorganisms.
+
+succumb -> fail to resist pressure, temptation, or some other negative force.
+
+skepticism -> a skeptical attitude; doubt as to the truth of something.
+
+quarter -> group. / source. / people.
+
+alight -> descend from a train, bus, or other form of transport.
+
+halved -> divide into two parts of equal or roughly equal size.
+
+provision -> the action of providing or supplying something for use.
+
+sanitation -> conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.
+
+a grip on someone / something -> a strong influence or control over them.
+
+prevalence -> the fact or condition of being prevalent; commonness.
+
+domestic background -> the child's home and family environment.
+
+emerge -> move out of or away from something and come into view.
+
+tuition -> teaching or instruction, especially private or specialized instruction.
+
+autonomy -> the right or condition of self-government.
+
+spoon-feed -> to give someone information or help so directly and completely that they don't have to think or work things out for themselves.
+
+manuscript -> a book, document, or piece of music written by hand rather than typed or printed.
+
+facsimile -> an exact copy, especially of written or printed material.
+	
+bread-and-butter -> work that provides a person with their regular income, even if it isn't especially interesting or prestigious.
+
+apprentice -> a person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages.
+
+bear witness to -> provide evidence of. / demonstrate.
+
+reprography -> the science and practice of copying and reproducing documents and graphic material.
+
+pejorative -> expressing contempt or disapproval.
+
+permissiveness -> great or excessive freedom of behavior.
+
+appendage -> (often with negative or pejorative connotations) a thing that is added or attached to something larger or more important.
+
+attendants -> a person employed to provide a service to the public in a particular place.
+
+deter -> discourage (someone) from doing something by instilling doubt or fear of the consequences.
+
+fidelity -> faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.
+
+momentous -> (of a decision, event, or change) of great importance or significance, especially in its bearing on the future.
