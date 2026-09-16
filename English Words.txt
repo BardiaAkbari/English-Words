@@ -178,17 +178,17 @@ strap -> a strip of leather, cloth, or other flexible material, often with a buc
 
 stripe -> a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing.
 
-acquire -> to come into possession or ownership of; get as one's own
+acquire -> to come into possession or ownership of; get as one's own.
 
-resist -> to withstand, strive against, or oppose
+resist -> to withstand, strive against, or oppose.
 
-vigorously -> with active strength or force; energetically or powerfully
+vigorously -> with active strength or force; energetically or powerfully.
 
-strive -> to exert oneself vigorously; try hard
+strive -> to exert oneself vigorously; try hard.
 
-oppose -> to act against or provide resistance to; combat
+oppose -> disapprove of and attempt to prevent, especially by argument. / to act against or provide resistance to; combat.
 
-compose -> to make or form by combining things, parts, or elements
+compose -> (of elements) constitute or make up (a whole). / write or create (a work of art, especially music or poetry). / to make or form by combining things, parts, or elements.
 
 compound -> a thing that is composed of two or more separate elements; a mixture.
 
@@ -2470,6 +2470,8 @@ preliminary -> an action or event preceding or preparing for something fuller or
 
 groundwork -> preliminary or basic work.
 
+recollect -> remember (something); call to mind.
+
 reminiscing -> indulge in enjoyable recollection of past events.
 
 aesthetic -> concerned with beauty or the appreciation of beauty.
@@ -4115,6 +4117,8 @@ alternate -> occur in turn repeatedly.
 
 checkered -> having a pattern consisting of alternating squares of different colors.
 
+audacious -> showing a willingness to take surprisingly bold risks.
+
 daring -> (of a person or action) adventurous or audaciously bold.
 
 cottage -> a small simple house, typically one near a lake or beach.
@@ -4600,6 +4604,8 @@ contamination -> the action or state of making or being made impure by polluting
 
 purport -> appear or claim to be or do something, especially falsely; profess.
 
+ledge -> a narrow horizontal surface that sticks out from a wall, cliff, building, etc.
+
 fledge -> (of a young bird) develop wing feathers that are large enough for flight.
 
 despondent -> in low spirits from loss of hope or courage.
@@ -4973,7 +4979,7 @@ spoon-feed -> to give someone information or help so directly and completely tha
 manuscript -> a book, document, or piece of music written by hand rather than typed or printed.
 
 facsimile -> an exact copy, especially of written or printed material.
-	
+
 bread-and-butter -> work that provides a person with their regular income, even if it isn't especially interesting or prestigious.
 
 apprentice -> a person who is learning a trade from a skilled employer, having agreed to work for a fixed period at low wages.
@@ -4995,3 +5001,69 @@ deter -> discourage (someone) from doing something by instilling doubt or fear o
 fidelity -> faithfulness to a person, cause, or belief, demonstrated by continuing loyalty and support.
 
 momentous -> (of a decision, event, or change) of great importance or significance, especially in its bearing on the future.
+
+archipelago -> a group of islands.
+
+seafaring -> (of a person) traveling by sea, especially regularly.
+
+cursive -> written with the characters joined.
+
+scrape -> push or pull a hard or sharp implement across (a surface or object) so as to remove dirt or other matter.
+
+rove -> travel constantly without a fixed destination; wander.
+
+seedling -> a young plant, especially one raised from seed and not from a cutting.
+
+pot -> a container, typically rounded or cylindrical and of ceramic ware or metal, used for storage or cooking.
+
+urn -> a tall, rounded vase with a stem and base, especially one used for storing the ashes of a cremated person.
+
+spring from -> come from. / originate from.
+
+voyage -> a long journey involving travel by sea or in space.
+
+strand -> leave (someone) without the means to move from somewhere.
+
+secure in the knowledge that X -> feeling confident / reassured because you know that X.
+
+dismantle -> take (a machine or structure) to pieces.
+
+deplete -> use up the supply or resources of. / diminish in number or quantity.
+
+infestation -> the presence of an unusually large number of insects or animals in a place, typically so as to cause damage or disease.
+
+ascertained -> find (something) out for certain; make sure of.
+
+salvage -> rescue (a wrecked or disabled ship or its cargo) from loss at sea.
+
+exquisitely -> in an extremely beautiful and delicate manner.
+
+virtually -> nearly; almost.
+
+dormancy -> the state of having normal physical functions suspended or slowed down for a period of time; deep sleep.
+
+germination -> the development of a plant from a seed or spore after a period of dormancy.
+
+equate -> consider (one thing) to be the same as or equivalent to another.
+
+upheaval -> a violent or sudden change or disruption to something.
+
+perch -> to sit/rest on something, especially a high or narrow place.
+
+specimen -> an individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display.
+
+recreation -> activity done for enjoyment when one is not working.
+
+dismissive -> feeling or showing that something is unworthy of consideration.
+
+chronological -> (of a record of events) starting with the earliest and following the order in which they occurred.
+
+additive -> a substance added to something in small quantities to improve or preserve it.
+
+repel -> drive or force (an attack or attacker) back or away.
+
+abrupt -> sudden and unexpected.
+
+indefinitely -> for an unlimited or unspecified period of time.
+
+task at hand -> the particular task currently being solved.
