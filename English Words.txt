@@ -218,7 +218,7 @@ affair -> an event or sequence of events of a specified kind or that has previou
 
 forum -> the marketplace or public square of an ancient Roman city, the center of judicial and business affairs and a place of assembly for the people
 
-disperse -> to drive or send off in various directions; scatter
+disperse -> distribute or spread over a wide area. / to drive or send off in various directions; scatter.
 
 bid -> to command; order; direct.
 
@@ -320,7 +320,7 @@ variant -> not agreeing or conforming; differing, especially from something of t
 
 irresistible -> not resistible; incapable of being resisted or withstood
 
-vogue -> something in fashion, as at a particular time / popular currency, acceptance, or favor; popularity
+vogue -> the prevailing fashion or style at a particular time. / something in fashion, as at a particular time. / popular currency, acceptance, or favor; popularity.
 
 dispose -> bring (someone) into a particular frame of mind.
 
@@ -1412,6 +1412,8 @@ hemisphere -> a half of a sphere.
 valiantly -> with courage or determination.
 
 mature -> fully developed physically; full-grown.
+
+premature -> occurring or done before the usual or proper time; too early.
 
 prematurely -> before the due time; ahead of time.
 
@@ -4848,6 +4850,8 @@ boredom -> the state of feeling bored.
 
 collateral -> something pledged as security for repayment of a loan, to be forfeited in the event of a default.
 
+refract -> (of water, air, or glass) make (a ray of light) change direction when it enters at an angle.
+
 refraction -> the fact or phenomenon of light, radio waves, etc. being deflected in passing obliquely through the interface between one medium and another or through a medium of varying density.
 
 proviso -> a condition attached to an agreement.
@@ -5067,3 +5071,56 @@ abrupt -> sudden and unexpected.
 indefinitely -> for an unlimited or unspecified period of time.
 
 task at hand -> the particular task currently being solved.
+
+syntactic -> of or according to syntax.
+
+more involved -> more complicated.
+
+parade -> a public procession, especially one celebrating a special day or event and including marching bands and floats.
+
+deposit -> put or set down (something or someone) in a specific place, typically unceremoniously. / a sum of money placed or kept in a bank account, usually to gain interest.
+
+algae -> https://upload.wikimedia.org/wikipedia/commons/0/03/NSW_seabed_1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original
+
+replenish -> fill (something) up again.
+
+scrutinize -> examine or inspect closely and thoroughly.
+
+shed -> (of a tree or other plant) allow (leaves or fruit) to fall to the ground. / a simple roofed structure, typically made of wood or metal, used as a storage space, a shelter for animals, or a workshop.
+
+devious -> showing a skillful use of underhanded tactics to achieve goals.
+
+scheme -> make plans, especially in a devious way or with intent to do something illegal or wrong.
+
+precipitate -> cause (an event or situation, typically one that is bad or undesirable) to happen suddenly, unexpectedly, or prematurely.
+
+precipitation -> rain, snow, sleet, or hail that falls to the ground.
+
+painstakingly -> with great care and thoroughness.
+
+revolution -> a forcible overthrow of a government or social order, in favor of a new system. / an instance of revolving.
+
+aqueduct -> an artificial channel for conveying water, typically in the form of a bridge across a valley or other gap.
+
+demographic -> relating to the structure of populations and the different groups within them.
+
+rear -> bring up and care for (a child) until they are fully grown, especially in a particular manner or place.
+
+hothouse -> a heated building, typically made largely of glass, for rearing plants out of season or in a climate colder than is natural for them.
+
+despoil -> steal or violently remove valuable or attractive possessions from; plunder.
+
+verdant -> (of countryside) green with grass or other rich vegetation.
+
+arid -> (of land or a climate) having little or no rain; too dry or barren to support vegetation.
+
+pest -> a destructive insect or other animal that attacks crops, food, livestock, etc.
+
+meadow -> a piece of grassland, especially one used for hay.
+
+herbicide -> a substance that is toxic to plants, used to destroy unwanted vegetation.
+
+fertilizer -> a chemical or natural substance added to soil or land to increase its fertility.
+
+pesticide -> a substance that is toxic to plants, used to destroy unwanted vegetation.
+
