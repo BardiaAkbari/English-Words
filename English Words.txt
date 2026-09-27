@@ -112,7 +112,7 @@ moreover -> in addition to what has been said; further; besides
 
 entrepreneur -> a person who organizes and manages any enterprise, especially a business, usually with considerable initiative and risk
 
-transcend -> to rise above or go beyond; overpass; exceed
+transcend -> be or go beyond the range or limits of (something abstract, typically a conceptual field or division).
 
 critic -> a person who expresses an unfavorable opinion of something.
 
@@ -252,7 +252,7 @@ embed -> to fix into a surrounding mass.
 
 sole -> being the only one of the kind.
 
-solely -> exclusively or only.
+solely -> not involving anyone or anything else; only. / exclusively or only.
 
 mere -> that is solely or no more or better than what is specified.
 
@@ -606,7 +606,7 @@ thrust -> push (something or someone) suddenly or violently in the specified dir
 
 submerge -> cause to be under water.
 
-plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge.
+plunge -> to cast or thrust forcibly or suddenly into something, as a liquid, a penetrable substance, a place, etc.; immerse; submerge. / jump or dive quickly and energetically.
 
 sink -> go down below the surface of something, especially of a liquid.
 
@@ -886,6 +886,8 @@ comprehension -> the action or capability of understanding something.
 
 concise -> expressing or covering much in few words; brief in form but comprehensive in scope
 
+doze -> sleep lightly.
+
 dozen -> a group of 12.
 
 grind -> to wear, smooth, or sharpen by abrasion or friction; whet
@@ -1024,7 +1026,7 @@ choke -> to stop the breath of by squeezing or obstructing the windpipe; strangl
 
 defy -> to challenge the power of; resist boldly or openly
 
-vow -> oath / promise
+vow -> solemnly promise to do a specified thing. / oath. / promise.
 
 flour -> a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.
 
@@ -1211,6 +1213,8 @@ preceding -> coming before something in order, position, or time.
 
 invoice -> an itemized bill for goods sold or services provided, containing individual prices, the total charge, and the terms.
 
+requisite -> made necessary by particular circumstances or regulations.
+
 prerequisite -> required beforehand
 
 discrete -> apart or detached from others; separate; distinct
@@ -1257,7 +1261,7 @@ accompany -> go somewhere with (someone) as a companion or escort.
 
 accompanying -> provided or occurring at the same time as something else.
 
-mutate -> change in form or nature.
+mutate -> change or cause to change in form or nature.
 
 furious -> extremely angry.
 
@@ -4862,6 +4866,8 @@ caveat -> a warning or proviso of specific stipulations, conditions, or limitati
 
 fiddles about with -> messes around with.
 
+premise -> a previous statement or proposition from which another is inferred or follows as a conclusion. / base an argument, theory, or undertaking on.
+
 premises -> a building and the land/property belonging to it.
 
 congregate -> gather into a crowd or mass.
@@ -4871,6 +4877,8 @@ hostel -> an establishment which provides inexpensive food and lodging for a spe
 courier -> a company or employee of a company that transports commercial packages and documents.
 
 refurbishment -> the renovation and redecoration of something, especially a building.
+
+fascinate -> draw irresistibly the attention and interest of (someone).
 
 intrigue -> arouse the curiosity or interest of; fascinate.
 
@@ -5123,4 +5131,80 @@ herbicide -> a substance that is toxic to plants, used to destroy unwanted veget
 fertilizer -> a chemical or natural substance added to soil or land to increase its fertility.
 
 pesticide -> a substance that is toxic to plants, used to destroy unwanted vegetation.
+
+trajectory -> the path followed by a projectile flying or an object moving under the action of given forces.
+
+projectile -> a missile designed to be fired from a rocket or gun.
+
+unequivocally -> in a way that leaves no doubt.
+
+inadequacy -> the state or quality of being inadequate; lack of the quantity or quality required.
+
+sinusoidal -> having the form of a sine curve.
+
+mindful -> conscious or aware of something.
+
+forefather -> a member of the past generations of one's family or people; an ancestor.
+
+amphibian -> https://www.wildlifenomads.com/wp-content/uploads/2025/09/Types-of-Amphibians-infographic-1.webp
+
+juvenile -> of, for, or relating to young people.
+
+lineal -> in a direct line of descent or ancestry.
+
+hind -> (especially of a bodily part) situated at the back; posterior.
+
+sprout -> (of a plant) put forth shoots.
+
+temperament -> a person's or animal's nature, especially as it permanently affects their behavior.
+
+reticent -> not revealing one's thoughts or feelings readily.
+
+rehabilitation -> the action of restoring someone to health or normal life through training and therapy after imprisonment, addiction, or illness.
+
+stamina -> the ability to sustain prolonged physical or mental effort.
+
+tinder -> dry, flammable material, such as wood or paper, used for lighting a fire.
+
+menace -> a person or thing that is likely to cause harm; a threat or danger.
+
+erratic -> not even or regular in pattern or movement; unpredictable.
+
+acreage -> an area of land, typically when used for agricultural purposes, but not necessarily measured in acres.
+
+eradication -> the complete destruction of something.
+
+scorch -> burn the surface of (something) with flame or heat.
+
+bungling -> the action or fact of carrying out a task clumsily or incompetently.
+
+dilapidate -> cause (something) to fall into disrepair or ruin.
+
+serpentine -> having many twists and curves.
+
+revamp -> give new and improved form, structure, or appearance to.
+
+procure -> obtain (something), especially with care or effort.
+
+put something off -> delay, procrastinate.
+
+fanatic -> a person filled with excessive and single-minded zeal, especially for an extreme religious or political cause.
+
+setback -> a reversal or check in progress.
+
+co-opt -> appoint to membership of a committee or other body by invitation of the existing members.
+
+corroborate -> confirm or give support to (a statement, theory, or finding).
+
+physiology -> the branch of biology that deals with the normal functions of living organisms and their parts.
+
+botany -> the scientific study of plants, including their physiology, structure, genetics, ecology, distribution, classification, and economic importance.
+
+rinse -> wash (something) with clean water to remove soap, detergent, dirt, or impurities.
+
+ingest -> take (food, drink, or another substance) into the body by swallowing or absorbing it.
+
+haphazard -> lacking any obvious principle of organization.
+
+fuzzy -> difficult to perceive; indistinct or vague.
 
