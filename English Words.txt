@@ -276,7 +276,7 @@ dexterity -> skill in performing tasks, especially with the hands.
 
 occupation -> a job or profession. / the action, state, or period of occupying or being occupied by military force.
 
-craft -> an art, trade, or occupation requiring special skill, especially manual skill
+craft -> an activity involving skill in making things by hand. / an art, trade, or occupation requiring special skill, especially manual skill.
 
 reluctance -> unwillingness.
 
@@ -294,7 +294,7 @@ retain -> continue to have (something); keep possession of.
 
 maintain -> to keep in existence or continuance; preserve; retain
 
-conjunction -> the act of joining together, or the state of being so joined; combination, union, or association
+conjunction -> the act of joining together, or the state of being so joined; combination, union, or association.
 
 bundled -> (of hardware or software) sold together, as a package, rather than separately.
 
@@ -852,7 +852,9 @@ flop -> to fall or plump down suddenly, especially with noise; drop or turn with
 
 punchy -> being or appearing vigorously effective; forceful.
 
-contender -> a person or group that competes against others to win something; contestant
+surmount -> overcome (a difficulty or obstacle).
+
+contend -> struggle to surmount (a difficulty or danger).
 
 aught -> anything whatever; any part.
 
@@ -1107,6 +1109,8 @@ treaty -> a formal agreement between two or more states in reference to peace, a
 truce -> an agreement or treaty establishing this.
 
 conciliation -> a method of helping the parties in a dispute to reach agreement, esp divorcing or separating couples to part amicably
+
+compromise -> an agreement or a settlement of a dispute that is reached by each side making concessions.
 
 mediate -> to bring about (an agreement, accord, truce, peace, etc.) as an intermediary between parties by compromise, reconciliation, removal of misunderstanding, etc.
 
@@ -3128,6 +3132,8 @@ ritual -> a religious or solemn ceremony consisting of a series of actions perfo
 
 observance -> the action or practice of fulfilling or respecting the requirements of law, morality, or ritual.
 
+compliance -> the action or fact of complying with a wish or command.
+
 enforcement -> the act of compelling observance of or compliance with a law, rule, or obligation.
 
 captor -> a person or animal that catches or confines another.
@@ -3710,6 +3716,9 @@ unfurl -> make or become spread out from a rolled or folded state, especially in
 pave -> cover (a piece of ground) with concrete, asphalt, stones, or bricks.
 
 stray -> move away aimlessly from a group or from the right course or place.
+
+trove -> a store of valuable or delightful things.
+
 
 cinch -> an extremely easy task.
 
@@ -5207,4 +5216,60 @@ ingest -> take (food, drink, or another substance) into the body by swallowing o
 haphazard -> lacking any obvious principle of organization.
 
 fuzzy -> difficult to perceive; indistinct or vague.
+
+doodle -> scribble absentmindedly.
+
+meticulously -> in a way that shows great attention to detail; very thoroughly.
+
+extraterrestrial -> a hypothetical or fictional being from outer space, especially an intelligent one.
+
+scrawny -> (of a person or animal) unattractively thin and bony.
+
+cannibalism -> the practice of eating the flesh of one's own species.
+
+chieftain -> the leader of a tribe or group.
+
+sledge -> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XcaHFrwX8xKsSvSl8lmqTfp_5CjaLKo3ZUt1u48mTw&s=10
+
+decimate -> kill, destroy, or remove a large percentage or part of.
+
+tan -> a yellowish-brown color.
+
+thermal -> relating to heat.
+
+dissipate -> (with reference to a feeling or other intangible thing) disappear or cause to disappear.
+
+overladen -> having too large or too heavy a load.
+
+sediment -> matter that settles to the bottom of a liquid; dregs.
+
+protrude -> extend beyond or above a surface.
+
+intermittent -> occurring at irregular intervals; not continuous or steady.
+
+surreptitious -> kept secret, especially because it would not be approved of.
+
+circumvention -> the action of overcoming a problem or difficulty, typically in a clever and surreptitious way.
+
+recipient -> a person or thing that receives or is awarded something.
+
+ramification -> a consequence of an action or event, especially when complex or unwelcome.
+
+carnival -> a public celebration or festival, usually with music, dancing, costumes, parades, games, and entertainment.
+
+compulsory -> required by law or a rule; obligatory.
+
+proofread -> read (written or printed material) and mark any errors.
+
+accommodation -> a convenient arrangement; a settlement or compromise.
+
+introductory -> serving as an introduction to a subject or topic; basic or preliminary.
+
+post-secondary -> relating to or denoting education at a level beyond that provided by schools, typically that provided by a college or university; tertiary.
+
+stationery -> writing and other office materials.
+
+humid -> marked by a relatively high level of water vapor in the atmosphere.
+
+clerk -> a person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.
 
