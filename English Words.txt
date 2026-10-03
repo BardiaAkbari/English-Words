@@ -168,9 +168,9 @@ handful -> a small amount, number, or quantity
 
 metaphor -> something used, or regarded as being used, to represent something else; symbol
 
-recruit -> a new member of a group, organization, or the like. / enlist (someone) in the armed forces.
-
 enlist -> to enroll, usually voluntarily, for military service.
+
+recruit -> a new member of a group, organization, or the like. / enlist (someone) in the armed forces.
 
 strip -> remove all coverings from.
 
@@ -618,6 +618,8 @@ proxy -> the agency, function, or power of a person authorized to act as the dep
 
 realm -> a kingdom.
 
+expanse -> an area of something, typically land or sea, presenting a wide continuous surface.
+
 spatial -> of or relating to space, the three-dimensional realm or expanse in which all material objects are located and all events occur. /  relating to or occupying space.
 
 essence -> the basic, real, and invariable nature of a thing or its significant individual feature or features.
@@ -912,9 +914,13 @@ thrill -> a sudden feeling of excitement and pleasure.
 
 thrilled -> feeling very pleased or happily excited; delighted.
 
+breadth -> the distance or measurement from side to side of something; width.
+
 solid -> having three dimensions (length, breadth, and thickness), as a geometrical body or figure.
 
-prohibited -> forbidden by authority or law.hostile -> of, relating to, or characteristic of an enemy.
+prohibited -> forbidden by authority or law.
+
+hostile -> of, relating to, or characteristic of an enemy.
 
 unanimous -> of one mind; in complete agreement; agreed
 
@@ -1032,6 +1038,8 @@ vow -> solemnly promise to do a specified thing. / oath. / promise.
 
 flour -> a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.
 
+pastry -> a dough of flour, fat, and water, used as a base and covering in baked dishes such as pies.
+
 thrive -> to grow or develop vigorously.
 
 flourish -> (of a person, animal, or other living organism) grow or develop in a healthy or vigorous way, especially as the result of a particularly favorable environment.
@@ -1131,6 +1139,8 @@ dissect -> to examine minutely part by part; analyze.
 cadaver -> a dead body, especially a human body to be dissected; corpse.
 
 cohere -> to stick together; be united; hold fast, as parts of the same mass
+
+presume -> suppose that something is the case on the basis of probability.
 
 presumption -> assumption of something as true. / belief on reasonable grounds or probable evidence.
 
@@ -3430,7 +3440,6 @@ screw -> https://upload.wikimedia.org/wikipedia/commons/4/4c/Screws.jpg
 
 stunt -> prevent from growing or developing properly. / an action displaying spectacular skill and daring.
 
-
 toddler -> a young child who is just beginning to walk.
 
 wriggle -> twist and turn with quick writhing movements.
@@ -3442,6 +3451,8 @@ trip -> catch one's foot on something and stumble or fall.
 stumble -> trip or momentarily lose one's balance; almost fall.
 
 dazzle -> (of a bright light) blind (a person) temporarily.
+
+concede -> admit that something is true or valid after first denying or resisting it.
 
 concession -> a thing that is granted, especially in response to demands; a thing conceded.
 
@@ -3583,7 +3594,7 @@ entity -> a thing with distinct and independent existence.
 
 congest -> crowd (a road or place) so as to hinder or prevent freedom of movement.
 
-mortgage -> convey (a property) to a creditor as security on a loan. / 
+mortgage -> convey (a property) to a creditor as security on a loan. 
 
 sequestration -> the action of taking legal possession of assets until a debt has been paid or other claims have been met.
 
@@ -3719,7 +3730,6 @@ stray -> move away aimlessly from a group or from the right course or place.
 
 trove -> a store of valuable or delightful things.
 
-
 cinch -> an extremely easy task.
 
 pimp -> a man who controls prostitutes and arranges clients for them, taking part of their earnings in return.
@@ -3761,6 +3771,8 @@ mundane -> lacking interest or excitement; dull.
 itinerary -> a planned route or journey.
 
 fidget -> make small movements, especially of the hands and feet, through nervousness or impatience.
+
+trunk -> the main woody stem of a tree as distinct from its branches and roots.	
 
 torso -> the trunk of the human body.
 
@@ -4835,6 +4847,8 @@ flock -> a number of birds of one kind feeding, resting, or traveling together.
 
 amorphous -> without a clearly defined shape or form.
 
+suburb -> an outlying district of a city, especially a residential one.
+
 conurbation -> an extended urban area, typically consisting of several towns merging with the suburbs of one or more cities.
 
 hallmark -> a mark stamped on articles of gold, silver, or platinum in Britain, certifying their standard of purity.
@@ -5055,6 +5069,8 @@ infestation -> the presence of an unusually large number of insects or animals i
 
 ascertained -> find (something) out for certain; make sure of.
 
+cargo -> goods carried on a ship, aircraft, or motor vehicle.
+
 salvage -> rescue (a wrecked or disabled ship or its cargo) from loss at sea.
 
 exquisitely -> in an extremely beautiful and delicate manner.
@@ -5273,3 +5289,42 @@ humid -> marked by a relatively high level of water vapor in the atmosphere.
 
 clerk -> a person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.
 
+fortify -> provide (a place) with defensive works as protection against attack.
+
+smog -> fog or haze intensified by smoke or other atmospheric pollutants.
+
+landfill -> the disposal of waste material by burying it, especially as a method of filling in and reclaiming excavated pits.
+
+voucher -> a small printed piece of paper that entitles the holder to a discount, or that may be exchanged for goods or services.
+
+annuity -> a fixed sum of money paid to someone each year, typically for the rest of their life.
+
+condominium -> a building or complex of buildings containing a number of individually owned apartments or houses.
+
+chimney -> https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/ChimneyProvidenceProspectPark.jpg/960px-ChimneyProvidenceProspectPark.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail
+
+footbridge -> a bridge designed to be used by pedestrians.
+
+peninsula -> a piece of land almost surrounded by water or projecting out into a body of water.
+
+oasis -> a fertile spot in a desert, where water is found.
+
+liner -> large ship in which people travel long distances, especially on holiday.
+
+trainee -> a person undergoing training for a particular job or profession.
+
+poultry -> the flesh of chickens and other domestic fowl as food.
+
+lorry -> a large, heavy motor vehicle for transporting goods or troops; a truck.
+
+polyglot -> knowing or using several languages.
+
+canteen -> a restaurant provided by an organization such as a college, factory, or company for its students or staff.
+
+department store -> a large shop stocking many varieties of goods in different departments.
+
+outskirt -> the outer parts of a town or city.
+
+rivalry -> competition for the same objective or for superiority in the same field.
+
+stagnant -> (of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence.
