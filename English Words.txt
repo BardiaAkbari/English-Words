@@ -88,7 +88,7 @@ suppress -> to do away with by or as by authority; abolish; stop (a practice, cu
 
 apathy -> absence or suppression of passion, emotion, or excitement / lack of interest in or concern for things that others find moving or exciting
 
-endeavor -> to attempt; try / to exert oneself to do or effect something; make an effort; strive.
+endeavor -> try hard to do or achieve something. / to attempt; try. / to exert oneself to do or effect something; make an effort; strive.
 
 imitate -> to follow or endeavor to follow as a model or example. / his style was imitated by many other writers
 
@@ -250,7 +250,7 @@ liable -> responsible by law; legally answerable.
 
 embed -> to fix into a surrounding mass.
 
-sole -> being the only one of the kind.
+sole -> being the only one of the kind. / one and only.
 
 solely -> not involving anyone or anything else; only. / exclusively or only.
 
@@ -336,7 +336,7 @@ trend -> the general course or prevailing tendency / style or vogue
 
 commerce -> an interchange of goods or commodities, especially on a large scale between different countries (foreign commerce ) or between different parts of the same country (domestic commerce ); trade; business
 
-compelling -> tending to compel, as to force or push toward a course of action; overpowering
+compelling -> evoking interest, attention, or admiration in a powerfully irresistible way.
 
 integral -> of, relating to, or belonging as a part of the whole; constituent or component
 
@@ -344,7 +344,7 @@ integration -> an act or instance of combining into an integral whole / an act o
 
 ethnic -> pertaining to or characteristic of a people, especially a group (ethnic group) sharing a common and distinctive culture, religion, language, or the like.
 
-excel -> to surpass others or be superior in some respect or area; do extremely well
+excel -> be exceptionally good at or proficient in an activity or subject. / to surpass others or be superior in some respect or area; do extremely well.
 
 deliberation -> careful consideration before decision / formal consultation or discussion
 
@@ -1337,6 +1337,8 @@ comprise -> consist of; be made up of.
 
 delimiter -> a character or symbol used in computer code that separates words, data, or characters
 
+evident -> plain or obvious; clearly seen or understood.
+
 evidently -> in a way that is clearly seen or understood; obviously.
 
 precision -> the quality, condition, or fact of being exact and accurate.
@@ -1465,7 +1467,7 @@ veil -> a piece of fine material worn by women to protect or conceal the face.
 
 adolescence -> the period of time in a person's life when they are developing into an adult
 
-eloquently -> in a way that gives a strong, clear message
+eloquently -> in a fluent or persuasive manner. / in a way that gives a strong, clear message.
 
 distorted -> pulled into or appearing as a strange or unnatural shape, false or wrong
 
@@ -1890,7 +1892,7 @@ stampede -> a sudden panicked rush of a number of horses, cattle, or other anima
 
 disastrous -> causing great damage.
 
-meltdown -> a disastrous collapse or breakdown.
+meltdown -> a disastrous event, especially a rapid fall in share prices. / a disastrous collapse or breakdown.
 
 milling -> (of a machine) designed to cut or shape metal using a rotating tool.
 
@@ -2526,7 +2528,7 @@ figures -> a number, especially one which forms part of official statistics or r
 
 parity -> the state or condition of being equal, especially regarding status or pay.
 
-surged -> (of a crowd or a natural force) move suddenly and powerfully forward or upward.
+surge -> a sudden powerful forward or upward movement, especially by a crowd or by a natural force such as the waves or tide.
 
 commonplace -> not unusual; ordinary.
 
@@ -2678,7 +2680,9 @@ decree -> an official order issued by a legal authority.
 
 revoke -> put an end to the validity or operation of (a decree, decision, or promise).
 
-annulled -> declare invalid (an official agreement, decision, or result).
+declare -> say something in a solemn and emphatic manner.
+
+annul -> declare invalid (an official agreement, decision, or result).
 
 repeal -> revoke or annul (a law or congressional act).
 
@@ -3474,7 +3478,7 @@ metamorphic -> denoting or relating to rock that has undergone transformation by
 
 slate -> a fine-grained gray, green, or bluish metamorphic rock easily split into smooth, flat pieces.
 
-quarry -> a place, typically a large, deep pit, from which stone or other materials are or have been extracted.
+quarry -> a place, typically a large, deep pit, from which stone or other materials are or have been extracted. / extract (stone or other materials) from a quarry.
 
 chamber -> a large room used for formal or public events.
 
@@ -4511,9 +4515,13 @@ dissuade -> persuade (someone) not to take a particular course of action.
 
 picket -> a person or group of people standing outside a place of work or other venue, protesting something or trying to persuade others not to enter during a strike.
 
+perplex -> (of something complicated or unaccountable) cause (someone) to feel completely baffled.
+
 perplexity -> inability to deal with or understand something.
 
 intricate -> very complicated or detailed.
+
+graze -> (of cattle, sheep, etc.) eat grass in a field.
 
 cynical -> believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.
 
@@ -4859,8 +4867,6 @@ notional -> existing only in theory or as a suggestion or idea.
 
 vehement -> showing strong feeling; forceful, passionate, or intense.
 
-arduous -> involving or requiring strenuous effort; difficult and tiring.
-
 extol -> praise enthusiastically.
 
 virtues -> behavior showing high moral standards.
@@ -5137,7 +5143,7 @@ aqueduct -> an artificial channel for conveying water, typically in the form of 
 
 demographic -> relating to the structure of populations and the different groups within them.
 
-rear -> bring up and care for (a child) until they are fully grown, especially in a particular manner or place.
+rear -> bring up and care for (a child) until they are fully grown, especially in a particular manner or place. / the back part of something, especially a building or vehicle.
 
 hothouse -> a heated building, typically made largely of glass, for rearing plants out of season or in a climate colder than is natural for them.
 
@@ -5328,3 +5334,165 @@ outskirt -> the outer parts of a town or city.
 rivalry -> competition for the same objective or for superiority in the same field.
 
 stagnant -> (of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence.
+
+adept -> very skilled or proficient at something.
+
+notorious -> famous or well known, typically for some bad quality or deed.
+
+spectator -> a person who watches at a show, game, or other event.
+
+tantalize -> torment or tease (someone) with the sight or promise of something that is unobtainable.
+
+aficionado -> a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime.
+
+testimonial -> a formal statement testifying to someone's character and qualifications.
+
+predation -> the preying of one animal on others.
+
+displace -> take over the place, position, or role of (someone or something).
+
+retrofit -> add (a component or accessory) to something that did not have it when manufactured.
+
+amphibious -> relating to, living in, or suited for both land and water.
+
+morale -> the confidence, enthusiasm, and discipline of a person or group at a particular time.
+
+gimmick -> a trick or device intended to attract attention, publicity, or trade.
+
+equitable -> fair and just, especially in a way that takes account of and seeks to address existing inequalities.
+
+reimburse -> repay (a person who has spent or lost money).
+
+ascent -> a climb or walk to the summit of a mountain or hill.
+
+stirring -> an initial sign of activity, movement, or emotion.
+
+grammarian -> a person who studies and writes about grammar.
+
+abbey -> the building or buildings occupied by a community of monks or nuns.
+
+unravel -> undo (twisted, knitted, or woven threads).
+
+ravel -> untangle or unravel something.
+
+forager -> a person or animal that searches widely for food or provisions.
+
+monstrosity -> something, especially a building, that is very large and is considered unsightly.
+
+thrifty -> (of a person or their behavior) using money and other resources carefully and not wastefully.
+
+nifty -> particularly good, skillful, or effective.
+
+contraption -> a machine or device that appears strange or unnecessarily complicated, and often badly made or unsafe.
+
+physiognomy -> a person's facial features or expression, especially when regarded as indicative of character or ethnic origin.
+
+breakneck -> dangerously or extremely fast.
+
+foreshadow -> be a warning or indication of (a future event).
+
+dissonant -> lacking harmony.
+
+ailment -> an illness, typically a minor one.
+
+trailblazer -> a pioneer; an innovator.
+
+sturdy -> (of a person or their body) strongly and solidly built.
+
+arson -> the criminal act of deliberately setting fire to property.
+
+apparel -> clothe (someone).
+
+outset -> the start or beginning of something.
+
+esteem -> respect and admiration, typically for a person.
+
+terrain -> a stretch of land, especially with regard to its physical features.
+
+devoid -> entirely lacking or free from.
+
+prospective -> expected or expecting to be the specified thing in the future.
+
+torch -> a portable means of illumination such as a piece of wood or cloth soaked in tallow or an oil lamp on a pole, sometimes carried ceremonially. / set fire to.
+
+anew -> in a new or different and typically more positive way.
+
+inferior -> lower in rank, status, or quality.
+
+engross -> absorb all the attention or interest of.
+	
+buoyant -> able or apt to stay afloat or rise to the top of a liquid or gas.
+
+excursion -> a short journey or trip, especially one engaged in as a leisure activity.
+
+trek -> a long arduous journey, especially one made on foot.
+
+murmur -> a low continuous background noise.
+
+faint -> (of a sight, smell, or sound) barely perceptible.
+
+slump -> sit, lean, or fall heavily and limply, especially with a bent back.
+
+swerve -> change or cause to change direction abruptly.
+
+perishable -> (especially of food) likely to decay or go bad quickly.
+
+aptitude -> a natural ability to do something.
+
+fungible -> (of a product or commodity) replaceable by another identical item; mutually interchangeable.
+
+nefarious -> (typically of an action or activity) wicked or criminal.
+
+circuitous -> (of a route or journey) longer than the most direct way.
+
+chronicler -> a person who writes accounts of important or historical events.
+
+entrenched -> (of an attitude, habit, or belief) firmly established and difficult or unlikely to change; ingrained.
+
+commentator -> a person who comments on events or on a text.
+
+anguish -> severe mental or physical pain or suffering.
+
+expedition -> a journey or voyage undertaken by a group of people with a particular purpose, especially that of exploration, scientific research, or war.
+
+respiration -> the action of breathing.
+
+lunar -> of, determined by, or resembling the moon.
+
+respite -> a short period of rest or relief from something difficult or unpleasant.
+
+encampment -> a place with temporary accommodations consisting of huts or tents, typically for troops or nomads.
+
+pressing -> (of a problem, need, or situation) requiring quick or immediate action or attention.
+
+repatriation -> the return of someone to their own country.
+
+cadet -> a young trainee in the armed services or police force.
+
+liaise -> establish a working relationship, typically in order to cooperate on a matter of mutual concern.
+
+rehearsal -> a practice or trial performance of a play or other work for later public performance.
+
+playwright -> a person who writes plays.
+
+fruitful -> (of a tree, plant, or land) producing much fruit; fertile.
+
+appalling -> causing shock or dismay; horrific. / very bad; awful.
+
+spear -> a weapon with a pointed tip, typically of steel, and a long shaft, used for thrusting or throwing.
+
+foundry -> a workshop or factory for casting metal.
+
+tint -> a shade or variety of a color.
+
+craftsman -> a worker skilled in a particular craft.
+
+invaluable -> extremely useful; indispensable.
+
+levy -> impose (a tax, fee, or fine).
+
+shoal -> a large number of fish swimming together.
+
+sour -> clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent.
+
+seabed -> the ground under the sea; the ocean floor.
