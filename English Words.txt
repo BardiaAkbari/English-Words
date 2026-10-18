@@ -38,7 +38,7 @@ opacity -> the state or quality of being opaque
 
 modularity -> the use of individually distinct functional units, as in assembling an electronic or mechanical system
 
-audit -> an official examination and verification of accounts and records, especially of financial accounts
+audit -> an official inspection of an individual's or organization's accounts, typically by an independent body.
 
 bind -> to fasten or secure with a band or bond / tie or fasten (something) tightly together.
 
@@ -86,7 +86,7 @@ abolish -> formally put an end to (a system, practice, or institution).
 
 suppress -> to do away with by or as by authority; abolish; stop (a practice, custom, etc.). / forcibly put an end to.
 
-apathy -> absence or suppression of passion, emotion, or excitement / lack of interest in or concern for things that others find moving or exciting
+apathy -> absence or suppression of passion, emotion, or excitement. / lack of interest in or concern for things that others find moving or exciting.
 
 endeavor -> try hard to do or achieve something. / to attempt; try. / to exert oneself to do or effect something; make an effort; strive.
 
@@ -888,7 +888,7 @@ verbose -> characterized by the use of many or too many words; wordy
 
 comprehension -> the action or capability of understanding something.
 
-concise -> expressing or covering much in few words; brief in form but comprehensive in scope
+concise -> giving the relevant or necessary information clearly and in a few words; brief but comprehensive.
 
 doze -> sleep lightly.
 
@@ -1211,7 +1211,6 @@ far-flung -> distant or remote.
 rigidly -> in a strict or exacting way.
 
 erect -> rigidly upright or straight. / construct (a building, wall, or other upright structure).
-
 
 goosebumps -> a state of the skin caused by cold, fear, or excitement, in which small bumps appear on the surface as the hairs become erect
 
@@ -2527,6 +2526,8 @@ census -> an official count or survey of a population, typically recording vario
 figures -> a number, especially one which forms part of official statistics or relates to the financial performance of a company.
 
 parity -> the state or condition of being equal, especially regarding status or pay.
+
+urge -> try earnestly or persistently to persuade (someone) to do something.
 
 surge -> a sudden powerful forward or upward movement, especially by a crowd or by a natural force such as the waves or tide.
 
@@ -5496,3 +5497,67 @@ shoal -> a large number of fish swimming together.
 sour -> clean or brighten the surface of (something) by rubbing it hard, typically with an abrasive or detergent.
 
 seabed -> the ground under the sea; the ocean floor.
+
+postmortem -> an examination of a dead body to determine the cause of death.
+
+devolve -> transfer or delegate (power) to a lower level, especially from central government to local or regional administration.
+
+remuneration -> money paid for work or a service.
+
+insatiable -> (of an appetite or desire) impossible to satisfy.
+
+statute -> a written law passed by a legislative body.
+
+statutory -> required, permitted, or enacted by statute.
+
+conducive -> making a certain situation or outcome likely or possible.
+
+hygienic -> conducive to maintaining health and preventing disease, especially by being clean; sanitary.
+
+probation -> the release of an offender from detention, subject to a period of good behavior under supervision.
+
+standstill -> a situation or condition in which there is no movement or activity at all.
+
+carpe diem -> used to urge someone to make the most of the present time and give little thought to the future.
+
+fortnight -> a period of two weeks.
+
+city-dweller -> a person who lives in a city.
+
+intrusive -> causing disruption or annoyance through being unwelcome or uninvited.
+
+enrapture -> give intense pleasure or joy to.
+
+fester -> (of a wound or sore) become septic; suppurate.
+
+fend off -> to defend yourself against, resist, or prevent something unwanted.
+
+long-haul -> a long distance (in reference to the transport of freight or passengers).
+
+trawl through -> to search through a large amount of information or many items, usually to find something useful.
+
+laud -> praise (a person or their achievements) highly, especially in a public context.
+
+obituary -> a notice of a death, especially in a newspaper, typically including a brief biography of the deceased person.
+
+ethos -> the characteristic spirit of a culture, era, or community as manifested in its beliefs and aspirations.
+
+proximity -> nearness in space, time, or relationship.
+
+anecdote -> a short amusing or interesting story about a real incident or person.
+
+flinch -> make a quick, nervous movement as an instinctive reaction to fear, pain, or surprise.
+
+recoil -> suddenly spring or flinch back in fear, horror, or disgust.
+
+fragrant -> having a pleasant or sweet smell.
+
+anoint -> smear or rub with oil, typically as part of a religious ceremony.
+
+condiment -> a substance such as salt or ketchup that is used to add flavor to food.
+
+expel -> officially make (someone) leave a school or other organization.
+
+exorbitant -> (of a price or amount charged) unreasonably high.
+
+spur -> to encourage or cause something to happen, especially by creating pressure or motivation.
