@@ -568,9 +568,9 @@ utterly -> in an utter manner; completely: absolutely.
 
 sake -> for the purpose of; in the interest of; in order to achieve or preserve.
 
-forsake -> to quit or leave entirely; abandon; desert.
+abandon -> cease to support or look after (someone); desert. / to leave something behind, often permanently.
 
-abandon -> to leave completely and finally; forsake utterly; desert.
+forsake -> abandon or leave.
 
 arrogant -> making claims or pretensions to superior importance or rights; overbearingly assuming; insolently proud.
 
@@ -1438,7 +1438,7 @@ prematurely -> before the due time; ahead of time.
 
 boredom -> the state of feeling bored.
 
-manifest -> clear or obvious to the eye or mind.
+manifest -> clear or obvious to the eye or mind. / display or show (a quality or feeling) by one's acts or appearance; demonstrate.
 
 embody -> be an expression of or give a tangible or visible form to (an idea, quality, or feeling)..
 
@@ -3071,8 +3071,6 @@ pity -> the feeling of sorrow and compassion caused by the suffering and misfort
 
 composure -> the state or feeling of being calm and in control of oneself.
 
-entail -> involve (something) as a necessary or inevitable part or consequence.
-
 gambit -> a device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.
 
 fumble -> use the hands clumsily while doing or handling something.
@@ -3210,6 +3208,8 @@ doctrine -> a belief or set of beliefs held and taught by a Church, political pa
 escalation -> a rapid increase; a rise.
 
 venue -> the place where something happens, especially an organized event such as a concert, conference, or sports event.
+
+grasp -> seize and hold firmly.
 
 grip -> take and keep a firm hold of; grasp tightly.
 
@@ -5342,6 +5342,8 @@ notorious -> famous or well known, typically for some bad quality or deed.
 
 spectator -> a person who watches at a show, game, or other event.
 
+torment -> severe physical or mental suffering.
+
 tantalize -> torment or tease (someone) with the sight or promise of something that is unobtainable.
 
 aficionado -> a person who is very knowledgeable and enthusiastic about an activity, subject, or pastime.
@@ -5561,3 +5563,21 @@ expel -> officially make (someone) leave a school or other organization.
 exorbitant -> (of a price or amount charged) unreasonably high.
 
 spur -> to encourage or cause something to happen, especially by creating pressure or motivation.
+
+favoritism -> the practice of giving unfair preferential treatment to one person or group at the expense of another.
+
+attune -> make receptive or aware.
+
+jeopardize -> put (someone or something) into a situation in which there is a danger of loss, harm, or failure.
+
+engender -> cause or give rise to (a feeling, situation, or condition).
+
+unleash -> release or allow something powerful to develop or have an effect.
+
+avert -> prevent something unpleasant or dangerous from happening.
+
+reinvigorate -> give something renewed energy, strength, or interest.
+
+avid -> having or showing a keen interest in or enthusiasm for something.
+
+ransom -> a sum of money demanded or paid for the release of a captive.
