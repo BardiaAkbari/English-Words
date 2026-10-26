@@ -64,7 +64,7 @@ quirk -> a peculiar behavioral habit.
 
 characteristic -> pertaining to, constituting, or indicating the character or peculiar quality of a person or thing; typical; distinctive.
 
-permissive -> habitually or characteristically accepting or tolerant of something, as social behavior or linguistic usage, that others might disapprove or forbid.
+permissive -> allowing or characterized by great or excessive freedom of behaviour.
 
 ample -> fully sufficient or more than adequate for the purpose or needs; plentiful; enough.
 
@@ -160,7 +160,7 @@ dim -> make or become less bright or distinct.
 
 dull -> boring, dim, dumb, simple, slow.
 
-intellect -> the faculty of reasoning and understanding objectively, especially with regard to abstract or academic matters.
+intellect -> the faculty of reasoning and understanding objectively, especially with regard to abstract matters.
 
 obtuse -> not quick or alert in perception, feeling, or intellect; not sensitive or observant; dull
 
@@ -178,7 +178,7 @@ strap -> a strip of leather, cloth, or other flexible material, often with a buc
 
 stripe -> a relatively long, narrow band of a different color, appearance, weave, material, or nature from the rest of a surface or thing.
 
-acquire -> to come into possession or ownership of; get as one's own.
+acquire -> buy or obtain (an asset or object) for oneself.
 
 resist -> to withstand, strive against, or oppose.
 
@@ -254,7 +254,7 @@ sole -> being the only one of the kind. / one and only.
 
 solely -> not involving anyone or anything else; only. / exclusively or only.
 
-mere -> that is solely or no more or better than what is specified.
+mere -> used to emphasize how small or insignificant someone or something is.
 
 merely -> just; only / only as specified and nothing more; simply.
 
@@ -338,9 +338,9 @@ commerce -> an interchange of goods or commodities, especially on a large scale 
 
 compelling -> evoking interest, attention, or admiration in a powerfully irresistible way.
 
-integral -> of, relating to, or belonging as a part of the whole; constituent or component
+integral -> necessary to make a whole complete; essential or fundamental.
 
-integration -> an act or instance of combining into an integral whole / an act or instance of integrating a racial, religious, or ethnic group
+integration -> an act or instance of combining into an integral whole. / an act or instance of integrating a racial, religious, or ethnic group.
 
 ethnic -> pertaining to or characteristic of a people, especially a group (ethnic group) sharing a common and distinctive culture, religion, language, or the like.
 
@@ -442,9 +442,9 @@ adherence -> the quality of adhering; steady devotion, support, allegiance, or a
 
 integrity -> adherence to moral and ethical principles; soundness of moral character; honesty
 
-bandwidth -> a range of frequencies within a given band, in particular that used for transmitting a signal
+bandwidth -> a range of frequencies within a given band, in particular that used for transmitting a signal.
 
-conspicuous -> easily seen or noticed; readily visible or observable
+conspicuous -> clearly visible.
 
 seamless -> smoothly continuous or uniform in quality; combined in an inconspicuous way
 
@@ -638,7 +638,7 @@ drain -> to withdraw or draw off (a liquid) gradually; remove slowly or by degre
 
 fatigue -> extreme tiredness resulting from mental or physical exertion or illness.
 
-exhaust -> to drain of strength or energy, wear out, or fatigue greatly, as a person.
+exhaust -> make (someone) feel very tired. / use up (resources or reserves) completely.
 
 plague -> an epidemic disease that causes high mortality; pestilence.
 
@@ -684,9 +684,9 @@ conspicuous -> standing out so as to be clearly visible.
 
 prominent -> standing out so as to be seen easily; particularly noticeable; conspicuous. / very noticeable, important, or famous.
 
-readily -> without hesitation or reluctance; willingly. / promptly; quickly; easily.
+promptly -> with little or no delay; immediately.
 
-promptly -> at once or without delay
+readily -> without hesitation or reluctance; willingly. / promptly; quickly; easily.
 
 conspicuous -> easily seen or noticed; readily visible or observable
 
@@ -738,11 +738,9 @@ interior -> being within; inside of anything; internal; inner; further toward a 
 
 perimeter -> the continuous line forming the boundary of a closed geometric figure.
 
-circumference -> the outer boundary, especially of a circular area; perimeter
-
 proportion -> comparative relation between things or magnitudes as to size, quantity, number, etc.; ratio.
 
-slender -> having a circumference that is small in proportion to the height or length.
+slender -> (of a person or part of the body) gracefully thin.
 
 stem -> the ascending axis of a plant, whether above or below ground, which ordinarily grows in an opposite direction to the root or descending axis.
 
@@ -848,7 +846,7 @@ cease -> bring or come to an end.
 
 halt -> to stop; cease moving, operating, etc., either permanently or temporarily
 
-viable -> capable of living
+viable -> capable of working successfully; feasible.
 
 flop -> to fall or plump down suddenly, especially with noise; drop or turn with a sudden bump or thud (sometimes followed by down ) / to be a complete failure; fail
 
@@ -1252,6 +1250,8 @@ honing in -> to focus one's attention more narrowly or precisely on a particular
 
 on behalf of -> in the interests of (a person, group, or principle). / as a representative of.
 
+deficiency -> a lack or shortage.
+
 alleviate -> make (suffering, deficiency, or a problem) less severe. / to make easier to endure.
 
 relieve -> to ease or alleviate (pain, distress, anxiety, need, etc.).
@@ -1470,7 +1470,9 @@ eloquently -> in a fluent or persuasive manner. / in a way that gives a strong, 
 
 distorted -> pulled into or appearing as a strange or unnatural shape, false or wrong
 
-intrinsic -> belonging naturally; essential. / being an extremely important and basic characteristic of a person or thing. 
+intrinsic -> belonging naturally; essential. / being an extremely important and basic characteristic of a person or thing.
+
+extrinsic -> coming from external factors rather than from within.
 
 evolve -> to develop gradually, or to cause something or someone to develop gradually
 
@@ -1541,7 +1543,6 @@ demographics -> statistical data relating to the population and particular group
 propositions -> a suggested scheme or plan of action, especially in a business context.
 
 harness -> control and make use of (natural resources), especially to produce energy. / a set of straps and fittings by which a horse or other draft animal is fastened to a cart, plow, etc. and is controlled by its driver.
-
 
 distinction -> a difference or contrast between similar things or people.
 
@@ -1969,6 +1970,8 @@ consent -> permission for something to happen or agreement to do something.
 
 contraception -> techniques to prevent pregnancy
 
+conduce -> help to bring about (a particular situation or outcome).
+
 conducive -> making a certain situation or outcome likely or possible.
 
 hygiene -> conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
@@ -2133,8 +2136,6 @@ indulge -> allow oneself to enjoy the pleasure of.
 
 hedonistic -> engaged in the pursuit of pleasure; sensually self-indulgent.
 
-alleviate -> make (suffering, deficiency, or a problem) less severe.
-
 literacy -> the ability to read and write.
 
 psychoactive -> (chiefly of a drug) affecting the mind
@@ -2207,7 +2208,7 @@ siesta -> an afternoon rest or nap, especially one taken during the hottest hour
 
 scramble -> a difficult or hurried clamber up or over something.
 
-intervene -> come between so as to prevent or alter a result or course of events.
+intervene -> take part in something so as to prevent or alter a result or course of events.
 
 interfere -> take part or intervene in an activity without invitation or necessity.
 
@@ -2797,8 +2798,6 @@ incur -> become subject to (something unwelcome or unpleasant) as a result of on
 
 confiscate -> take or seize (someone's property) with authority.
 
-hygiene -> conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.
-
 excrement -> waste matter discharged from the bowels; feces.
 
 conduit -> a channel for conveying water or other fluid.
@@ -2838,6 +2837,8 @@ coalition -> an alliance for combined action, especially a temporary alliance of
 pristine -> in its original condition; unspoiled.
 
 disposition -> a person's inherent qualities of mind and character.
+
+predisposition -> a natural tendency to think, feel, or behave in a particular way.
 
 inclination -> a person's natural tendency or urge to act or feel in a particular way; a disposition or propensity.
 
@@ -3506,8 +3507,6 @@ whisper -> speak very softly using one's breath without one's vocal cords, espec
 hardened -> having become or been made hard or harder.
 
 scorn -> the feeling or belief that someone or something is worthless.
-
-contempt -> the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn.
 
 sarcasm -> the use of irony to mock or convey contempt.
 
@@ -4225,6 +4224,8 @@ apprehension -> anxiety or fear that something bad or unpleasant will happen.
 
 mystic -> a person who seeks by contemplation and self-surrender to obtain unity with or absorption into the Deity or the absolute, or who believes in the spiritual apprehension of truths that are beyond the intellect.
 
+indiscriminate -> done at random or without careful judgement.
+
 orgy -> a wild party characterized by excessive drinking and indiscriminate sexual activity.
 
 squirt -> cause (a liquid) to be ejected from a small opening in a thin, fast stream or jet.
@@ -4664,6 +4665,8 @@ guerrilla -> a member of a small independent group taking part in irregular figh
 
 erosion -> the process of eroding or being eroded by wind, water, or other natural agents.
 
+nourish -> provide with the food or other substances necessary for growth, health, and good condition.
+
 nourishment -> the food or other substances necessary for growth, health, and good condition.
 
 nutrient -> a substance that provides nourishment essential for growth and the maintenance of life.
@@ -4870,7 +4873,7 @@ vehement -> showing strong feeling; forceful, passionate, or intense.
 
 extol -> praise enthusiastically.
 
-virtues -> behavior showing high moral standards.
+virtue -> behavior showing high moral standards.
 
 proponent -> a person who advocates a theory, proposal, or project.
 
@@ -4881,6 +4884,8 @@ vertigo -> a sensation of whirling and loss of balance, associated particularly 
 insinuate -> suggest or hint (something bad or reprehensible) in an indirect and unpleasant way.
 
 boredom -> the state of feeling bored.
+
+collate -> collect and combine (texts, information, or data).
 
 collateral -> something pledged as security for repayment of a loan, to be forfeited in the event of a default.
 
@@ -5222,8 +5227,6 @@ put something off -> delay, procrastinate.
 
 fanatic -> a person filled with excessive and single-minded zeal, especially for an extreme religious or political cause.
 
-setback -> a reversal or check in progress.
-
 co-opt -> appoint to membership of a committee or other body by invitation of the existing members.
 
 corroborate -> confirm or give support to (a statement, theory, or finding).
@@ -5295,6 +5298,8 @@ stationery -> writing and other office materials.
 humid -> marked by a relatively high level of water vapor in the atmosphere.
 
 clerk -> a person employed in an office or bank to keep records, accounts, and undertake other routine administrative duties.
+
+fort -> a fortified building or strategic position.
 
 fortify -> provide (a place) with defensive works as protection against attack.
 
@@ -5512,9 +5517,7 @@ statute -> a written law passed by a legislative body.
 
 statutory -> required, permitted, or enacted by statute.
 
-conducive -> making a certain situation or outcome likely or possible.
-
-hygienic -> conducive to maintaining health and preventing disease, especially by being clean; sanitary.
+offender -> a person who commits an illegal act.
 
 probation -> the release of an offender from detention, subject to a period of good behavior under supervision.
 
@@ -5581,3 +5584,81 @@ reinvigorate -> give something renewed energy, strength, or interest.
 avid -> having or showing a keen interest in or enthusiasm for something.
 
 ransom -> a sum of money demanded or paid for the release of a captive.
+
+demise -> the end or collapse of something, especially an organization, system, or society.
+
+despair -> the complete loss or absence of hope.
+
+flawed -> having or characterized by a fundamental weakness or imperfection.
+
+babble -> talk rapidly and continuously in a foolish, excited, or incomprehensible way.
+
+uncover -> discover something previously unknown or hidden.
+
+envisage -> contemplate or conceive of as a possibility or a desirable future event.
+
+germinate -> (of a seed or spore) begin to grow and put out shoots after a period of dormancy.
+
+lucid -> clear and easy to understand.
+
+arresting -> striking; eye-catching.
+
+malady -> an illness or, figuratively, a serious problem in society.
+
+pedigree -> the origin, history, or background of something.
+
+unforgeable -> impossible or extremely difficult to copy or fake convincingly.
+
+degradation -> the process of becoming worse in quality or condition.
+
+propulsion -> the force or system that moves something forward.
+
+laden -> heavily loaded or weighed down.
+
+miscellaneous -> (of items or people gathered or considered together) of various types or from different sources.
+
+delineate -> describe or portray (something) precisely.
+
+self-evident -> not needing to be demonstrated or explained; obvious.
+
+patently -> clearly; without doubt.
+
+illiterate -> unable to read or write.
+
+entirety -> the whole of something.
+
+reductive -> tending to present a subject or problem in a simplified form, especially one viewed as crude.
+
+get a pounding -> to experience a lot of physical impact, pressure, or strain.
+
+dichotomy -> a division or contrast between two things that are, or are represented as being, opposed or entirely different.
+
+activist -> someone who campaigns for political or social change.
+
+unanimously -> without opposition; with the agreement of all people involved.
+
+vandalism -> action involving deliberate destruction of or damage to public or private property.
+
+get off the ground -> begin successfully or start making progress.
+
+repercussion -> an unintended consequence of an event or action, especially an unwelcome one.
+
+pretense -> an attempt to make something that is not the case appear true.
+
+curtail -> reduce in extent or quantity; impose a restriction on.
+
+undertake -> begin or carry out a task, activity, or responsibility.
+
+vanity -> excessive pride in or admiration of one's own appearance or achievements.
+
+lenient -> (of a punishment or person in authority) more merciful or tolerant than expected.
+
+stimulus -> stimuli. / a thing or event that evokes a specific functional reaction in an organ or tissue.
+
+sensitize -> cause (someone or something) to respond to certain stimuli; make sensitive.
+
+bottleneck -> a point in a process that slows down the entire system.
+
+venerate -> regard someone or something with great respect, sometimes excessively.
+
+ventilation -> the provision of fresh air to a room, building, etc.
