@@ -28,7 +28,7 @@ utility -> the state or quality of being useful; usefulness
 
 benchmark -> a standard of excellence, achievement, etc., against which similar things must be measured or judged
 
-scrap -> a small piece or amount of something, especially one that is left over after the greater part has been used.
+scrap -> discard or remove from service (a redundant, old, or inoperative vehicle, vessel, or machine), especially so as to convert it to scrap metal.
 
 scratch -> to break, mar, or mark the surface of by rubbing, scraping, or tearing with something sharp or rough
 
@@ -470,7 +470,9 @@ deceptively -> in a way that tends to mislead or give a false impression
 
 demonstrate -> clearly show the existence or truth of (something) by giving proof or evidence.
 
-explicit -> fully and clearly expressed or demonstrated; leaving nothing merely implied;
+implicit -> suggested though not directly expressed.
+
+explicit -> stated clearly and in detail, leaving no room for confusion or doubt.
 
 idle -> not working or active; unemployed; doing nothing
 
@@ -530,7 +532,7 @@ guardian -> a person who guards, protects, or preserves.
 
 district -> a division of territory, as of a country, state, or county, marked off for administrative, electoral, or other purposes / a region or locality.
 
-ward -> a division or district of a city or town, as for administrative or political purposes.
+ward -> a separate room in a hospital, typically one allocated to a particular type of patient. / a division or district of a city or town, as for administrative or political purposes.
 
 guardianship -> the position and responsibilities of a guardian, especially toward a ward.
 
@@ -538,7 +540,7 @@ custody -> keeping; guardianship; care.
 
 apprehend -> to take into custody; arrest by legal warrant or authority / understand.
 
-perceive -> to become aware of, know, or identify by means of the senses.
+perceive -> become aware or conscious of (something); come to realize or understand.
 
 cognition -> the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.
 
@@ -854,7 +856,7 @@ punchy -> being or appearing vigorously effective; forceful.
 
 surmount -> overcome (a difficulty or obstacle).
 
-contend -> struggle to surmount (a difficulty or danger).
+contend -> struggle to surmount (a difficulty or danger). / argue or maintain that something is true.
 
 aught -> anything whatever; any part.
 
@@ -3760,6 +3762,8 @@ flatter -> lavish insincere praise and compliments upon (someone), especially to
 
 vain -> having or showing an excessively high opinion of one's appearance, abilities, or worth.
 
+intestine -> https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Digestive_system_diagram_en.svg/960px-Digestive_system_diagram_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+
 guts -> the internal organs in your belly (stomach, intestines, etc.). / having the nerve to do something risky.
 
 heed -> pay attention to; take notice of.
@@ -5245,7 +5249,7 @@ fuzzy -> difficult to perceive; indistinct or vague.
 
 doodle -> scribble absentmindedly.
 
-meticulously -> in a way that shows great attention to detail; very thoroughly.
+meticulous -> showing great attention to detail; very careful and precise.
 
 extraterrestrial -> a hypothetical or fictional being from outer space, especially an intelligent one.
 
@@ -5479,6 +5483,8 @@ cadet -> a young trainee in the armed services or police force.
 
 liaise -> establish a working relationship, typically in order to cooperate on a matter of mutual concern.
 
+rehearse -> practice (a play, piece of music, or other work) for later public performance.
+
 rehearsal -> a practice or trial performance of a play or other work for later public performance.
 
 playwright -> a person who writes plays.
@@ -5619,7 +5625,71 @@ miscellaneous -> (of items or people gathered or considered together) of various
 
 delineate -> describe or portray (something) precisely.
 
-self-evident -> not needing to be demonstrated or explained; obvious.
+self-evideAs you all know, the university is planning an arts festival for later this year, and here in the music department we've planned three concerts.
+
+These will be public performances, and the programme has just been finalised.
+
+The theme of the festival is links between the UK and Australia, and this is reflected in the music: each concert will feature both British and Australian composers.
+
+I'll tell you briefly about the Australian music, as you probably won't be familiar with that.
+
+The first concert will include music by Liza Lim, who was born in Perth, Western Australia, in 1966.
+
+As a child, Lim originally learned to play the piano-like so many children and also the violin, but when she was 11 her teachers encouraged her to start composing.
+
+She found this was her real strength, and she studied and later taught composition, both in Australia and in other countries.
+
+As a composer, she has received commissions from numerous orchestras, other performers and festivals in several countries.
+
+Liza Lim's compositions are vibrant and full of energy, and she often explores Asian and Australian Aboriginal cultural sources, including the native instrument, the didgeridoo: this is featured in a work called The Compass.
+
+Her music is very expressive, so although it is complex, it has the power of connecting with audiences and performers alike.
+
+In the festival we're going to give a semi-staged performance of The Oresteia.
+
+This is an opera in seven parts, based on the trilogy of ancient Greek tragedies by Aeschylus.
+
+Lim composed this when she was in her mid-20s, and she also wrote the text, along with Barrie Kosky.
+
+It's performed by six singers, a dancer, and an orchestra that, as well as standard orchestral instruments, includes electric guitar, and a traditional Turkish stringed instrument.
+
+Lim wrote that because the stories in the tragedies are not easy to tell, the sounds she creates are also disturbing, and they include breathing, sobbing, laughing and whistling.
+
+The work lasts around 75 minutes, and the rest of the concert will consist of orchestral works by the British composers Ralph Vaughan Williams and Frederick Delius.
+
+Moving on now to our second concert, this will begin with instrumental music by British composers Benjamin Britten and Judith Weir.
+
+After the interval, we'll go to Australia for a piece by Ross Edwards - tower of remoteness.
+
+According to Edwards, the inspiration for this piece came from nature, when he was sitting alone in the dry bed of a creek, overshadowed by the leaves of palm trees, listening to the birds and insects.
+
+The Tower of Remoteness is scored for piano and clarinet.
+
+Edwards says he realised years after writing the piece that he had subconsciously modelled its opening phrase on a bird call.
+
+Ross Edwards was born in 1943 in Sydney, Australia, and studied at the Sydney Conservatorium of Music and the universities of Adelaide and Sydney.
+
+He's well known in Australia, and in fact he's one of the country's most performed composers.
+
+He's written a wide range of music, from symphonies and concertos to some composed specifically for children.
+
+Edwards's music has been described as being 'deeply connected to Australia', and it can be regarded as a celebration of the diversity of cultures that Australia can be proud of.
+
+The last of the three Australian composers to be represented in our festival is Carl Vine.
+
+Born in 1954, Vine, like Liza Lim, comes from Perth, Western Australia.
+
+He took up the cornet at the age of five, switching to the piano five years later.
+
+However, he went to university to study physics, before changing to composition.
+
+After graduating he moved to Sydney and worked as a freelance pianist and composer.
+
+Before long he had become prominent in Australia as a composer for dance, and in fact has written 25 scores of that type.
+
+In our third concert, Vine will be represented by his music for the flag hand-over ceremony of the Olympics held in 1996.
+
+This seven-minute orchestral piece was of course heard by millions of people worldwide, and we'll hear it alongside works written by British composers Edward Elgar and, more recently, Thomas Adès.nt -> not needing to be demonstrated or explained; obvious.
 
 patently -> clearly; without doubt.
 
@@ -5662,3 +5732,27 @@ bottleneck -> a point in a process that slows down the entire system.
 venerate -> regard someone or something with great respect, sometimes excessively.
 
 ventilation -> the provision of fresh air to a room, building, etc.
+
+squander -> waste something valuable, such as time, money, or energy.
+
+airborne -> transported by air.
+
+lament -> express sadness or regret about something.
+
+sweat the small stuff -> worry about trivial things.
+
+extant -> still in existence; surviving.
+
+supplementation -> the act of adding something to improve or complete what already exists.
+
+elucidate -> to make something clearer or easier to understand.
+
+supposition -> a belief held without proof or certain knowledge; an assumption or hypothesis.
+
+therapeutic -> relating to the healing of disease.
+
+secrete -> (of a cell, gland, or organ) produce and discharge (a substance).
+
+subdue -> to bring something under control or make it less powerful.
+
+pathogenic -> capable of causing disease.
