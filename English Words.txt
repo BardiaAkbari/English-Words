@@ -476,7 +476,7 @@ implicit -> suggested though not directly expressed.
 
 explicit -> stated clearly and in detail, leaving no room for confusion or doubt.
 
-idle -> not working or active; unemployed; doing nothing
+idle -> (of a person) avoiding work; lazy. / not working or active; unemployed; doing nothing.
 
 increment -> something added or gained; addition; increase
 
@@ -484,7 +484,7 @@ instruct -> direct or command someone to do something, especially as an official
 
 direct -> to manage or guide by advice, helpful information, instruction, etc.
 
-ordain -> to enact or establish by law, edict, etc.
+ordain -> to enact or establish by law, edict, etc
 
 authoritative -> able to be trusted as being accurate or true; reliable.
 
@@ -1026,15 +1026,15 @@ missile -> an object or weapon for throwing, hurling, or shooting, as a stone, b
 
 squeeze -> to press forcibly together; compress.
 
-obstacle -> barrier
+obstacle -> a thing that blocks one's way or prevents or hinders progress.
 
-obstruct -> to block or close up with an obstacle; make difficult to pass
+obstruct -> block (an opening, path, road, etc.); be or get in the way of.
 
 stifle -> make (someone) unable to breathe properly; suffocate.
 
-choke -> to stop the breath of by squeezing or obstructing the windpipe; strangle; stifle
+choke -> (of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.
 
-defy -> to challenge the power of; resist boldly or openly
+defy -> openly resist or refuse to obey.
 
 vow -> solemnly promise to do a specified thing. / oath. / promise.
 
@@ -5706,3 +5706,17 @@ cardiovascular -> relating to the heart and blood vessels.
 knock-on -> an indirect or additional effect caused by an initial event or action, often leading to further consequences.
 
 keep someone alert -> to help someone stay awake, attentive, focused, and mentally active, especially when they might otherwise become tired or lose concentration.
+
+sedentary -> (of a person) tending to spend much time seated; somewhat inactive.
+
+pedantic -> excessively concerned with minor details or rules; overscrupulous.
+
+cutlery -> knives, forks, and spoons used for eating or serving food.
+
+debris -> scattered pieces of rubbish or remains.
+
+senescence -> the condition or process of deterioration with age.
+
+prefabricated -> (of a building or piece of furniture) manufactured in sections to enable assembly on site.
+
+cellar -> a room below ground level in a house, typically one used for storing wine or coal.
