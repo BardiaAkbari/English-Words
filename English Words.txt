@@ -2224,6 +2224,8 @@ summit -> the highest point of a hill or mountain.
 
 ridge -> a long narrow hilltop, mountain range, or watershed.
 
+upset -> make (someone) unhappy, disappointed, or worried. / an unexpected result or situation.
+
 frustration -> the feeling of being upset or annoyed, especially because of inability to change or achieve something.
 
 seduce -> entice (someone) into sexual activity.
@@ -2923,6 +2925,8 @@ apparatus -> the technical equipment or machinery needed for a particular activi
 dilate -> make or become wider, larger, or more open.
 
 incidence -> the occurrence, rate, or frequency of a disease, crime, or something else undesirable.
+
+coincide -> occur at the same time.
 
 coincidence -> a remarkable concurrence of events or circumstances without apparent causal connection.
 
@@ -5113,6 +5117,8 @@ dismissive -> feeling or showing that something is unworthy of consideration.
 
 chronological -> (of a record of events) starting with the earliest and following the order in which they occurred.
 
+preserve -> 
+
 additive -> a substance added to something in small quantities to improve or preserve it.
 
 repel -> drive or force (an attack or attacker) back or away.
@@ -5720,3 +5726,31 @@ senescence -> the condition or process of deterioration with age.
 prefabricated -> (of a building or piece of furniture) manufactured in sections to enable assembly on site.
 
 cellar -> a room below ground level in a house, typically one used for storing wine or coal.
+
+age-defying -> appearing or remaining unaffected by the usual effects of aging.
+
+ostracism -> the act of excluding someone from a group or refusing to accept them.
+
+anaesthetic -> a substance that induces insensitivity to pain.
+
+dismal -> very bad, depressing, or disappointing.
+
+interrogate -> ask questions of (someone) closely, aggressively, or formally.
+
+set out to do something -> begin something with a particular purpose.
+
+sprain -> wrench or twist the ligaments of (an ankle, wrist, or other joint) violently so as to cause pain and swelling but not dislocation.
+
+outlook -> a person's point of view or general attitude to life.
+
+perfidious -> deceitful and untrustworthy.
+
+yawn -> involuntarily open one's mouth wide and inhale deeply, typically on account of tiredness or boredom.
+
+infringement -> the action of breaking the terms of a law, agreement, etc.; violation.
+
+clamp -> fasten (something) in place with a clamp. / a brace, band, or clasp for strengthening or holding things together.
+
+ransack -> go through (a place) stealing things and causing damage.
+
+sweat the small stuff -> worry about trivial things.
