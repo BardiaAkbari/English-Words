@@ -284,6 +284,8 @@ reluctance -> unwillingness.
 
 linger -> stay in a place longer than necessary because of a reluctance to leave.
 
+lingering -> lasting for a long time or slow to end.
+
 hover -> to keep lingering about; wait near at hand
 
 flap -> to swing or sway back and forth loosely, especially with noise
@@ -328,7 +330,7 @@ dispose -> bring (someone) into a particular frame of mind.
 
 disposal -> the action or process of getting rid of something. / access.
 
-incline -> feel willing or favorably disposed toward (an action, belief, or attitude). / leaning or turning away from the vertical or horizontal; sloping.
+incline -> be favorably disposed towards or willing to do something. / leaning or turning away from the vertical or horizontal; sloping.
 
 tend -> to be disposed or inclined in action, operation, or effect to do something.
 
@@ -436,7 +438,7 @@ allegiance -> loyalty or commitment of a subordinate to a superior or of an indi
 
 pursuit -> the action of following or pursuing someone or something.
 
-devote -> to give up or appropriate to or concentrate on a particular pursuit, occupation, purpose, cause, etc.
+devote -> give all or most of one's time or resources to (a person or activity).
 
 adhere -> to stay attached; stick fast; cleave; cling (usually followed by to ), to be devoted in support or allegiance; be attached as a follower or upholder (usually followed by to )
 
@@ -1266,7 +1268,9 @@ affiliate -> officially attach or connect (a subsidiary group or a person) to an
 
 infrastructure -> the basic, underlying framework or features of a system or organization.
 
-tedious -> too long, slow, or dull.
+monotonous -> dull, tedious, and repetitious; lacking in variety and interest.
+
+tedious -> too long, slow, or dull; tiresome or monotonous.
 
 proficient -> very good at doing something especially through practice.
 
@@ -1968,7 +1972,8 @@ stubborn -> difficult to move, remove, or cure.
 
 gangbuster -> very successful.
 
-stagnant -> showing no activity; dull and sluggish.
+stagnant -> (of a body of water or the atmosphere of a confined space) having no current or flow and often having an unpleasant smell as a consequence.
+
 
 consent -> permission for something to happen or agreement to do something.
 
@@ -2380,7 +2385,7 @@ article -> a particular item or object.
 
 keenly -> intensely.
 
-ominous -> giving the impression that something bad or unpleasant is going to happen
+ominous -> giving the impression that something bad or unpleasant is going to happen.
 
 looming -> (of an event) seemingly about to happen and regarded as ominous or worrying.
 
@@ -2953,6 +2958,8 @@ mourn -> feel or show deep sorrow or regret for (someone or their death), typica
 interim -> temporary period or something that is temporary before a final version.
 
 stiff -> not easily bent or changed in shape; rigid.
+
+staggered -> arranged in a way that is not simultaneous or not aligned; occurring at different stages.
 
 stagger -> walk or move unsteadily, as if about to fall.
 
@@ -4607,6 +4614,8 @@ deprive -> deny (a person or place) the possession or use of something.
 
 disarmament -> the reduction or withdrawal of military forces and weapons.
 
+restless -> unable to rest or relax as a result of anxiety or boredom.
+
 prowl -> (of a person or animal) move around restlessly and stealthily, especially in search of or as if in search of prey.
 
 wilderness -> an uncultivated, uninhabited, and inhospitable region.
@@ -4885,8 +4894,6 @@ extol -> praise enthusiastically.
 
 virtue -> behavior showing high moral standards.
 
-proponent -> a person who advocates a theory, proposal, or project.
-
 perturbation -> a deviation of a system, moving object, or process from its regular or normal state or path, caused by an outside influence.
 
 vertigo -> a sensation of whirling and loss of balance, associated particularly with looking down from a great height, or caused by disease affecting the inner ear or the vestibular nerve; giddiness.
@@ -5140,6 +5147,8 @@ deposit -> put or set down (something or someone) in a specific place, typically
 algae -> https://upload.wikimedia.org/wikipedia/commons/0/03/NSW_seabed_1.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original
 
 replenish -> fill (something) up again.
+
+replenishment -> restoration of a stock or supply to a former level or condition.
 
 scrutinize -> examine or inspect closely and thoroughly.
 
@@ -5754,3 +5763,85 @@ clamp -> fasten (something) in place with a clamp. / a brace, band, or clasp for
 ransack -> go through (a place) stealing things and causing damage.
 
 sweat the small stuff -> worry about trivial things.
+
+fidget -> make small movements, especially of the hands and feet, through nervousness or impatience.
+
+kinesthetic - > Related to physical movement and the sense of body position.
+
+commensurate -> corresponding in size or degree; in proportion.
+
+dire -> extremely serious or urgent.
+
+inordinate -> unusually or disproportionately large; excessive.
+
+boon -> a thing that is helpful or beneficial.
+
+epicenter -> the central or most important place of something.
+
+preponderance -> the quality or fact of being greater in number, quantity, or importance.
+
+promenade -> a paved public walk, typically one along the seafront at a resort.
+
+resent -> feel bitterness or indignation at (a circumstance, action, or person).
+
+envy -> a feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.
+
+amicably -> in a friendly and peaceable manner.
+
+disinfectant -> a chemical liquid that destroys bacteria.
+
+questing -> having a strong desire to search for or discover something.
+
+delve into -> to examine or investigate something deeply.
+
+puny -> very small or weak, especially compared with something much larger.
+
+scarcely -> almost not; only to a very small degree.
+
+take away from something -> reduce the importance, value or effect of something.
+
+uproot -> to pull a plant out of the ground, including its roots; figuratively, to remove something completely.
+
+be locked out of the market -> be prevented from participating in a particular market.
+
+petition -> a formal written request, typically one signed by many people, appealing to authority in respect of a particular cause.
+
+choreography -> the sequence of steps and movements in dance or figure skating, especially in a ballet or other staged dance.
+
+improvise -> create or perform something without preparing it in advance.
+
+carriageway -> one side or section of a road used by traffic travelling in a particular direction.
+
+ostensibly -> apparently or supposedly, although the real reason may be different.
+
+debilitate -> make (someone) very weak and infirm.
+
+carnivore -> an animal that feeds on other animals.
+
+stagnant -> not developing, growing or changing; inactive.
+
+thaw -> (of ice, snow, or another frozen substance, such as food) become liquid or soft as a result of warming up.
+
+permafrost -> ground that remains permanently frozen for at least two consecutive years.
+
+amenity -> a desirable or useful feature or facility of a building or place.
+
+manslaughter -> killing sb illegally but not deliberately.
+
+dishonest -> behaving or prone to behave in an untrustworthy, deceitful, or insincere way.
+
+blackmail -> demanding money from a person by threatening to tell sb else a secret about them.
+
+patronize -> treat in a way that is apparently kind or helpful but that betrays a feeling of superiority.
+
+condescend -> show that one feels superior; be patronizing.
+
+filth -> disgusting dirt.
+
+aqueduct -> an artificial channel for conveying water, typically in the form of a bridge across a valley or other gap.
+
+anointed -> nominated or chosen as successor to or leading candidate for a position.
+
+livable -> (of an environment or climate) fit to live in. / habitable.
+
+slum -> a squalid and overcrowded urban street or district inhabited by very poor people.
