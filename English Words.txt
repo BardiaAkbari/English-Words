@@ -5845,3 +5845,6 @@ anointed -> nominated or chosen as successor to or leading candidate for a posit
 livable -> (of an environment or climate) fit to live in. / habitable.
 
 slum -> a squalid and overcrowded urban street or district inhabited by very poor people.
+
+plate-glass -> thick fine-quality glass, typically used for shop windows and doors and originally cast in plates.
+
