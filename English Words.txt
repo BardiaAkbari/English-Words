@@ -320,7 +320,7 @@ retreat -> the forced or strategic withdrawal of an army or an armed force befor
 
 shrink -> to draw back, as in retreat or avoidance
  
-variant -> not agreeing or conforming; differing, especially from something of the same general kind
+variant -> a form or version of something that differs in some respect from other forms of the same thing or from a standard.
 
 irresistible -> not resistible; incapable of being resisted or withstood
 
@@ -952,6 +952,8 @@ prolonged -> lasting a long time; lengthy.
 
 controversy -> a prolonged public dispute, debate, or contention; disputation concerning a matter of opinion.
 
+administer -> manage and be responsible for the running of (a business, organization, etc.).
+
 jurisdiction -> the right, power, or authority to administer justice by hearing and determining controversies.
 
 anticipate -> to realize beforehand; foretaste or foresee, to expect; look forward to; be sure of / regard as probable; expect or predict.
@@ -1002,6 +1004,8 @@ sentiment -> an attitude toward something; regard; opinion.
 
 endurance -> the ability or strength to continue or last, especially despite fatigue, stress, or other adverse conditions; stamina
 
+enduring -> continuing to exist or remain popular for a long time.
+
 tolerance -> the act or capacity of enduring; endurance
 
 provident -> having or showing foresight; providing carefully for the future.
@@ -1015,6 +1019,8 @@ keen -> finely sharpened, as an edge; so shaped as to cut or pierce substances r
 discreet -> careful, reasonable.
 
 sagacious -> having or showing acute mental discernment and keen practical sense; shrewd.
+
+distaste -> mild dislike or aversion.
 
 objectionable -> arousing distaste or opposition; unpleasant or offensive.
 
@@ -1152,7 +1158,7 @@ helm -> the place or post of control
 
 slack -> not tight, firm, or tense
 
-relentless -> not easing or slackening; maintaining speed, vigor, etc. / oppressively constant; incessant.
+relentless -> oppressively constant; incessant. / not easing or slackening; maintaining speed, vigor, etc.
 
 exhaustive -> examining, including, or considering all elements or aspects; fully comprehensive.
 
@@ -1964,6 +1970,8 @@ culminate -> reach a climax or point of highest development.
 
 acutely -> (with reference to something unpleasant or unwelcome) intensely.
 
+pension -> a regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life.
+
 pensione -> a small hotel or boarding house in Italy.
 
 affectionate -> readily feeling or showing fondness or tenderness.
@@ -2317,7 +2325,7 @@ caution -> care taken to avoid danger or mistakes.
 
 intriguing -> arousing one's curiosity or interest; fascinating.
 
-preempt -> take action in order to prevent (an anticipated event) from happening; forestall.
+pre-empt -> take action in order to prevent (an anticipated event) from happening; forestall.
 
 viscosity -> the state of being thick, sticky, and semifluid in consistency, due to internal friction.
 
@@ -2870,8 +2878,6 @@ retaliate -> make an attack or assault in return for a similar attack.
 infinitesimal -> extremely small.
 
 excavate -> make (a hole or channel) by digging.
-
-archeology -> the study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.
 
 precious -> (of an object, substance, or resource) of great value; not to be wasted or treated carelessly.
 
@@ -4610,7 +4616,7 @@ penalize -> subject to some form of punishment.
 
 contingent -> subject to chance.
 
-deprive -> deny (a person or place) the possession or use of something.
+deprive -> prevent (a person or place) from having or using something. / deny (a person or place) the possession or use of something.
 
 disarmament -> the reduction or withdrawal of military forces and weapons.
 
@@ -4694,7 +4700,7 @@ terrestrial -> of, on, or relating to the earth.
 
 artefact -> an object made or modified by a human being, typically one of cultural or historical interest.
 
-archeology -> the study of human history and prehistory through the excavation of sites and the analysis of artefacts and other physical remains.
+archaeology -> the study of human history and prehistory through the excavation of sites and the analysis of artefacts and other physical remains.
 
 hyperbolically -> of, relating to, or marked by language that exaggerates or overstates the truth.
 
@@ -5540,6 +5546,10 @@ statute -> a written law passed by a legislative body.
 
 statutory -> required, permitted, or enacted by statute.
 
+offend -> to make someone feel upset or morally uncomfortable.
+
+fidu
+
 offender -> a person who commits an illegal act.
 
 probation -> the release of an offender from detention, subject to a period of good behavior under supervision.
@@ -5847,4 +5857,100 @@ livable -> (of an environment or climate) fit to live in. / habitable.
 slum -> a squalid and overcrowded urban street or district inhabited by very poor people.
 
 plate-glass -> thick fine-quality glass, typically used for shop windows and doors and originally cast in plates.
+
+cautionary -> intended to warn people about possible dangers or mistakes.
+
+anthropology -> the study of human societies and cultures and their development.
+
+phylogenetic -> relating to the evolutionary development and diversification of a species or group of organisms, or of a particular feature of an organism.
+
+gruesome -> extremely unpleasant, horrifying or involving violence and blood.
+
+perennial -> lasting or existing for a long or apparently infinite time; enduring or continually recurring.
+
+resilience -> the capacity to withstand or to recover quickly from difficulties; toughness.
+
+seek out something -> deliberately look for or try to find something.
+
+defraud -> illegally obtain money from (someone) by deception.
+
+folklore -> the traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth.
+
+desalination -> The process of removing salt from seawater or other salty water.
+
+installment -> one of a series of equal payments made at regular intervals over an agreed period to pay for something.
+
+outright -> completely and immediately, rather than through instalments.
+
+menace -> a threat or something that creates a feeling of danger.
+
+acclaim -> public praise and recognition.
+
+quota -> a fixed share of something that a person or group is entitled to receive or is bound to contribute.
+
+nasal -> of, for, or relating to the nose.
+
+trustee -> an individual person or member of a board given control or powers of administration of property in trust with a legal obligation to administer it solely for the purposes specified.
+
+elusive -> difficult to find, catch, or achieve.
+
+demeanor -> outward behavior or bearing.
+
+whim -> a sudden desire or change of mind, especially one that is unusual or unexplained.
+
+fiduciary -> relating to the legal responsibility to act in another party's best interests.
+
+plummet -> to fall suddenly and significantly.
+
+outrage -> strong anger caused by something considered unacceptable.
+
+ravine -> a deep, narrow valley with steep sides, usually formed by water erosion.
+
+dwindling -> gradually diminishing in size, amount, or strength.
+
+shepherd -> a person who tends and rears sheep.
+
+impecunious -> having little or no money.
+
+prejudice -> preconceived opinion that is not based on reason or actual experience.
+
+resuscitation -> the process of bringing something back to life or restoring it.
+
+counteract -> act against (something) in order to reduce its force or neutralize it.
+
+reinstate -> restore (someone or something) to their former position or state.
+
+idol -> a person or thing that is greatly admired, loved, or revered.
+
+to hail someone -> to praise, admire, or celebrate someone.
+
+masquerade -> a false show or pretense.
+
+charm -> the power or quality of delighting, attracting, or fascinating others.
+
+dislodge -> knock or force out of position.
+
+anecdotal -> (of an account) not necessarily true or reliable, because based on personal accounts rather than facts or research.
+
+majestic -> having or showing impressive beauty or scale.
+
+trench -> a long, narrow ditch.
+
+vault -> a roof in the form of an arch or a series of arches, typical of churches and other large, formal buildings.
+
+tomb -> a large vault, typically an underground one, for burying the dead.
+
+intercity -> existing or traveling between cities.
+
+apocalyptic -> describing an extremely destructive or catastrophic situation.
+
+astounding -> surprisingly impressive or notable.
+
+trajectory -> the direction or pattern in which something develops.
+
+assume -> suppose to be the case, without proof. / take or begin to have (power or responsibility).
+
+creep into -> gradually begin to appear or become noticeable in something.
+
+a call to arms -> an urgent appeal for people to take action.
 
